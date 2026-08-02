@@ -166,9 +166,5 @@
   "Data/Map/Map/Map1/123456789.img": {
     "Hash": "8fe04cc3e198b86f6626fdeb45ca4c1d67cf6e044cf9bd3eb2a3cc9574ef02c1",
     "Size": 72773
-  },
-  "Data/Map/Map/Map1/desktop.ini": {
-    "Hash": "af0d193fc1e673aae791ea2d0d29b03b2176e333063b5e30beaade9269b21f70",
-    "Size": 54
   }
 }
