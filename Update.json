@@ -15,9 +15,77 @@
     "Hash": "1be1e2446400dbaa362304ac4f08aafe1dc956898839bddc5b51db36e2f8d298",
     "Size": 1144
   },
+  "Data/Etc/BlockReason.img": {
+    "Hash": "aa1feee40520d68d7c7d08e6eb5058da03d2d66dc08081d6377216ed2b6f495c",
+    "Size": 1684
+  },
+  "Data/Etc/CashPackage.img": {
+    "Hash": "c5c37f33172acb4ff4dece45bdb1523060323f8fe49160e2555daa49a65c268d",
+    "Size": 18055
+  },
+  "Data/Etc/Category.img": {
+    "Hash": "22273b834d7cf68b8e8e9d21cdc42b53c8ba1b20b97693330b5b0f6306ad0f44",
+    "Size": 1244
+  },
+  "Data/Etc/ChatBlockReason.img": {
+    "Hash": "a4f5ac4172c62f1af1e6bf37caeb10f66b5f9f4aa943b5238980c9c38805af6e",
+    "Size": 765
+  },
+  "Data/Etc/Commodity.img": {
+    "Hash": "69d97e76f0dce264a7a331003224bccd5316a682d0c3a5a0acecdc11aa8141ba",
+    "Size": 654890
+  },
+  "Data/Etc/Curse.img": {
+    "Hash": "ba069375dd943577342c75217e88f701aa15b7dd3f90097925ed2b2a70d4d2fd",
+    "Size": 15079
+  },
+  "Data/Etc/EmotionEffect.img": {
+    "Hash": "39804acdde96e83152483efbb3ca86cdb78591d7319189174b47231c845f9c4a",
+    "Size": 3003
+  },
+  "Data/Etc/ForbiddenName.img": {
+    "Hash": "08789b6bd5bfa3379a569231302adceed52782d8ce970cc559ee1952cc78602e",
+    "Size": 6159
+  },
   "Data/Etc/ItemMake.img": {
     "Hash": "406490ce9f79abcbf5409e8459d41b32395d3739097d0a2dd196b97e3466aee5",
     "Size": 148605
+  },
+  "Data/Etc/MakeCharInfo.img": {
+    "Hash": "0938ea2f25242fd66d2301030a516128fe4091f2b135ddf30ec5239ee233009c",
+    "Size": 1173
+  },
+  "Data/Etc/NpcLocation.img": {
+    "Hash": "a48d40f2b67bc2aff6bcd998ce872d4d7a686ed1de346622a8f97bb17a28db55",
+    "Size": 47358
+  },
+  "Data/Etc/OXQuiz.img": {
+    "Hash": "742de77b9bac203af2a5a47d61a05ebc8749830d3a3df1ea859f6c19731a1cc4",
+    "Size": 52022
+  },
+  "Data/Etc/QuestCategory.img": {
+    "Hash": "1f6b0a7803ef124a59866781b637aee43a99a64c5a09ace006539bde59dd6fca",
+    "Size": 639
+  },
+  "Data/Etc/RecommendSkill.img": {
+    "Hash": "fd71c8cf41b6ae12620de26166d7ac4a4db2191c41b63f0cff964e11060f3af5",
+    "Size": 429
+  },
+  "Data/Etc/ScanBlock.img": {
+    "Hash": "3af74a9a49919ebadfd9c621dc971079aacedf75781a88f28b2332ab5abab54a",
+    "Size": 10942
+  },
+  "Data/Etc/ScriptInfo.img": {
+    "Hash": "93a1de7cf24b1c2f38afc4e6bd8f15cf93df3047fd1e98b6be0025d74339aec8",
+    "Size": 7171
+  },
+  "Data/Etc/Swindle.img": {
+    "Hash": "d397aa5c2228fcd702f13ff57c6c7cbd4ccd38358140f9c878b051704ed36ead",
+    "Size": 864
+  },
+  "Data/Etc/Tips.img": {
+    "Hash": "ed98f34830d782891fd356b21e37b7ff969818f5a40e270f357cf64ce6b6a61e",
+    "Size": 13476
   },
   "Data/Item/Consume/0200.img": {
     "Hash": "7adee7b62d72e56aebadfb18623deb46fea8401476f87b72abfbac11b00f404c",
@@ -234,6 +302,22 @@
   "Data/String/ToolTipHelp.img": {
     "Hash": "cbaa75da94662d917df5546ac12ea23b436e30a4f544a9f3cef4c3ab7e471b54",
     "Size": 81050
+  },
+  "Data/TamingMob/0001.img": {
+    "Hash": "787756dfa0dc86692031f6609a2f8cceb156923a7699f5100b0bbb3527370ed9",
+    "Size": 86
+  },
+  "Data/TamingMob/0002.img": {
+    "Hash": "b4347e833fbf35e93df85787ffdb7a21d1ff1f6ccf3674f4a524f1d2e2adcd2c",
+    "Size": 86
+  },
+  "Data/TamingMob/0003.img": {
+    "Hash": "1d1c6958b6fede23765adfe28f52d6ec77a40475937cdc5270ab02f5ae9c86fa",
+    "Size": 86
+  },
+  "Data/TamingMob/0004.img": {
+    "Hash": "4b3c016de30538477619197c7844f264efbd454ca10800f069a7c84571b21bd1",
+    "Size": 86
   },
   "Data/UI/Basic.img": {
     "Hash": "ad7a329c82cdc68e93ceb6fc94927e28d4be41aa0bec4de11545b9011060a10b",
