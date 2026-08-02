@@ -272835,6 +272835,130 @@
     "Hash": "0a6fdc48c67059e4d43a3119df7071ebb7629697d508e422e17c6efdc54ba0ba",
     "Size": 19296430
   },
+  "Data/Sound/Bgm46.img": {
+    "Hash": "b34055495996b21e5bda991116cc85c53bb167395e6f892ae90afb69c9b0408a",
+    "Size": 18113994
+  },
+  "Data/Sound/Bgm47.img": {
+    "Hash": "29491be1bb3d26d62e3ef7925eaca1c5be7d5f61b8c818b2ad7c4a5848e8417b",
+    "Size": 29560451
+  },
+  "Data/Sound/Bgm49.img": {
+    "Hash": "e02b74de4f681e640a7cb6890d8d04d3b572f0fe921407e5d5b8e7a25b9c9ffe",
+    "Size": 36614031
+  },
+  "Data/Sound/BgmCN.img": {
+    "Hash": "fd627706557b16fa10dbbe8c33ee95e64c659e23f60cf163a1e5744da5a5009f",
+    "Size": 7038266
+  },
+  "Data/Sound/BgmEvent.img": {
+    "Hash": "c0d0a766fa5aac1ad129159b8e2fcc0fd3b047390496883a3252fb4189aabd22",
+    "Size": 4759213
+  },
+  "Data/Sound/BgmFT.img": {
+    "Hash": "046045749cad7a6dfefc181b98faf7e717908c01618da379bdf4f47813c8d410",
+    "Size": 1441056
+  },
+  "Data/Sound/BgmGL.img": {
+    "Hash": "75cc30df2907237a33d608621fdd62bdcbe805eed452cf313fcc222589720026",
+    "Size": 11927295
+  },
+  "Data/Sound/BgmJp.img": {
+    "Hash": "41d9525a3e35c6a21f64b0804d90fae4fee1fec9ab9c4a1fa0c4f5a2942e6b60",
+    "Size": 54277733
+  },
+  "Data/Sound/BgmJp2.img": {
+    "Hash": "8cae76e59009c50dc0880855163fa868266bbb4f584d0a63a727d1eb9e8fcaae",
+    "Size": 28359323
+  },
+  "Data/Sound/BgmJp3.img": {
+    "Hash": "5f63dd9c5b63370e6f26b2f23d46583f893973f5abcd894778cf13fa72186bb8",
+    "Size": 33758648
+  },
+  "Data/Sound/BgmJp4_Zipang.img": {
+    "Hash": "c511ff70f627cd33f3b5fc955a86311ffd889c0880c7eade547c9ec0fccc43e0",
+    "Size": 31035777
+  },
+  "Data/Sound/BgmMY.img": {
+    "Hash": "0c40b3c0d5a1677fdf22d2b7eff99b55ea78ca568af1c0df93759d63d002b3ed",
+    "Size": 6705794
+  },
+  "Data/Sound/BgmSAO.img": {
+    "Hash": "56a6e741d5834c3d336cc62445b897fd4769aa9c145bbca7e7849e7490ec8ce8",
+    "Size": 35454658
+  },
+  "Data/Sound/BgmSG.img": {
+    "Hash": "a9acf646c6ea3f1500e17eafc99512773f29e09cdbfc87faecc1efc57ae68ddb",
+    "Size": 23091487
+  },
+  "Data/Sound/BgmTH.img": {
+    "Hash": "b7afe7946a0b9137d643e70018a388b0875986a3b0d083a2a90d4b1c365e658c",
+    "Size": 12036780
+  },
+  "Data/Sound/BgmTW.img": {
+    "Hash": "afb3d7d1212719aa9a2c725e98c5f5ab44815770835a143c2ebba2a18a086951",
+    "Size": 3518116
+  },
+  "Data/Sound/BgmUI.img": {
+    "Hash": "3bedac1c53d5b0a46409f70a83a81ce720dcc218cc8b515e0e8c4fd7f43848c1",
+    "Size": 4997244
+  },
+  "Data/Sound/CashEffect.img": {
+    "Hash": "40d3156fcd9fea4e87e8d48af8c1c808b7d39c8b4b0fcfe3f4e6d9cf6d4cc065",
+    "Size": 1050357
+  },
+  "Data/Sound/Field.img": {
+    "Hash": "0c6214b6e4423e0f849765dd33028352a65eb0650b29e046cf62f2ab3262e87e",
+    "Size": 17028207
+  },
+  "Data/Sound/Game.img": {
+    "Hash": "9b4f32d5357296320b890f2a2901568f1a3f327da6a545536e73e72e643d4448",
+    "Size": 209577
+  },
+  "Data/Sound/Item.img": {
+    "Hash": "27f02f0040fb53e2bfb3b6a2c6d0e2c46852a844bdb400c240fa8611ab370f09",
+    "Size": 145634
+  },
+  "Data/Sound/Jukebox.img": {
+    "Hash": "d094025347803b872165e0aad906c489b3224efc6a9e0920eaf9c0fa59e94763",
+    "Size": 670440
+  },
+  "Data/Sound/MiniGame.img": {
+    "Hash": "bbff5c1b93c1ddee5d1fa62ed79c85a8e6bb0caab6e3d53b28ee3e73dfc30c89",
+    "Size": 44523
+  },
+  "Data/Sound/Mob.img": {
+    "Hash": "b692b18e33c9e15dd4e8289d6942bcb0d98dbd5ef2b274f2af8f1bedee126ef1",
+    "Size": 86658135
+  },
+  "Data/Sound/Object.img": {
+    "Hash": "c273782891eb42a790163a92522299f940624c4753b553871a328560dca674c7",
+    "Size": 12533
+  },
+  "Data/Sound/Pet.img": {
+    "Hash": "fe23766baef83413e8c8e85327ab8c4e4a05769a525a7170ee89cf4b2346d3cc",
+    "Size": 1128434
+  },
+  "Data/Sound/Reactor.img": {
+    "Hash": "27ebab4a1a65ed19cb70fbc9a5880cca95816d1dbda289f9c5aa69e552402103",
+    "Size": 610802
+  },
+  "Data/Sound/Skill.img": {
+    "Hash": "2d5fb3a3608b24db68973fb1e1cb39d42a1fb1afcb0e058f72dc55583c29b87f",
+    "Size": 1916445
+  },
+  "Data/Sound/Summon.img": {
+    "Hash": "e1db618d43239b0776924edde72e617dd17525c6c64e31359feec51996d08110",
+    "Size": 54293
+  },
+  "Data/Sound/UI.img": {
+    "Hash": "abc5e6d52cba6d71b8f6837a0a9f12a0970ed76096a68743495ddf25cb7ebdb9",
+    "Size": 98603
+  },
+  "Data/Sound/Weapon.img": {
+    "Hash": "968952879194863398ca8b165d6276857429a5eee2593ac0b80d8908462fc1fc",
+    "Size": 22589
+  },
   "Data/String/Cash.img": {
     "Hash": "4d668244da37240f00b0bd00edc6f31a626ec69314179d8ac5fce7cfd5f41005",
     "Size": 46131
