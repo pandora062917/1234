@@ -201139,6 +201139,906 @@
     "Hash": "0de70a3a4511e88cbdeea3ab3e00125be45ad1da78cf3f308725d07c76d524a1",
     "Size": 37927
   },
+  "Data/Map/Back/11thFestival.img": {
+    "Hash": "a73eb9c01fbda6912eff540bbf96c80085dbed99be4fb599324aa5b601172cbb",
+    "Size": 1386109
+  },
+  "Data/Map/Back/15thEvent.img": {
+    "Hash": "b2a0557ec5e460dfc1d761d08f812bdbcb19681a618abcb2d8f6791035e92efc",
+    "Size": 20629499
+  },
+  "Data/Map/Back/BM1.img": {
+    "Hash": "d4799ee9ca38b3135b01e4a675406b61b058c351adc8ae1351af4cc6333d38cf",
+    "Size": 36320104
+  },
+  "Data/Map/Back/BM1_1.img": {
+    "Hash": "074f240efeee25e30860871b3ffb986d129d43e5bfd8273423a98e307736ec6e",
+    "Size": 16242387
+  },
+  "Data/Map/Back/BM1_2.img": {
+    "Hash": "6a3ac9d33942c0d8a981406e69660a0f1800e322b80d4081a5451d47d8fc9d07",
+    "Size": 12148548
+  },
+  "Data/Map/Back/BM1_3.img": {
+    "Hash": "8d60348d7c40bea92807c7ddae82f3e4973d7fc476b13b5f0be4664a118a565b",
+    "Size": 36994809
+  },
+  "Data/Map/Back/BM1_boss.img": {
+    "Hash": "e6bae7ead50c532c8774f7277e6d1cba3158c76a4ad82bd86b415359bbf48083",
+    "Size": 1746678
+  },
+  "Data/Map/Back/BM2_1.img": {
+    "Hash": "dead39b41df5b43b7cb2ba5887f015170bb20d04128464f5e8c08d0dcfa0fca5",
+    "Size": 3847395
+  },
+  "Data/Map/Back/BM2_2.img": {
+    "Hash": "e4ab93c5b0c08dbc93ec17c53f0f027d4829eb48db69d24281d2a872f242e842",
+    "Size": 4333976
+  },
+  "Data/Map/Back/BM2_3.img": {
+    "Hash": "c4a2ecbc6f01ed7766a89f8d47e8071ed927301b0efcacbf5e7538f60fbcdd54",
+    "Size": 21230248
+  },
+  "Data/Map/Back/BM3_1.img": {
+    "Hash": "f41eaa6bac63abc1a6a8bc4171e1d640847771b2ccc6bdcfec0457e631ec5a59",
+    "Size": 7322217
+  },
+  "Data/Map/Back/BM3_2.img": {
+    "Hash": "0961819c9ddadf11f988d05aa58e659c2dd86a5f6fc0ba7451bd3e9c3997248a",
+    "Size": 3070045
+  },
+  "Data/Map/Back/BM3_4_bossBlackMage.img": {
+    "Hash": "6f01695aad8f528fe321de14d4047c8c59f005a12ce3d31d89d1ce8cfe1f9d1f",
+    "Size": 10411997
+  },
+  "Data/Map/Back/BossDemian.img": {
+    "Hash": "3af9e966937e41e77ce37d962ab195af9ecd8ec271aafbdbb915a79af5749277",
+    "Size": 5361726
+  },
+  "Data/Map/Back/BossDemianCleansed.img": {
+    "Hash": "312434698c47535b2b5fe49194f5afd562383af6460646660aa86713846cf54f",
+    "Size": 2277852
+  },
+  "Data/Map/Back/CBDfieldSG.img": {
+    "Hash": "75f3011e8344b5ece04099510011f4cbfb11e9d0dd1f0dc928b1ff86aa476d32",
+    "Size": 878555
+  },
+  "Data/Map/Back/Cernium2.img": {
+    "Hash": "5af390fb3fdba2507e80e06bc6d87701c919e304cb5d4d9218a7e37e234b4873",
+    "Size": 17472540
+  },
+  "Data/Map/Back/HofM.img": {
+    "Hash": "ef6200203a87f52248bf432941c38a50291a0dc2838b404a7a4fd063e1dde120",
+    "Size": 784465
+  },
+  "Data/Map/Back/HofM4.img": {
+    "Hash": "0df98c2a0cf4b34006edd1ac219bef761a96e22b7c818d8a40512a674be6f489",
+    "Size": 5373485
+  },
+  "Data/Map/Back/Lach_back.img": {
+    "Hash": "72fa2adc1884094fe80163071b80f12b26d2d7288d6f28f05ff29c5e9babcba4",
+    "Size": 6156545
+  },
+  "Data/Map/Back/Lach_boss.img": {
+    "Hash": "4f360dec6df5ca1a281077a66f3cccda99814105585e3f349b5d0f177eb1fbfe",
+    "Size": 5196710
+  },
+  "Data/Map/Back/Lacheln.img": {
+    "Hash": "6cdf72d1bf84b7a3895923e4f1e4306fa82e2244572b8af6215af65a817cbcfd",
+    "Size": 11014241
+  },
+  "Data/Map/Back/NightMarketTW.img": {
+    "Hash": "486c971098f5934b2645f40d47e7defd131b1337244c90711cefb9946ac8d6c0",
+    "Size": 679960
+  },
+  "Data/Map/Back/Rien.img": {
+    "Hash": "9f131e4acd81c3cdf29873ed9fa2ff357542e1c27d6c584448fd0664d1c59caa",
+    "Size": 4860490
+  },
+  "Data/Map/Back/SeoMoonJung.img": {
+    "Hash": "c65ba3b272494df0e8cc0c32e0ad667297ef309d1eead641082eaa2d2a08c0af",
+    "Size": 2478989
+  },
+  "Data/Map/Back/ShanghaiCN.img": {
+    "Hash": "240ed6e6618317f8d8205b76f4061876b103382ded68e84f413924fc83125732",
+    "Size": 1575301
+  },
+  "Data/Map/Back/ShanghaiField.img": {
+    "Hash": "34bf2d0b0e80da2ce458be73f18eb85529f2f6af5bf8ea5d37a7d9bbea34fa67",
+    "Size": 1048561
+  },
+  "Data/Map/Back/ShaolinCN.img": {
+    "Hash": "2fac6a5952fb07d08b83a195b0683d7d539a467db7a081246b12ac46feaff574",
+    "Size": 1622450
+  },
+  "Data/Map/Back/TD_sakuraCastle.img": {
+    "Hash": "4d932589e522370e49c6786300f9dfe06925f3ecdc0e4065df801e7040c075ca",
+    "Size": 2421411
+  },
+  "Data/Map/Back/Tokyo1JP.img": {
+    "Hash": "76f051373fa686bdafb79280f6677777880bdc80dbd1817aef03bb09c9aa0f78",
+    "Size": 5522386
+  },
+  "Data/Map/Back/Tokyo2JP.img": {
+    "Hash": "30a31f1e53b335a0684f4516bb946b4946d0cf3a5079719587e14718b9aa346d",
+    "Size": 2097075
+  },
+  "Data/Map/Back/Tokyo3JP.img": {
+    "Hash": "ae0ebdae2694a898de647b95270d3a52f74b3ca24413f3f9efc35cf0c6f7082c",
+    "Size": 3019863
+  },
+  "Data/Map/Back/Wedding.img": {
+    "Hash": "3b3291d899693c50d10f6703a16062b978d14601da78d98fc1e0615f6f6c659a",
+    "Size": 460104
+  },
+  "Data/Map/Back/ancientForest.img": {
+    "Hash": "173a8b63b7a15ee19911bee51d860190ccf827f407dfb6234c9e9cf45b36e352",
+    "Size": 1548024
+  },
+  "Data/Map/Back/ancientForest2.img": {
+    "Hash": "4b1445949991ff8f2b17059f94025478a721d282dd0832f6096375aec70ced4e",
+    "Size": 1315057
+  },
+  "Data/Map/Back/ancientJungle.img": {
+    "Hash": "6c81c605f953d8bd6a69a826647c9fc0e749c947ede56eaa4367cf93009ca897",
+    "Size": 2677538
+  },
+  "Data/Map/Back/aquaCave.img": {
+    "Hash": "88c7c12ad66b3f5ade06f0266b09ef01e7722f52d8689ebe0a3f70caae79e997",
+    "Size": 367646
+  },
+  "Data/Map/Back/aquaRoad.img": {
+    "Hash": "29bc4503af3fc63774a293ae78622fbfad6d3fe545f14173f34cdebdde4cf8fb",
+    "Size": 1229516
+  },
+  "Data/Map/Back/aquaRoad2.img": {
+    "Hash": "b1727f094100ce95a5094eb54713289fc10900025fdecf213980620d7dea9219",
+    "Size": 1641620
+  },
+  "Data/Map/Back/aquaRoad3.img": {
+    "Hash": "451f28d73579b4ff45a340efb4505de186d5c1bd2ea1fe1670fdb14e1f72ba58",
+    "Size": 849815
+  },
+  "Data/Map/Back/aquarisBoss.img": {
+    "Hash": "3f1138d8676c293f182d163aef75f58d5b196e9a15c2bcc521b01b5cbc139564",
+    "Size": 1417951
+  },
+  "Data/Map/Back/aquarisDungeon.img": {
+    "Hash": "0681cf014e122d4c45563adb65f46429f97f7f5c3fe2a51f9486d0955c38b766",
+    "Size": 1832585
+  },
+  "Data/Map/Back/aquarisMasterMob.img": {
+    "Hash": "ffe384c74c51d2d15835209f85f7999b86f823c1ec947d30b0d43cb247774eed",
+    "Size": 1725129
+  },
+  "Data/Map/Back/aquarisTower.img": {
+    "Hash": "0961f2812aded2bdd329115537abc8fde9461f233a46130b4864ffcc81d6ceb4",
+    "Size": 2718102
+  },
+  "Data/Map/Back/aquarium.img": {
+    "Hash": "8bca9076741fa69f0da14b4491b9f4825f50e5690c9a753d66d313e9ba3203b1",
+    "Size": 456962
+  },
+  "Data/Map/Back/arcana1.img": {
+    "Hash": "c34236ec9e8ed82a2c7f253deab6c5a9f1f708d121a39e7aba5e01c33f743dcf",
+    "Size": 9501909
+  },
+  "Data/Map/Back/arcana2.img": {
+    "Hash": "9b46cbc960e55cc07cd7b8525ae1b3b545c57aba4990a599aa6bb8e608ccbb91",
+    "Size": 8821999
+  },
+  "Data/Map/Back/arcana3.img": {
+    "Hash": "082908f6f607f5f2aa95cf225a917235e1389b93b95241a99f72addaec0a8731",
+    "Size": 3712377
+  },
+  "Data/Map/Back/ariantCastle.img": {
+    "Hash": "5776ea610d30fccd2737865df82c193d5b44eb10d9f6c04ce8ebbcf3fc0b20a6",
+    "Size": 348724
+  },
+  "Data/Map/Back/aswan.img": {
+    "Hash": "71c9a49c41242585947ccec9959cb2c8fd8daa30c6a2103d5eb499d038bb9e7a",
+    "Size": 7958495
+  },
+  "Data/Map/Back/backcho.img": {
+    "Hash": "3170e42212f5bbf195ae2952b6259c489ecc2521f4b8a1e3e34d078a5bac4d18",
+    "Size": 1175044
+  },
+  "Data/Map/Back/battleEntrance.img": {
+    "Hash": "c329b2fff74af015eec6b0ca465ff5f81347bf4c7d6efc2863020cab4eafc649",
+    "Size": 2172999
+  },
+  "Data/Map/Back/blackHeaven.img": {
+    "Hash": "efee07355a65cc0f0fa757e99376ff20ed313fa65173959d01fd9dcf10bb5402",
+    "Size": 12752571
+  },
+  "Data/Map/Back/blackHeavenAct5.img": {
+    "Hash": "c71cdfe7231573f0f0407a9b94b190b8ef78d61da140fbe084f827391d690412",
+    "Size": 4360111
+  },
+  "Data/Map/Back/blackHeavenAisle.img": {
+    "Hash": "08b0131bb020644b81f61f54066e83e8be3c62f04333efefdef4344eee2e3088",
+    "Size": 8836338
+  },
+  "Data/Map/Back/blackHeavenAisle2.img": {
+    "Hash": "0863a071f7a1c5dc8ea6d507f2ce1f22c43ca2029c12dc656b1623bde64d4ca1",
+    "Size": 3288517
+  },
+  "Data/Map/Back/blackHeavenAisle2_mg.img": {
+    "Hash": "a3e17364a491f675a5836ec9f1ce5186931251a06d061c8c29293939a10eb40b",
+    "Size": 321691
+  },
+  "Data/Map/Back/blackHeavenAisle3.img": {
+    "Hash": "11d82fc6e5356cbb95ed33c31326f2a6df7342628efb9561ff250adc4d928d80",
+    "Size": 4956349
+  },
+  "Data/Map/Back/blackHeavenAisle_mg.img": {
+    "Hash": "18cd37ae11facc5639ea99a13af8e99fc4f875f4da3c22027ffadf2ce88a3f28",
+    "Size": 902791
+  },
+  "Data/Map/Back/blackHeavenBoss.img": {
+    "Hash": "7176e23d625047d20b85ba0e5af568bb061602e27a163e914b9e669107faa86d",
+    "Size": 2405182
+  },
+  "Data/Map/Back/blackHeavenSky.img": {
+    "Hash": "8f5e2e29f5f4b9b1bf104ffe96518a81e2f3447c204364a23f0bda9d12eaa2ac",
+    "Size": 9552264
+  },
+  "Data/Map/Back/blackHeavenSky_fog.img": {
+    "Hash": "f8e391cf3a7bb787b00734435471681fe1336213e6210cfb29fa5bb6816fb342",
+    "Size": 2203910
+  },
+  "Data/Map/Back/blackHeavenSky_night.img": {
+    "Hash": "15aeed4c5d6b32dd41ba5ad73918979b78be3df4b934ed6e8a43824ca3a58b33",
+    "Size": 3079907
+  },
+  "Data/Map/Back/blackHeavenSky_sunset.img": {
+    "Hash": "f89e63a6256f6e4510f1fea5ab19d067505c7a9a3bdb1f6919db0fa237a86091",
+    "Size": 3193652
+  },
+  "Data/Map/Back/blackHeaven_mg.img": {
+    "Hash": "640807461da055163e97a1a0b9ab2fc406e932867a3c1461b4005f1f77888cac",
+    "Size": 4395999
+  },
+  "Data/Map/Back/blackMagician_Base.img": {
+    "Hash": "6df7aae60da1751a240f89d0159bfcc12b04b96d5c2a968c64c54b5583e0f4d6",
+    "Size": 6590679
+  },
+  "Data/Map/Back/blizzardCastle.img": {
+    "Hash": "93be35be1195ca91ac8733bb6f338f08029e7720044298bffd5659ebf2faf25e",
+    "Size": 3002570
+  },
+  "Data/Map/Back/blueCave.img": {
+    "Hash": "e16d22ab2f13eb04bb15459c1fa3f0637e89cc30a49fa4ccd2581efc889a606d",
+    "Size": 1148778
+  },
+  "Data/Map/Back/blueCave2.img": {
+    "Hash": "eb480a2d905eeb5cc669535b23b512665cb6ba9b3b7c12703975fb5fc8d97024",
+    "Size": 2048947
+  },
+  "Data/Map/Back/boatquay1SG.img": {
+    "Hash": "7b5d97724561557878630b776c026c69c791e9fbb21f48c19a93be6bb081a3e3",
+    "Size": 708139
+  },
+  "Data/Map/Back/boatquay2SG.img": {
+    "Hash": "4a6f14d6c23b273f804898b4da025a2d9436a893db6103eae2e1f6c6a15052b6",
+    "Size": 607117
+  },
+  "Data/Map/Back/boatquay3SG.img": {
+    "Hash": "206072ce223d369ba3230a5e0a5b0646460afe71435efd9f2a1e99337a898492",
+    "Size": 710012
+  },
+  "Data/Map/Back/changiAirSG.img": {
+    "Hash": "06c66c9447bbf02716569feb64cb744f19aa111b974222f04354c925e7864fa8",
+    "Size": 847743
+  },
+  "Data/Map/Back/chewchewIsland.img": {
+    "Hash": "ad924358b4566d12a63015e4ab0b07ca7ebcf5a48a4d22d972ba69e985c417c2",
+    "Size": 5450760
+  },
+  "Data/Map/Back/cityPark.img": {
+    "Hash": "a21b5240669318491fe64d2aa0de055b72bb669dee3ad9b13abca75510429049",
+    "Size": 2695370
+  },
+  "Data/Map/Back/cityParkAnother.img": {
+    "Hash": "0c108b27dadc581181f61535addb7bba0961d9816a1698a959d2a705e1887335",
+    "Size": 2820154
+  },
+  "Data/Map/Back/citySG.img": {
+    "Hash": "5ad6bc7f7a7be2a5e20daf9b4e648df63ae488bc6fcfaa637b8e40764bd07d68",
+    "Size": 1673790
+  },
+  "Data/Map/Back/cokeTown.img": {
+    "Hash": "07926d1745a3689eaff0cb4e40a8e487f739cc6a911b5fb15abdc49287f52ab6",
+    "Size": 1604346
+  },
+  "Data/Map/Back/colossus.img": {
+    "Hash": "51b63015370ae70b6da0637f914c6c5ad1a182d1c4ae8ffd9c7bb27474863aea",
+    "Size": 7056389
+  },
+  "Data/Map/Back/colossusCave.img": {
+    "Hash": "bba66ea275420f89b2695938513b05806be0d116391c6ca3f116da21e7c4906b",
+    "Size": 1475395
+  },
+  "Data/Map/Back/coordiKing .img": {
+    "Hash": "fba296a50b84e6c14a346e46e9809e2d28dd2fbe0ea9432c73d9ac65fffd34e7",
+    "Size": 421059
+  },
+  "Data/Map/Back/cristalGarden.img": {
+    "Hash": "8e2cb069dacc79bb55fd9f1b5d3df9d43e4abbac2da2a27a0652dbd107aed4c2",
+    "Size": 2662396
+  },
+  "Data/Map/Back/critias.img": {
+    "Hash": "28e18f679cf48e4a063f12b6e1b380fcd21e7ea3c4b97ce9e9d48bcc45887a3f",
+    "Size": 5021025
+  },
+  "Data/Map/Back/critias_destroyed.img": {
+    "Hash": "6b17d257bb94042eed7bd3e4c7cecf76a5a0086a6e6ca8868854b2256efb58c9",
+    "Size": 7690005
+  },
+  "Data/Map/Back/crystalCave.img": {
+    "Hash": "4922b54baa4fd593206c434dc7905fdad67cf3a7cc8e4c0e27032469946bfd5b",
+    "Size": 818880
+  },
+  "Data/Map/Back/darkCave.img": {
+    "Hash": "95e6c68f181658e8d1deed30dd5acadf28adb3cafb9cf9e88417ac31b5765455",
+    "Size": 937156
+  },
+  "Data/Map/Back/darkEreb.img": {
+    "Hash": "3482313a6e015da4e5b234a5af3adb4202381dca2d72164e13ca22fa34d35e30",
+    "Size": 2455670
+  },
+  "Data/Map/Back/darkForestHut.img": {
+    "Hash": "65a3aae267fc7ecbe1eebb72ca4c668ec39b8603699e40f830b43347657c9abd",
+    "Size": 5163763
+  },
+  "Data/Map/Back/darkMountain.img": {
+    "Hash": "638433b6fdd5c451376b82573228711b42249daedadb707d74e43454aeb71659",
+    "Size": 887916
+  },
+  "Data/Map/Back/darkSwamp.img": {
+    "Hash": "b95378eb5376fc47bc12e51b7f60ae71b4ccf79c7ba7ce8a9acf42a36ab6d5a5",
+    "Size": 499934
+  },
+  "Data/Map/Back/darkWood.img": {
+    "Hash": "b86fdc221cae7fea77c2d56ad9f5110d0e374d636af5609c2d773a99e7836d4c",
+    "Size": 341270
+  },
+  "Data/Map/Back/deepMine.img": {
+    "Hash": "0709c5a95d756e42556b0144cc2ddfafc8ab72ace7b655773446b640c61ca69b",
+    "Size": 993727
+  },
+  "Data/Map/Back/demensionLibrary.img": {
+    "Hash": "cbccac2f691fb797030d18cbec8556e04c5f408cf596146b1ed65e8450613807",
+    "Size": 4660610
+  },
+  "Data/Map/Back/department.img": {
+    "Hash": "63fcacb7c9790851bee1044e30287e80807a5adbd6ff22bdac8c904ed75bd85e",
+    "Size": 2365706
+  },
+  "Data/Map/Back/desert.img": {
+    "Hash": "24b4d1592a863ff831894530280bcfe59e039a4e87505022a732605686016032",
+    "Size": 1321688
+  },
+  "Data/Map/Back/destructionPerion.img": {
+    "Hash": "c11142ee52851ff4215ef2ecb90e6bb51cca47f7b098513ed205b22367f0f632",
+    "Size": 2861833
+  },
+  "Data/Map/Back/destructionTown.img": {
+    "Hash": "c2dbf2d6fca5aa6a6b2d526a7f773940d8ef6353af12fa5b0a3632646a61df89",
+    "Size": 3470544
+  },
+  "Data/Map/Back/dragonDream.img": {
+    "Hash": "50c2c5e502a7d0b86cb521b70366b8430d49410a1b63a85607ea1cb9f057d585",
+    "Size": 2943088
+  },
+  "Data/Map/Back/dragonRoad.img": {
+    "Hash": "a377bfe4890c699ef586fb3169bb5864fa27125eb13768f4aa2dde7e7ef8f711",
+    "Size": 8221462
+  },
+  "Data/Map/Back/dragonValley.img": {
+    "Hash": "25204dd41b48d29f9d1427190f8efb7818b14854725cf952ef40f8cf61c19ddc",
+    "Size": 774030
+  },
+  "Data/Map/Back/dryRock.img": {
+    "Hash": "342f3e1b49433b93d5bec324e6ce372095eb084b183e5e4fc36e444ea9562a97",
+    "Size": 1618164
+  },
+  "Data/Map/Back/dryRock2.img": {
+    "Hash": "7e24717946978a8a4004f36fe720a770bcbcbf7b8e4ce2e7605c1e49b0a613f2",
+    "Size": 745787
+  },
+  "Data/Map/Back/eliteMonster.img": {
+    "Hash": "fca26527bc921b2dff43f3e2eda66541371a4251eccc5f8976ba7dc8412c8b18",
+    "Size": 1967235
+  },
+  "Data/Map/Back/ereb.img": {
+    "Hash": "c860da9024f28ff34d57e152c30d722bd3231a9a58f59938bd11bca0ffeab85b",
+    "Size": 2382301
+  },
+  "Data/Map/Back/erebNight.img": {
+    "Hash": "386255040ea34560c35dda0d1a0013cb60fc2a3b47cf76bc8244516fdc3e76f7",
+    "Size": 3500447
+  },
+  "Data/Map/Back/esfera.img": {
+    "Hash": "b828eb729b5a53fa7add961cd91d5cb65211cf27efa8e507a68d928a19e7a199",
+    "Size": 6321490
+  },
+  "Data/Map/Back/esfera_boss.img": {
+    "Hash": "f92fb3c723a131ff3167c655570ddc141a3ac4fb9f86376b757eeb06c703baf5",
+    "Size": 5076821
+  },
+  "Data/Map/Back/esfera_bossWill.img": {
+    "Hash": "6db52e7e3c787306091e6a74f0d46ecd287b2be1c99ab99ba19d80ae4c712fdb",
+    "Size": 11183051
+  },
+  "Data/Map/Back/esfera_sea1.img": {
+    "Hash": "f17620117b0311847d38e1b3154e5d6342a3acfa7369bfabda54cc2b5ef6f564",
+    "Size": 2814845
+  },
+  "Data/Map/Back/esfera_sea2.img": {
+    "Hash": "2cfa6fbf182756bb8b7b404c5f5342190337014ecdba1a218d3a8a567fac2482",
+    "Size": 1971991
+  },
+  "Data/Map/Back/esfera_temple.img": {
+    "Hash": "6a263e0498af9f45a1d7d0c97ca49498b01f717319339873e5e483acee306765",
+    "Size": 2658538
+  },
+  "Data/Map/Back/eurel.img": {
+    "Hash": "3ced4342e0b990dadf44b1862811ae15f76c240615d3a088f90eb17670c8e8e4",
+    "Size": 9341269
+  },
+  "Data/Map/Back/event.img": {
+    "Hash": "4f12d2e5303f50f439ba9b5917be34593188c75c959bc7abb5df9632f00042c5",
+    "Size": 3164860
+  },
+  "Data/Map/Back/event2.img": {
+    "Hash": "7b5e79191df70746b27429cdebc9498f32137377ec6cbcbd10f7d61ca7f1c4cc",
+    "Size": 4441617
+  },
+  "Data/Map/Back/event2013.img": {
+    "Hash": "46a2d0d2a4dfc09001460aeff8a3de18e8099a7ac62691b499ee13f1cb6fed79",
+    "Size": 1417665
+  },
+  "Data/Map/Back/evolvingSystem.img": {
+    "Hash": "2e9f1ca5ab6380656d0336301bdc8ee3e43db7a93a00521af319b8c93857bd18",
+    "Size": 2246914
+  },
+  "Data/Map/Back/extinction.img": {
+    "Hash": "7dcb6f3f1de40593f76a04c8ab2c7f5070f6f696640d8773e88b5d62d14e1a59",
+    "Size": 11226117
+  },
+  "Data/Map/Back/fairyAcademy.img": {
+    "Hash": "4851427e8868020a5a40174e55daf71e8adf43240405dfc5ce5ce447d1be4241",
+    "Size": 1293355
+  },
+  "Data/Map/Back/fakeDoors.img": {
+    "Hash": "bb7283d64f5a5166e952a3e2206fc98e7f2fd98983490bdf788b4c52af298420",
+    "Size": 1399970
+  },
+  "Data/Map/Back/fantasticPark.img": {
+    "Hash": "c7de9ce1c4b3b9f1d8473c6f8ebbccd0338887a4e305c086fb23a670ba7bff53",
+    "Size": 1720394
+  },
+  "Data/Map/Back/firewolf.img": {
+    "Hash": "548f5adf832fb33ea16f66a70a6fb722fcdef5d9c0bbb59f90f1edb9c3460429",
+    "Size": 826966
+  },
+  "Data/Map/Back/flagDay.img": {
+    "Hash": "247c76a95e4e9819f2fcf298613d95db196b67b99d9e7c54c0b8f6c2ba18a6f4",
+    "Size": 2628726
+  },
+  "Data/Map/Back/flagNight.img": {
+    "Hash": "782b65c6bdecb1eea613854575da369d723a98d15a4347ac1501346053d955cf",
+    "Size": 2581429
+  },
+  "Data/Map/Back/flagSunset.img": {
+    "Hash": "ed748bd584318bffe7bc97737078023a94d683519ad503041bd46cfc2f780fd8",
+    "Size": 2665667
+  },
+  "Data/Map/Back/folkvillige.img": {
+    "Hash": "467b92a4ca79d42b008accca43468914865ee9b94e369c50cc0429dd685fc59a",
+    "Size": 7763566
+  },
+  "Data/Map/Back/forestHut.img": {
+    "Hash": "c3961bf487d2ec90f081ac49146ad85716152c62a85da18921dd40432a7918c3",
+    "Size": 2055393
+  },
+  "Data/Map/Back/ghostShip.img": {
+    "Hash": "ca4f34ade4ccd314adabda4df1b3fd082db3d3b852e4e17592c1da5e56fdc7d2",
+    "Size": 725964
+  },
+  "Data/Map/Back/glacierExplorer.img": {
+    "Hash": "cf9505c2d4eceb6cbafd67212625200eae100995bacd8673e74e8b7d76f3713d",
+    "Size": 3668262
+  },
+  "Data/Map/Back/globalJP.img": {
+    "Hash": "62c855ef5f083ecec181629b64753744b04f5bd937de09339f313fd09166a20f",
+    "Size": 1636245
+  },
+  "Data/Map/Back/globalJP2.img": {
+    "Hash": "f286e2174deb81ce9835e27c6df580e3bd0d1a62b6a7e879d50f084066c22d1a",
+    "Size": 533698
+  },
+  "Data/Map/Back/globalJP3_ghost.img": {
+    "Hash": "82a48036a3c1b7e927aaa900c87ba0e80240cb2979575da3c69d86c8f61261d2",
+    "Size": 946113
+  },
+  "Data/Map/Back/goldBeach.img": {
+    "Hash": "fdb810f1905b03bfe49509bea99b10dae2d57305797939a25168047b6d21ef06",
+    "Size": 1556792
+  },
+  "Data/Map/Back/goldTempleTH.img": {
+    "Hash": "02ad064302dbc6b732de0854831298eebe3f639351dd15eb8c96f617f3e57819",
+    "Size": 1312217
+  },
+  "Data/Map/Back/grandisFoxVillage.img": {
+    "Hash": "14bc0e74e37c0ce535abb6cbffe4eba36c4119aac8ac2355238e5191ae1740bf",
+    "Size": 3981482
+  },
+  "Data/Map/Back/grandisHelisium.img": {
+    "Hash": "ae9744c449cf40f4ec4924728c2a6da84f15b8e22c3ac5c67cc4052df949cb9c",
+    "Size": 2297747
+  },
+  "Data/Map/Back/grandisHelisiumTown.img": {
+    "Hash": "9bbaf6ba4d5d2868df1db00df9effda34a784c9b584d6ddb4a62656b11f97d9b",
+    "Size": 838879
+  },
+  "Data/Map/Back/grandisHelisiumWood.img": {
+    "Hash": "d218a64f7ddf4784f9a54cec5f19885e03f8c77bcead6c6e0d7966b9e7922c54",
+    "Size": 3819597
+  },
+  "Data/Map/Back/grandisPantheon.img": {
+    "Hash": "ca3787c656326a9af03317fb2fde569faf7928bc6e3e87f974bbfc5abba6577a",
+    "Size": 1109273
+  },
+  "Data/Map/Back/grandisPantheonField.img": {
+    "Hash": "11ffa9d5267ad10ed3ee358757512e8f68c0542818fa29f612cba4552de5f17b",
+    "Size": 1222946
+  },
+  "Data/Map/Back/grandisPantheonTown.img": {
+    "Hash": "f93fdddb8dff8ebfc02e5878aa28aea8acd6f8cf438bfe30498a94703689df27",
+    "Size": 4551669
+  },
+  "Data/Map/Back/grassySoil.img": {
+    "Hash": "d9e5aafeae13cd846e1602094b08167fee0b394c69b114f3f149663bfbaf8f08",
+    "Size": 1653992
+  },
+  "Data/Map/Back/grassySoil_new.img": {
+    "Hash": "aee60ed5483d011dd3c10b2e1f4ee8fc3183e21a529cb4e27a82aa164f8f0e4f",
+    "Size": 1277554
+  },
+  "Data/Map/Back/grayBrickTower.img": {
+    "Hash": "c972b239d59c6465c8b4dc56faa0c60520a383a29d8beb80e0dc6f0595236ef8",
+    "Size": 324904
+  },
+  "Data/Map/Back/grayBrickTower2.img": {
+    "Hash": "e39fc297b7bc45f9c0fca1e58aeb52948f5dfcc5ebb6ecc1c2fc5b1f7c8e7c46",
+    "Size": 272133
+  },
+  "Data/Map/Back/grayBrickTower3.img": {
+    "Hash": "e6e553220b982044d2f6b976e02243adc9862ae6482f452685d5bd1e4c00a11e",
+    "Size": 370762
+  },
+  "Data/Map/Back/greenCrystalCave.img": {
+    "Hash": "ba6ade66f90bda4a5db64cc57ba7184bc5396e3565102f26a46868ed107f2d22",
+    "Size": 751197
+  },
+  "Data/Map/Back/halloween.img": {
+    "Hash": "5d27d282bcb4228c92f4a2fefcb7279ceb65e9272aff897b2d2b55105b3c5ba9",
+    "Size": 541246
+  },
+  "Data/Map/Back/highLand_MY.img": {
+    "Hash": "398a2790667a907e2962b0534138ed5ec3e639e59c50734fb3bf13ef0034c08f",
+    "Size": 3382881
+  },
+  "Data/Map/Back/jungleSG.img": {
+    "Hash": "7fa888b286526a28703d7e93160e9006b6cf5dbece5566b1427ae3d3976d16ab",
+    "Size": 1103783
+  },
+  "Data/Map/Back/kualaLumpur_MY.img": {
+    "Hash": "98f632b0630dfedd29fddacbe154089590b2f72ad0b7856c5498021a04621b83",
+    "Size": 3460556
+  },
+  "Data/Map/Back/laboratory.img": {
+    "Hash": "f5472e2106857afe8d61e125d0141dc8f1eb6740449a7c06f012e60e4fb9ac54",
+    "Size": 6595447
+  },
+  "Data/Map/Back/lebenCave.img": {
+    "Hash": "92d5f536a784ad935d3a061bffee266047e1009a5bcf1f71c1de682344977658",
+    "Size": 1972493
+  },
+  "Data/Map/Back/lebenLab.img": {
+    "Hash": "b9f1897718321e13d3629f24ff79ce5a1223b9545bd3646f20ad737f17904e74",
+    "Size": 974455
+  },
+  "Data/Map/Back/lebenRock.img": {
+    "Hash": "0abd2ad596a072fb804d3b842a6326abaa3e634242d518f868de772e6f2a4082",
+    "Size": 1364028
+  },
+  "Data/Map/Back/login.img": {
+    "Hash": "37be138ccc9f6ab556cdf080df7800129518e79660061f85bd0f4e5d5ce7192b",
+    "Size": 1942740
+  },
+  "Data/Map/Back/mapleIsland.img": {
+    "Hash": "86ed665f26d95ce4d7d3bf889435cd1c35a4910f0c11ddb402a6b751909006f9",
+    "Size": 3742251
+  },
+  "Data/Map/Back/marineBrickTower.img": {
+    "Hash": "2190c895defc9db9270b8195be9cec75a3c600bcf9b728e2ae03b101db7bfb4d",
+    "Size": 1078996
+  },
+  "Data/Map/Back/masteriaGL.img": {
+    "Hash": "2d9c8672ea9fe9dfacfe46cd5dc8540ea2c39a8194e4d7e50c61c3945603ffe5",
+    "Size": 2619072
+  },
+  "Data/Map/Back/masteriaGL2.img": {
+    "Hash": "8e3a97358b1de073d5f6faa1ee61b906c4ca9eeab15336e6a955810ccf5aa0e1",
+    "Size": 4789244
+  },
+  "Data/Map/Back/masteriacaveGL.img": {
+    "Hash": "7083ccfbde24d69ecfb7384e635430f806be72543bdccca9fcee80d6b6843d85",
+    "Size": 765033
+  },
+  "Data/Map/Back/metroCity.img": {
+    "Hash": "704bf5aec6913579f96bcdc3302929f12c9dbbbc6992ad3411c90737c74d56b9",
+    "Size": 1375905
+  },
+  "Data/Map/Back/metroSubway.img": {
+    "Hash": "c563c8f2a3f640483a2d18823f12bee1f6a8986ea7c390e65f88b8abd0c20b88",
+    "Size": 143538
+  },
+  "Data/Map/Back/metroSubway2.img": {
+    "Hash": "43e738c6f6243100eec0772cae2c98ba33afd80f27b13de27f8852b512dc227a",
+    "Size": 431213
+  },
+  "Data/Map/Back/midForest.img": {
+    "Hash": "6298a8b94c9da464acd3255df8d7434ba677c155dec3635b46fa0a53fc1374ee",
+    "Size": 1090833
+  },
+  "Data/Map/Back/minar.img": {
+    "Hash": "e7b4fdeb0449012525f2118d9061fccf0cb08439a6ad87bdc703f906fc56bf4a",
+    "Size": 2644772
+  },
+  "Data/Map/Back/minarPast.img": {
+    "Hash": "53415f461bcff7c4cbc07ecb69a19a6284fa4c09ade58c156991cf3889b63e4a",
+    "Size": 701899
+  },
+  "Data/Map/Back/moltenRock.img": {
+    "Hash": "62a7243c4c203576a0fbbba35b9b4fa2a2f4544a59fcb2f6c690c56496ba0aa6",
+    "Size": 2415230
+  },
+  "Data/Map/Back/monsterPark.img": {
+    "Hash": "da1f6cb7fb52efb967e3dad03236e67f1af64b8e35b6fb615e1b6a6fd0f1ef99",
+    "Size": 1141428
+  },
+  "Data/Map/Back/mureung.img": {
+    "Hash": "426a3e8b331b5b1de0c0aba80155235bcd7692d28b8d9d60db397c8a6da78da7",
+    "Size": 2965330
+  },
+  "Data/Map/Back/murmurDungeon.img": {
+    "Hash": "18144485877865877532fcbd5109d8f16d52645ef9428765049e111c3a0f5121",
+    "Size": 2167017
+  },
+  "Data/Map/Back/mushCatle.img": {
+    "Hash": "d1f3e8bd7ecc1935a58d596eca6e0d52d4292651385e9d531b85045bea2778ca",
+    "Size": 4438875
+  },
+  "Data/Map/Back/nautilusPort.img": {
+    "Hash": "21d10b51ea2805d8cb047dd7562f71d83a9a4a2e2bcabbe0fc034cac6d07aaf4",
+    "Size": 609469
+  },
+  "Data/Map/Back/neoCity.img": {
+    "Hash": "9a82ca2e51f701c3bd5b9a5a9c377b327234571cc58f8dda0869c312fc516df7",
+    "Size": 6719128
+  },
+  "Data/Map/Back/neoCity2.img": {
+    "Hash": "d9721cb0d89bde2cdad95045bfc780537a9739cbae8852cde53a6259fa460a62",
+    "Size": 7798393
+  },
+  "Data/Map/Back/nightDesert.img": {
+    "Hash": "202082618efd62583032c33d9a16118093463a0314d574417bdb94b1fa1c4e3a",
+    "Size": 1651630
+  },
+  "Data/Map/Back/nightWalkerDominion.img": {
+    "Hash": "3e356ec0a479f75333c7a536f6fbe8f3f133cd440f070b5da7049eb02b6f6e41",
+    "Size": 1583711
+  },
+  "Data/Map/Back/omegaSector.img": {
+    "Hash": "341b04cf7fadf1f1643e3eb0a4f25ba37b3cf1159af7820d49eab33eae2eec9f",
+    "Size": 1085217
+  },
+  "Data/Map/Back/omegaSectorHangar.img": {
+    "Hash": "8955c8e632aabc54bfc9b21a0e2b9fbfbce6c20b29aede92a28bce5f0b4e7b44",
+    "Size": 779355
+  },
+  "Data/Map/Back/partyQuest.img": {
+    "Hash": "978d23c3505ab262eeda70278d38dd5227dbb3519d5a3d0df559917901cfd59f",
+    "Size": 1066401
+  },
+  "Data/Map/Back/poisonForest.img": {
+    "Hash": "0161ff38d80aafa8d4a6c0995d2f127e3ccd4ecb259417710ddea48176271f26",
+    "Size": 716290
+  },
+  "Data/Map/Back/portTown.img": {
+    "Hash": "d1f5c95a77b3557b10c4ad4858a0e39d7d2bdeecfa5cf27c66b154adab668627",
+    "Size": 161940
+  },
+  "Data/Map/Back/profession.img": {
+    "Hash": "d73a973395b3df3a5e0d6c7cefec2643ed775bc3a50da5bce730882ad03287ec",
+    "Size": 1532895
+  },
+  "Data/Map/Back/pyramid.img": {
+    "Hash": "ec6eb504b1014b824db17c5d85cdbb50643f623e044bc9e4dc69a1465a8d8034",
+    "Size": 1691620
+  },
+  "Data/Map/Back/rhythm.img": {
+    "Hash": "311d3ccaf1ca050bc982dad71258ddb5de1417438962ca6e11bf81d43fb0f141",
+    "Size": 485882
+  },
+  "Data/Map/Back/rootabyss.img": {
+    "Hash": "c8839e32367cddba0eee1fbc4b2d459344dff9d28a582de2b7850cfe44f26561",
+    "Size": 6879877
+  },
+  "Data/Map/Back/rootabyss1.img": {
+    "Hash": "7d4a4b1949f2a1e4b9de955a33c65add7a1e2b1c7ba4ea492b547300db48d6b0",
+    "Size": 6268576
+  },
+  "Data/Map/Back/rootabyss2.img": {
+    "Hash": "ea826e0a71437afe99f90a810e58cd6e0fc0a8412a72e39369a0623f3b886cfc",
+    "Size": 2040573
+  },
+  "Data/Map/Back/ruinedForestHut.img": {
+    "Hash": "0fef62a68e2f66d6cfb87718521952636a7467530e0199da874b46d5130cad6a",
+    "Size": 1212808
+  },
+  "Data/Map/Back/safetyIslandWest.img": {
+    "Hash": "db97b31cc7b256a98d3569eee5ee66a20d8529cbe82c4df177443d98a57a982e",
+    "Size": 78146
+  },
+  "Data/Map/Back/sandBeach.img": {
+    "Hash": "6a363ffbe49445a66667b41412afe2ec45122e5cc23906a04679d21d4e65ae8f",
+    "Size": 190568
+  },
+  "Data/Map/Back/shadowknight.img": {
+    "Hash": "ea83124655d243e6d58ee0183087cf6d8c0313305396a6deaa1c4f7305129457",
+    "Size": 3002092
+  },
+  "Data/Map/Back/shineWood.img": {
+    "Hash": "e854b23e43c97a1a11f6acbc7140cd56d9738b37edd7bd7e3eb690fb68aef52e",
+    "Size": 1610955
+  },
+  "Data/Map/Back/shineWood2.img": {
+    "Hash": "3063b0b224fcc786411a04f2539a73897acfdc3c391a401f33949e9d3bccb150",
+    "Size": 438625
+  },
+  "Data/Map/Back/shineWood3.img": {
+    "Hash": "b5d90ca116442e9958ecfa43057fb87b6ea9f49bffdedc619215e8cde8b7f3e1",
+    "Size": 315784
+  },
+  "Data/Map/Back/shouwa_jp.img": {
+    "Hash": "9039f4979f2138085a96ae4f385dac2c21e6bc733bf1f2834eeb983ac7d993c5",
+    "Size": 1469748
+  },
+  "Data/Map/Back/skyIsland.img": {
+    "Hash": "c7db51692fa4c955c3286b836ae8188cf4bffead211359b1bb7f1ff8d8ee18c8",
+    "Size": 4480129
+  },
+  "Data/Map/Back/skyStation.img": {
+    "Hash": "19071e9b0ea55a49cac5765b8d794ab7095c495889ae9a077eb57c00887b5931",
+    "Size": 971888
+  },
+  "Data/Map/Back/snowyDarkrock.img": {
+    "Hash": "e99fd5809bdbd01413f5ee5ba3040b8fe22e8b5b4a848eb56290249103d8fbd0",
+    "Size": 641574
+  },
+  "Data/Map/Back/snowyLightrock.img": {
+    "Hash": "78ca5c3e7b8af4dcf879c890c13058eff22658a0ebf568d072f67616aca3056a",
+    "Size": 669171
+  },
+  "Data/Map/Back/snowyLightrock2.img": {
+    "Hash": "6695d75b69c29c91c8ca9ebe71ecae7f39db45ba7aab5de5d44f293790abc0ce",
+    "Size": 4143245
+  },
+  "Data/Map/Back/spinOff1.img": {
+    "Hash": "5d86f9f8742752e01b26c2a7721736d61d5bea5b38e097be1f0802fe45ccb8f8",
+    "Size": 7259689
+  },
+  "Data/Map/Back/starPlanet.img": {
+    "Hash": "5f4f78bdb8ae6841131f207f72e83475f32caa702163d0cad4d0b6cd4a1acd81",
+    "Size": 3538952
+  },
+  "Data/Map/Back/sunsetCity.img": {
+    "Hash": "c595b8186cafbe6d4171a68afa841f3bd354bd3ac1211ced0c0b55144467b553",
+    "Size": 505041
+  },
+  "Data/Map/Back/syarenInside.img": {
+    "Hash": "f400eaf316d538130613f89f86ab86b2875b48b8e1d636b8aff1a1f167882276",
+    "Size": 1179803
+  },
+  "Data/Map/Back/syarenOutside.img": {
+    "Hash": "1ffd3ba67fa789de00c84480346ba25fe5f5597d4f41e853d11fe1f58d3a4507",
+    "Size": 746367
+  },
+  "Data/Map/Back/syarenian.img": {
+    "Hash": "0d1a23073831958fe72475fb0b0edf3ab72b9192d314c1d3225665c1bfac1fae",
+    "Size": 209362
+  },
+  "Data/Map/Back/thai.img": {
+    "Hash": "12cc952e1f06c9e09d20e96531ca1844f447f00811d18cb16762db7fe8123ee8",
+    "Size": 1042273
+  },
+  "Data/Map/Back/timeCrack.img": {
+    "Hash": "b57e5290624f8992fbf4bda2815926de66962203983c429087b9c19b2eecc534",
+    "Size": 677864
+  },
+  "Data/Map/Back/timeTemple.img": {
+    "Hash": "f9bbadcdd869c9bc03f5796e510f398ba6284fbb80712a003e44fa8c59f8fd8c",
+    "Size": 6395236
+  },
+  "Data/Map/Back/timeTemplePast.img": {
+    "Hash": "9503ff3e4b2cd4e80d8986dd52e1de58c74a3e5b9a56e31921964f09086d0404",
+    "Size": 5157625
+  },
+  "Data/Map/Back/toyCastle.img": {
+    "Hash": "2cf39808899f67412165e92ee3c45071d28b9b56870fa64c75f136e58bce767c",
+    "Size": 824334
+  },
+  "Data/Map/Back/toyCastleB1.img": {
+    "Hash": "5890634165968dc0623aa50a17c878e9bb6473215823036d455aeb055a534f93",
+    "Size": 997425
+  },
+  "Data/Map/Back/toyCastleB23.img": {
+    "Hash": "9c5ff76a194f6f8620e7765e33fdce7248df71281cbcd15d8bcd96767ced3e0a",
+    "Size": 2394729
+  },
+  "Data/Map/Back/toyCastleDungeon.img": {
+    "Hash": "1d41428772ed1e0800e2436acf283b69def34d2c5c9e0b1c079f9aac14f7e5cd",
+    "Size": 2051743
+  },
+  "Data/Map/Back/toyCastleDungeon1.img": {
+    "Hash": "3db58623edb71b3fcf42ded750d044148073500535774fc59a5d293abdc2de36",
+    "Size": 3668734
+  },
+  "Data/Map/Back/toyCastleDungeon2.img": {
+    "Hash": "03d1378adf084238489d6b64b8d5211e498d1ac0b64d3f2959731f8ad1a97e01",
+    "Size": 622468
+  },
+  "Data/Map/Back/toyTowerInside.img": {
+    "Hash": "ca747dd29c27146490ec1d55cd42838d4bb2921c4174f801a66bcbef2b6fea31",
+    "Size": 736695
+  },
+  "Data/Map/Back/toyTowerInsideQuest.img": {
+    "Hash": "5cb114f9d2370823aaac557ea7e08af4192c311b68663f790ae5f1861245660f",
+    "Size": 434723
+  },
+  "Data/Map/Back/toyTowerInsideQuestBoss.img": {
+    "Hash": "59ba8c80adb9aec47957b60b0cd3c36effd4f7389036a7584336d5b68743d822",
+    "Size": 341792
+  },
+  "Data/Map/Back/toyTowerOutside.img": {
+    "Hash": "3346d2f49dd60ecf9150a6b91df1ef4c7c5dfba7c230d2eb9321e82559b8ff6b",
+    "Size": 621218
+  },
+  "Data/Map/Back/vicportTown.img": {
+    "Hash": "0f1639e3a38ca2fe2a482b99870bb99a7104597bb6b7dfb2503e4989017bc25c",
+    "Size": 678655
+  },
+  "Data/Map/Back/waterWay.img": {
+    "Hash": "d11ae8f6de4b7d60b823c918eabbd291e797d9db15c902f7f2c637ff8147be77",
+    "Size": 894786
+  },
+  "Data/Map/Back/woodCave.img": {
+    "Hash": "f0c4e7e1181c386b1d836ff519d4ff0ca4400bc6e6cb6e37ac199ba9b1b9fece",
+    "Size": 2246071
+  },
+  "Data/Map/Back/xenonLabor.img": {
+    "Hash": "cbab4c6c6d0eaff6d0c2043a87a0e84024f21fb07cd61631fb994a6376f39e2a",
+    "Size": 2887231
+  },
+  "Data/Map/Back/xenonVeritas.img": {
+    "Hash": "8eb127f9b8408803a652fc111869d822af22580b1d5c2dc4e55e61c52dd2bf92",
+    "Size": 539663
+  },
   "Data/Map/Effect.img": {
     "Hash": "d36f269afb0491453625fab451bfa32e2e4926c6314fbf1b827578eb8c235a8c",
     "Size": 6262834
