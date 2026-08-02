@@ -12787,6 +12787,2818 @@
     "Hash": "fc75e021fdadca013c85dca2521c3888078e0b1caa1e45ae2f8b9f34063da808",
     "Size": 401516
   },
+  "Data/Character/Coat/01040000.img": {
+    "Hash": "1f107b4ce27f5b3ef1929dc1037c19aef503d421834af88cbdc6fbcba759585f",
+    "Size": 55020
+  },
+  "Data/Character/Coat/01040001.img": {
+    "Hash": "86e4599ddd0a996c9de6c9eb1f688775ecb6726c5f6187748dc83e72c62e8498",
+    "Size": 31823
+  },
+  "Data/Character/Coat/01040002.img": {
+    "Hash": "870c59f0d89af42473358ea7a2b0f0ee37459c992c16dcb5e8578b2ba41e7041",
+    "Size": 30752
+  },
+  "Data/Character/Coat/01040003.img": {
+    "Hash": "03378401ac015c19fdf59845f4c2c207a1af99178e2efa5437e047ab0c885a1b",
+    "Size": 35079
+  },
+  "Data/Character/Coat/01040004.img": {
+    "Hash": "b0bdaefa474bd9e0ced715893ede6cce42f47857789e573c0f7208e6a06b2a9c",
+    "Size": 33831
+  },
+  "Data/Character/Coat/01040005.img": {
+    "Hash": "375b81296381481647cdf3ae1dfb10e5924ad73e81e8a9b1974c563f909b9a53",
+    "Size": 37222
+  },
+  "Data/Character/Coat/01040006.img": {
+    "Hash": "7831ba747a9609c61baa500df4581fd24e2a513a09760a8da1d9daa5a448ea91",
+    "Size": 19532
+  },
+  "Data/Character/Coat/01040007.img": {
+    "Hash": "ea0faa0bfd93a5f1f7f60780968eb2824783211379b14dcdb0f467b39d4ed934",
+    "Size": 43918
+  },
+  "Data/Character/Coat/01040008.img": {
+    "Hash": "977344413a931efd215e3b65688d7160fd6627a3e3b8537ee369a0d30d0f6041",
+    "Size": 41590
+  },
+  "Data/Character/Coat/01040009.img": {
+    "Hash": "0370c3925ab2bc1997f94f230d3a4afb7c26e9c7c7da0d8dac5b6a0073587646",
+    "Size": 38808
+  },
+  "Data/Character/Coat/01040010.img": {
+    "Hash": "fa50776a43fc01e41f33e8cb3923ed80010e0a94d736afc3cf283b92a4629388",
+    "Size": 31375
+  },
+  "Data/Character/Coat/01040011.img": {
+    "Hash": "bb3aa35cc249fbdf2ffeb22e6bda8264dbefc2ad82809a56e0e52c4d2b795c6d",
+    "Size": 46829
+  },
+  "Data/Character/Coat/01040012.img": {
+    "Hash": "955898fa93b55c93229c4c569a12c62cfc391f6c5a634bcee114d4cc28ab8379",
+    "Size": 39756
+  },
+  "Data/Character/Coat/01040013.img": {
+    "Hash": "8fbeb6b0aa8e4a7b1ff361b5e4b79cbd1069f71105487a8986d840d7c4facf92",
+    "Size": 32559
+  },
+  "Data/Character/Coat/01040014.img": {
+    "Hash": "6d7b0f161a062228894f618431276f2f1797d2d5bdefe5b212b19f6b9f8a6234",
+    "Size": 32287
+  },
+  "Data/Character/Coat/01040015.img": {
+    "Hash": "41e20370e432e1d281467c1d7b1794fb75aac3ed2ca785c36e5314c6dc3ba15e",
+    "Size": 55510
+  },
+  "Data/Character/Coat/01040016.img": {
+    "Hash": "758c4661cb594ca9ac32c844010cab5927fea81b62e5e60bf6e3c0245f9c3f88",
+    "Size": 40468
+  },
+  "Data/Character/Coat/01040017.img": {
+    "Hash": "cbd2d14d579017b2e3d1dd966d29a695ddb263eeb1a8249b97ca92d04bedbbb3",
+    "Size": 34062
+  },
+  "Data/Character/Coat/01040018.img": {
+    "Hash": "a4eb7cce630cdbe41b1906c4ad17e764667e55b552dc49735042509842881cc4",
+    "Size": 48340
+  },
+  "Data/Character/Coat/01040019.img": {
+    "Hash": "7f05abaf94f72c17a682051d55ef1a31f6c91d9e17ef5d9497e067009a32824b",
+    "Size": 48999
+  },
+  "Data/Character/Coat/01040020.img": {
+    "Hash": "599b4ede7614301adadbc313a024c44960262785f9aa98b420a93a1028b7bd83",
+    "Size": 49390
+  },
+  "Data/Character/Coat/01040021.img": {
+    "Hash": "355bf960867fc9e62eb642616e7c15a68406a19659635645d89c5c09f0e4df8c",
+    "Size": 39681
+  },
+  "Data/Character/Coat/01040022.img": {
+    "Hash": "6ed479797d255944b8ea7f58650dae5810c010fa541d5ac5258f81fcaebad7a3",
+    "Size": 48253
+  },
+  "Data/Character/Coat/01040023.img": {
+    "Hash": "910d8ca395bd9b62232d76cff2f1125ccb470bcf73bed0dc591fd817493c5cf7",
+    "Size": 47773
+  },
+  "Data/Character/Coat/01040024.img": {
+    "Hash": "cd98b2e6561c31c4ac77b819e4dd1580279915446bf4e0c3ecdfab27092d9503",
+    "Size": 47598
+  },
+  "Data/Character/Coat/01040025.img": {
+    "Hash": "cd7916ab3dca50a0803eaf5f40ea259ca6e15735efb8aec764daa0b41fdbeabe",
+    "Size": 47695
+  },
+  "Data/Character/Coat/01040026.img": {
+    "Hash": "187a67ba40f24a3a889aa27b369a7b0eddaec049f34d8435d9eede70b5d365de",
+    "Size": 40566
+  },
+  "Data/Character/Coat/01040027.img": {
+    "Hash": "4ff062daa2bc679b10b8e46ef3ac65ecb18a480317f1d33de1fcd80dc4f4839e",
+    "Size": 36756
+  },
+  "Data/Character/Coat/01040028.img": {
+    "Hash": "fc440c1f74569aeb720740d8a619fe15bb2ec68bbb2643d141b994f834956a1c",
+    "Size": 40604
+  },
+  "Data/Character/Coat/01040029.img": {
+    "Hash": "5700f7a3ae8d2018e0ae622e3467dd1f47a394f8fb7082a1cddaf19204011ac3",
+    "Size": 37934
+  },
+  "Data/Character/Coat/01040030.img": {
+    "Hash": "137c9e9513d0027d5d5045245a5cce709c6bac828fa4c359e717deae8c3246a1",
+    "Size": 38203
+  },
+  "Data/Character/Coat/01040031.img": {
+    "Hash": "1e797024a22d57865b2fc74b5d16e33e7fbc185e37e243dffe3e89314f15d94e",
+    "Size": 26497
+  },
+  "Data/Character/Coat/01040032.img": {
+    "Hash": "0d68247ec788bcaa04bcb9a338295b209e4d29b9cd3fde53e3c673cddb22a81c",
+    "Size": 26402
+  },
+  "Data/Character/Coat/01040033.img": {
+    "Hash": "fc7e6c0f71e02884dc56b2392b7fedb45bd363cc954958e7024ef66859c85165",
+    "Size": 26754
+  },
+  "Data/Character/Coat/01040034.img": {
+    "Hash": "bce2b0a6dfa40a2a19d62312d2ce21fe00fb02a253d1f5d5b118f17e53e92ae3",
+    "Size": 30474
+  },
+  "Data/Character/Coat/01040035.img": {
+    "Hash": "bd6bf77d7a88040ce9c771a38c51f71a707c6fd3d9e3c454931bfd73b32d41ec",
+    "Size": 31072
+  },
+  "Data/Character/Coat/01040036.img": {
+    "Hash": "1aba975066908feb065b32668533ce2eb8f0ba0db5061f08cb64f43e4061bbe3",
+    "Size": 20538
+  },
+  "Data/Character/Coat/01040037.img": {
+    "Hash": "85b8e62f470423c51c5de902af6664e143b246553ab55d3c3098aeb6d822fcdf",
+    "Size": 38691
+  },
+  "Data/Character/Coat/01040038.img": {
+    "Hash": "0f7566d7904a07fdecf3cb49d60b059e74b2ab5575c70be07b70ea36d99550fa",
+    "Size": 53351
+  },
+  "Data/Character/Coat/01040039.img": {
+    "Hash": "a032f65d813f7fbda80b6e641e0f8b7794a651953d0e64f6e71e4c56be4c0dfa",
+    "Size": 39456
+  },
+  "Data/Character/Coat/01040040.img": {
+    "Hash": "288a8d0b668177443967ba348e72bd72ab22d4f7abeb229fe307b3d4d046f30e",
+    "Size": 40062
+  },
+  "Data/Character/Coat/01040041.img": {
+    "Hash": "3c2acaf6dd2209b46c8784da9f06407a2a3ad4c04b902bb777ec7ab9188f1349",
+    "Size": 39787
+  },
+  "Data/Character/Coat/01040042.img": {
+    "Hash": "75c3227e4b5a3835604413a2c9811b0ac5f613a9d1a286c42223f7b380cb5967",
+    "Size": 35132
+  },
+  "Data/Character/Coat/01040043.img": {
+    "Hash": "51c2369d4842c24fbdc1dd7fb4d94eb8115cd91c0e02d86afc615fdeb41718d2",
+    "Size": 34604
+  },
+  "Data/Character/Coat/01040044.img": {
+    "Hash": "2e0a78b9a8197562201bca81f3c88c7a7f37f904d41bd6fe55cec2697d87b125",
+    "Size": 35450
+  },
+  "Data/Character/Coat/01040045.img": {
+    "Hash": "1e1794c738dffaa10454cb34f7f119c70f7efe6fbe844ca4e0bd2d7b8def7ab6",
+    "Size": 37090
+  },
+  "Data/Character/Coat/01040046.img": {
+    "Hash": "a8acf1fae07b66789a892927fb8bd7d8f25d922dafa5567f0636658db5e8a539",
+    "Size": 37016
+  },
+  "Data/Character/Coat/01040047.img": {
+    "Hash": "7c5fcd30191ae36200d838bfa78cf9468fee423f43726b9e3849c82619240edd",
+    "Size": 37754
+  },
+  "Data/Character/Coat/01040048.img": {
+    "Hash": "7b78df79a8b9ae25412b9baf4fb6da9870653105c6efa20159615d4157a24048",
+    "Size": 34941
+  },
+  "Data/Character/Coat/01040049.img": {
+    "Hash": "8310d12254f859b3500d5b95588b614ccdaa4da74d911274fe9cf4b32a9243fd",
+    "Size": 35030
+  },
+  "Data/Character/Coat/01040050.img": {
+    "Hash": "8862f45bacaa09b8c687291daf92a9afd6c29bfb931f294542715cec4c648d0a",
+    "Size": 34220
+  },
+  "Data/Character/Coat/01040051.img": {
+    "Hash": "339d8c7feb573aa9e33126bc5d0ee4e227fdecd427101a21b8ad01d2f4a193ad",
+    "Size": 36102
+  },
+  "Data/Character/Coat/01040052.img": {
+    "Hash": "73e326fa066e826196c931fada5a77d802cc9d5cd5a8102fda00021aa1cad956",
+    "Size": 35574
+  },
+  "Data/Character/Coat/01040053.img": {
+    "Hash": "98fcfc7203afd1433fbede1c0163ed839279c50cfbaffc604a2260f00cd07483",
+    "Size": 35519
+  },
+  "Data/Character/Coat/01040054.img": {
+    "Hash": "8b364abcc7305301e63ccbb189f8235a51fddd829b12624f4e5580b59d05d692",
+    "Size": 37541
+  },
+  "Data/Character/Coat/01040055.img": {
+    "Hash": "889776a7ada4c35da7324081cb0c8736c130b13d7d496cfb7bfd7bf3314e383c",
+    "Size": 37378
+  },
+  "Data/Character/Coat/01040056.img": {
+    "Hash": "7078053568c23c36121f07b16240b3a3ecfcaf1fa407fdfa4b4f87430709cecd",
+    "Size": 38607
+  },
+  "Data/Character/Coat/01040057.img": {
+    "Hash": "b691f324c90a2bc3b6c4bc0c3d18ad04563e57b65c76e71633073204a65cf1a6",
+    "Size": 40198
+  },
+  "Data/Character/Coat/01040058.img": {
+    "Hash": "0c3073779d78a85cd7c55f56ffece74ff93ff252e933552fa852946357623505",
+    "Size": 40056
+  },
+  "Data/Character/Coat/01040059.img": {
+    "Hash": "ece9920c7a423e4bf11e385f79f00caa7c9cae7192d21820b4161257e1512a49",
+    "Size": 38853
+  },
+  "Data/Character/Coat/01040060.img": {
+    "Hash": "b1a5ce48a66443e54b9448c758824173278bf211bf082fe01114392f925d6468",
+    "Size": 39410
+  },
+  "Data/Character/Coat/01040061.img": {
+    "Hash": "89e0b3f90a5606e319d604cfa8162d2018be59747991644f356c7addbf1ec404",
+    "Size": 33122
+  },
+  "Data/Character/Coat/01040062.img": {
+    "Hash": "01b3a0fed5b21645e3428ee12cf4dad83fed25338ce0cca555a0c664403fa55b",
+    "Size": 33191
+  },
+  "Data/Character/Coat/01040063.img": {
+    "Hash": "53d716ee363d17085199b13cd10f98888a94f0297ad7c51448303937718f2bca",
+    "Size": 33497
+  },
+  "Data/Character/Coat/01040064.img": {
+    "Hash": "b4e0aca3de50c733378cee0593b86fba7f2ba24ead536e3e1f19ae2bb4ccad74",
+    "Size": 35118
+  },
+  "Data/Character/Coat/01040065.img": {
+    "Hash": "ae8615e6210bce2a6dd8879e3bf9dd551a7483a0496364527f77ed98e2fa5422",
+    "Size": 35506
+  },
+  "Data/Character/Coat/01040066.img": {
+    "Hash": "328c86bc6e7c4393750eddb5c3bd9d092b99c00f1ac583881749acbadd37ef6c",
+    "Size": 35318
+  },
+  "Data/Character/Coat/01040067.img": {
+    "Hash": "eb8184f155b01f8249a63723aaf71e9fa89697a99fdf6ffdf4f772df0fb6c824",
+    "Size": 42860
+  },
+  "Data/Character/Coat/01040068.img": {
+    "Hash": "c648194cf0ab49fd72b5cfd84c7bef541892ca47ac3fd2e180e610e126d1b8e6",
+    "Size": 41767
+  },
+  "Data/Character/Coat/01040069.img": {
+    "Hash": "0790304dc1a1c7f705100a7dc3c2080c5b48826fb239e561ccddab17710ff115",
+    "Size": 41799
+  },
+  "Data/Character/Coat/01040070.img": {
+    "Hash": "755dcbe07514ebac7944aaa18fae301bdd9555c30f7a08bae0b20e2c34fefa89",
+    "Size": 42547
+  },
+  "Data/Character/Coat/01040071.img": {
+    "Hash": "f4511399aa327791899535a67e74d981298f5f652516226dbae95c1bc2467630",
+    "Size": 41740
+  },
+  "Data/Character/Coat/01040072.img": {
+    "Hash": "3cc778fdf527235c983d69e43254d32b40f849df826e617ed1a854712ef6415f",
+    "Size": 46925
+  },
+  "Data/Character/Coat/01040073.img": {
+    "Hash": "2ac5f52459d993cc50f38c9eabe7f046ee5479c3cf399f92e0d53d5e455f7883",
+    "Size": 47810
+  },
+  "Data/Character/Coat/01040074.img": {
+    "Hash": "85e2ab1c9003bd70ec03c7c4a800abb7168357e71003edbb8a8be5e6e049951f",
+    "Size": 47828
+  },
+  "Data/Character/Coat/01040075.img": {
+    "Hash": "8ee87d12e5901c916186efe58de731a529889404f6c3b216df2247c95a0520d6",
+    "Size": 47975
+  },
+  "Data/Character/Coat/01040076.img": {
+    "Hash": "e28335494e83f1f5b7ebb892d6f283555f6ae39ca9cff7ff60044a55d5b64aec",
+    "Size": 48351
+  },
+  "Data/Character/Coat/01040077.img": {
+    "Hash": "e835b95b7258fe17082659ad6c23623782717ad0a045bb3a3accaca5fb01c123",
+    "Size": 40596
+  },
+  "Data/Character/Coat/01040078.img": {
+    "Hash": "0d8b4e52710c23f8fd70a64303e6bcdfb81d51106221bb13186042e9c817cec2",
+    "Size": 45555
+  },
+  "Data/Character/Coat/01040079.img": {
+    "Hash": "cee9e635030a78f5abc91a3c26880dbcb0c69af5fa095c7d47848fa195150329",
+    "Size": 47846
+  },
+  "Data/Character/Coat/01040080.img": {
+    "Hash": "ecafb95c26feab71da13fd54939e450078dfc08dcc0f8ba6f940a190d0820161",
+    "Size": 47603
+  },
+  "Data/Character/Coat/01040081.img": {
+    "Hash": "1e4c83d8fd74fdfcf62cd02361e4b9ff2e744f45c8748ecff60d6b3f0e9e3556",
+    "Size": 47672
+  },
+  "Data/Character/Coat/01040082.img": {
+    "Hash": "a9dc00d225b310d49171bee9b2d17074319b7ad86cbc34c4b32a77e628af3020",
+    "Size": 36101
+  },
+  "Data/Character/Coat/01040083.img": {
+    "Hash": "4f7f8e768f240e52e34898ef9331af0c4691f3d4a8632620b8644f9088ddf588",
+    "Size": 35628
+  },
+  "Data/Character/Coat/01040084.img": {
+    "Hash": "20de08204d42348e883dfe451fde320d7018bbfb95eb41557db9071fff61b08e",
+    "Size": 35980
+  },
+  "Data/Character/Coat/01040085.img": {
+    "Hash": "0a58ddb6182acce5f8c77a5b4d5a869275c3fe9c841b7ad6a4900beb9b06bcd0",
+    "Size": 54187
+  },
+  "Data/Character/Coat/01040086.img": {
+    "Hash": "39e15c06b91eb047489ac5a6c1bf33d48ec02ca740579f97375f64f2c268c039",
+    "Size": 53881
+  },
+  "Data/Character/Coat/01040087.img": {
+    "Hash": "39ac1a0e883ae4e8bc782b5b6e3f56b2fe09ec545b730567006330cb39e435ac",
+    "Size": 44516
+  },
+  "Data/Character/Coat/01040088.img": {
+    "Hash": "f5df23918942cf69b149260409fc963f420693ff1cd7013f66ed71fa8f23a959",
+    "Size": 44788
+  },
+  "Data/Character/Coat/01040089.img": {
+    "Hash": "5b4dda9f905e9ced24d4380e3e40134353f61a757f67988d25163e2c36f2e4e0",
+    "Size": 44076
+  },
+  "Data/Character/Coat/01040090.img": {
+    "Hash": "5f5ab29efd9a16f9574ce5d271e213b46fb050b9cfaffe527b2b31bb114a936b",
+    "Size": 40223
+  },
+  "Data/Character/Coat/01040091.img": {
+    "Hash": "50ad9cf560023d4c1d6e154f30190d0df3a08453499ca7f3aa4422433f13156a",
+    "Size": 40131
+  },
+  "Data/Character/Coat/01040092.img": {
+    "Hash": "07d30067c2ddad6ba4d2bb8efe58c775de6af567f8a6728f35ae761f4b62ce5b",
+    "Size": 39791
+  },
+  "Data/Character/Coat/01040093.img": {
+    "Hash": "39ac231019b093f9adc4ccee280f8de754774524f512b56f96fe0b58065a7459",
+    "Size": 39525
+  },
+  "Data/Character/Coat/01040094.img": {
+    "Hash": "cd19f25aaabb53f95ca8b3eb13d3542117012049f38c632e2507b6255de3a3ed",
+    "Size": 37840
+  },
+  "Data/Character/Coat/01040095.img": {
+    "Hash": "2c49e353c32ba40921b7525493e230a13e6c0cfaa252ae1143e911974a13decc",
+    "Size": 37921
+  },
+  "Data/Character/Coat/01040096.img": {
+    "Hash": "f7d730828975b235aed85d4442eb32a0db50c9e0a8ea5e287ec5b76578c8d410",
+    "Size": 38628
+  },
+  "Data/Character/Coat/01040097.img": {
+    "Hash": "cd0f33c03428b4e2718f74de3c432b7d5a6f4dafd90d57b7959137055eec88f2",
+    "Size": 38456
+  },
+  "Data/Character/Coat/01040098.img": {
+    "Hash": "5f23abcdf3f85fd42ab20487ca0ebc0a10035aaf2f33c533122b0aa48142b015",
+    "Size": 39611
+  },
+  "Data/Character/Coat/01040099.img": {
+    "Hash": "93f8997dcf40d969b45103f297956994b1e8c63e4da883681cbc827decbefd66",
+    "Size": 39500
+  },
+  "Data/Character/Coat/01040100.img": {
+    "Hash": "755080bc9571fd0f64c305b2f250b9ca1ca1ac249d1502a510f1b43c21f63d51",
+    "Size": 39014
+  },
+  "Data/Character/Coat/01040101.img": {
+    "Hash": "b4d80529ce2a7140148fa7738074952972b7dec097020e35c969fc4628d602dd",
+    "Size": 40341
+  },
+  "Data/Character/Coat/01040102.img": {
+    "Hash": "6ee1ac234d833f7a69bb8b19f1019a7e023992b7d8ea6bd4e8f578b08913c61d",
+    "Size": 51179
+  },
+  "Data/Character/Coat/01040103.img": {
+    "Hash": "b6c67f2f1ce34fe259882d7f3f83578ac25f2a21ab6524b801eb8f6552c23c22",
+    "Size": 51284
+  },
+  "Data/Character/Coat/01040104.img": {
+    "Hash": "e5eef6bbf10c08425dea42d1431308bf35aa905ccf6ad772e965d279e6171c06",
+    "Size": 51090
+  },
+  "Data/Character/Coat/01040105.img": {
+    "Hash": "cfed58e952db3bd9c57655e15d21ee99c7e0d07ed2dcf86a9c0c26de23990b49",
+    "Size": 36886
+  },
+  "Data/Character/Coat/01040106.img": {
+    "Hash": "3de65ba56845705115cb2967d4d911e929a76ddedb689dc6d201110cd2e50290",
+    "Size": 36487
+  },
+  "Data/Character/Coat/01040107.img": {
+    "Hash": "0e0fade700b4e9c16f25df21eab28f1408742e184f278f8512d3c7ea2889d3a6",
+    "Size": 36176
+  },
+  "Data/Character/Coat/01040108.img": {
+    "Hash": "127b68ff6471c5b90aba1375632c0dea47db6d8bd8bd8c83da67f4d0ccd17bb2",
+    "Size": 37788
+  },
+  "Data/Character/Coat/01040109.img": {
+    "Hash": "ed1837e9ad6ffce5e1fa197d3e9da2ded06872bfaeeddf0392c1374cbea041e1",
+    "Size": 36106
+  },
+  "Data/Character/Coat/01040110.img": {
+    "Hash": "e7f06d0a1e05f9de3cb42608ab0a64e4d870b6a13f2b780362e243b2fb86eeaa",
+    "Size": 37662
+  },
+  "Data/Character/Coat/01040111.img": {
+    "Hash": "71d6035aea1dc47779a457e968f8d0429e5fc3729a51b63c8cf81b67a95ace57",
+    "Size": 43985
+  },
+  "Data/Character/Coat/01040112.img": {
+    "Hash": "a4e12bd57c1c97be8236ae2d505fa033c9e3f71dd765b84787bd276f7b37d5f1",
+    "Size": 44009
+  },
+  "Data/Character/Coat/01040113.img": {
+    "Hash": "63c39d3484b1452fdbc0d81e6f351b76f0cc87177b106fce3739a8cf61b45506",
+    "Size": 43456
+  },
+  "Data/Character/Coat/01040114.img": {
+    "Hash": "51e26101a9610485192688157bb88063e55ef1336a99531a6e032bb9dd2bd5fc",
+    "Size": 19434
+  },
+  "Data/Character/Coat/01040115.img": {
+    "Hash": "9a10b6e7357d6ec3c1cc324cfd84bf7506a9aa0967fbdf26313d24ab2dd9c8a0",
+    "Size": 40521
+  },
+  "Data/Character/Coat/01040116.img": {
+    "Hash": "bff9d0af492dd506121dc61b18f107955c9d6a41825e6caa299d9404f213bb9c",
+    "Size": 40496
+  },
+  "Data/Character/Coat/01040117.img": {
+    "Hash": "f3ac5a6db9f8b30bea62e84a10afa65facbfd69390a287c5776de4f0088184a1",
+    "Size": 40585
+  },
+  "Data/Character/Coat/01040118.img": {
+    "Hash": "5afa0dc4824ec80b8b579b78d87af6bd35a48dd6bb05aede051d1a68ee2a04a8",
+    "Size": 40526
+  },
+  "Data/Character/Coat/01040119.img": {
+    "Hash": "189ab8678ceff5a459859d73cd565606b81d92bfad4809b8fcba1f642537714d",
+    "Size": 37295
+  },
+  "Data/Character/Coat/01040120.img": {
+    "Hash": "168d2ac4520a7f9febbd646614fc8751f7cf585d03ba17511a0bbeac8c928bbd",
+    "Size": 49552
+  },
+  "Data/Character/Coat/01040121.img": {
+    "Hash": "67bfd61c47e28a9bb653ca7087ede04b79e1b8c37b7026a4a63278c15cfb0919",
+    "Size": 49714
+  },
+  "Data/Character/Coat/01040122.img": {
+    "Hash": "5593d1dafc36e56b3ce8d0f56895b4534258950764ead1d2181efe3bd262d2f2",
+    "Size": 49671
+  },
+  "Data/Character/Coat/01040123.img": {
+    "Hash": "5afd306d8a786bd6933bad31f8e7695344a56b76a6e475eaf7c751cd2e217583",
+    "Size": 40098
+  },
+  "Data/Character/Coat/01040124.img": {
+    "Hash": "d01e74ebef88e113769a74a501a8bb02658adc50a983fd50686419caf52f7f87",
+    "Size": 38801
+  },
+  "Data/Character/Coat/01040125.img": {
+    "Hash": "64b4361c0315d14e0144222a13ea8026043a6a36a1063823b7d8a5fe7d890d92",
+    "Size": 41206
+  },
+  "Data/Character/Coat/01040126.img": {
+    "Hash": "e6d0a27e91fa346045cff10d9dc1a2948ca18a8e69e976988b704b2a090d0d88",
+    "Size": 22380
+  },
+  "Data/Character/Coat/01040127.img": {
+    "Hash": "4d92a074e66704e130802637154b3aaa9f318a7063306b129cedba707428167c",
+    "Size": 20989
+  },
+  "Data/Character/Coat/01040128.img": {
+    "Hash": "1c210b1c6b87837318a1ccab8eea17a704a6e4f5b3faa22a78be540432533106",
+    "Size": 21319
+  },
+  "Data/Character/Coat/01040129.img": {
+    "Hash": "0dd2ca95924c853de42e279cf7c14cf8e0e5be757d5878ca423433ac711f07d3",
+    "Size": 38567
+  },
+  "Data/Character/Coat/01040130.img": {
+    "Hash": "eb74938097dd0a89ec3901c78a38e619758a50bf9bdf0a022979760619bd9331",
+    "Size": 39150
+  },
+  "Data/Character/Coat/01040131.img": {
+    "Hash": "1fe4902eb9ec8444f6b00c83308f9cd7d1fbeb9941747fe0a94898a4b0ac4fcd",
+    "Size": 38925
+  },
+  "Data/Character/Coat/01040132.img": {
+    "Hash": "cc7f56ee11673ec361ce5f4043196fd34b9de57dae5cf4801f5808da8ccda7eb",
+    "Size": 29566
+  },
+  "Data/Character/Coat/01040133.img": {
+    "Hash": "a96eec69b5349b54ab7e126f687a0f18526680cf4c023a53484e3e24e0ed239a",
+    "Size": 38944
+  },
+  "Data/Character/Coat/01040134.img": {
+    "Hash": "3fe07d04b169bb8d851920bba6326788e6f0280fd81e5c33cb8ebec8ab081778",
+    "Size": 45324
+  },
+  "Data/Character/Coat/01040135.img": {
+    "Hash": "4b3683463ef1f1d60abdf8295650d28ef3d1a8e653d711f4f5b6a85fa29e80ee",
+    "Size": 48601
+  },
+  "Data/Character/Coat/01040137.img": {
+    "Hash": "cb010d7b992a57458842626229c11681f4d89aafff6fa93b28c5661d88945f7e",
+    "Size": 44556
+  },
+  "Data/Character/Coat/01040138.img": {
+    "Hash": "704122ebc912b2947717c3e1b26faa05cd51f3a0e22fc7b08766164d6a9e771e",
+    "Size": 46878
+  },
+  "Data/Character/Coat/01040139.img": {
+    "Hash": "267504d6b30caaadeebce6102facb092a661215b9291645bc9adc41f65e4ac13",
+    "Size": 33342
+  },
+  "Data/Character/Coat/01040140.img": {
+    "Hash": "a2d96f1162224a2719bc8d5cbb5833cf16742205f90833d5092429bbaac1fcec",
+    "Size": 35177
+  },
+  "Data/Character/Coat/01040141.img": {
+    "Hash": "61d7919f0d66e4dd8538151b7114d2a1d60787dcd7b656722aeba0e149dcbf99",
+    "Size": 33745
+  },
+  "Data/Character/Coat/01040142.img": {
+    "Hash": "f746b8c57dc9250f0827d9d49fd627071e60d1a0b56c099e8804a4c652491e3b",
+    "Size": 32133
+  },
+  "Data/Character/Coat/01040143.img": {
+    "Hash": "5124e05f6d545bbf372317f1f4329010b266a9c2144326191e137cf7dd62c635",
+    "Size": 19413
+  },
+  "Data/Character/Coat/01040144.img": {
+    "Hash": "da8f6e7133eb6d91aac37b05bf1cc3f0282039f2d559a3c467a16a912f52f965",
+    "Size": 32479
+  },
+  "Data/Character/Coat/01040145.img": {
+    "Hash": "887c738bc0d56b995257b35ba834d41320c302d79f8059cb86cd0923053f1d84",
+    "Size": 40904
+  },
+  "Data/Character/Coat/01040146.img": {
+    "Hash": "30a0b7a1a7fb6069f9d95e88924ad8364fd7a9b3dc74fb808d4ecc5523407b98",
+    "Size": 51688
+  },
+  "Data/Character/Coat/01040147.img": {
+    "Hash": "e87036c9e4674007b348982d1a71d6a3a3bd6b39b8f7d5507f9bdb2f68d80bd5",
+    "Size": 34320
+  },
+  "Data/Character/Coat/01040148.img": {
+    "Hash": "a864aa48e72e87708f5ea4a95f4000a9a312c7732c05c483a4dbe261388b228d",
+    "Size": 38520
+  },
+  "Data/Character/Coat/01040149.img": {
+    "Hash": "b2b51a1fdb4f250780ca2e58e704d474ca7d2c4b60574e3a510b5babfe69a94f",
+    "Size": 38546
+  },
+  "Data/Character/Coat/01040150.img": {
+    "Hash": "318f0fd58428b0bbcd6831f4fe76ea45614e2c2278f4df88621f33c9b9d1f5b8",
+    "Size": 22244
+  },
+  "Data/Character/Coat/01040151.img": {
+    "Hash": "a9a068a80fd1c5f119fca08f2b29f7774951b73c4e4c50c168e6348085d48556",
+    "Size": 41225
+  },
+  "Data/Character/Coat/01040152.img": {
+    "Hash": "0dd01bd84a99eb6864eee95e6942de55f705b08b5336e59c54e7d1d46d2552cc",
+    "Size": 51317
+  },
+  "Data/Character/Coat/01040153.img": {
+    "Hash": "7d720aa4dda1d00fb36125f724d2bca314e3e9d9783317833a73cda61525c12a",
+    "Size": 48552
+  },
+  "Data/Character/Coat/01040154.img": {
+    "Hash": "8c566e28837af3a5510352cd1eb2989ed37ad4dcf40dd6ffa84e549b7a0caa72",
+    "Size": 48600
+  },
+  "Data/Character/Coat/01040155.img": {
+    "Hash": "ce6aa9b87b63bda035079de5ee50292c97ff34407f4fe03b21874ae31d3b4950",
+    "Size": 43154
+  },
+  "Data/Character/Coat/01040156.img": {
+    "Hash": "12fb7999376ba57b9df15a8ae1238b6fd62a2b09a4f8a2eeaea9acaa26c09326",
+    "Size": 44424
+  },
+  "Data/Character/Coat/01040157.img": {
+    "Hash": "6c07b47ae708369d0e057aa5bbf144027c6f5268233832cb98f7d30715c9bdab",
+    "Size": 39299
+  },
+  "Data/Character/Coat/01040158.img": {
+    "Hash": "f5e9912a1700feffd1c8d45ee21b1b2f845c7b713776d66e68c2f621000d05e3",
+    "Size": 38941
+  },
+  "Data/Character/Coat/01040186.img": {
+    "Hash": "0e5e0599913106add114bea5e46ccac78efab4e7b79e22cd2f853412b6e62aac",
+    "Size": 42535
+  },
+  "Data/Character/Coat/01040187.img": {
+    "Hash": "bc4ceeb52a0ac15a4229dc6dc7beab5904b405fa92e16374a46bf4aa9438a1b7",
+    "Size": 39512
+  },
+  "Data/Character/Coat/01040188.img": {
+    "Hash": "410142e8e896456aed477b1253646bba56353013bbfb43382aaebed1a4530810",
+    "Size": 40115
+  },
+  "Data/Character/Coat/01040189.img": {
+    "Hash": "2e19475c0caf260c1f230e0a6a72da1b5f62b3153ac5cb86634982df5a354907",
+    "Size": 40419
+  },
+  "Data/Character/Coat/01040190.img": {
+    "Hash": "8be0727ae68ef473e8ffc9567bf5a6e087adaced651baee7fcf9cb09f7346f9e",
+    "Size": 36650
+  },
+  "Data/Character/Coat/01040191.img": {
+    "Hash": "2c4771a29488bf97ed1983b8ed34fad7c0f26aec1e3be2e6c4360ccea9ed1468",
+    "Size": 38940
+  },
+  "Data/Character/Coat/01040192.img": {
+    "Hash": "4cdc2d97ddb7098b56028d896650734a951e5bb2e433c6ddbab4325a4996b3e9",
+    "Size": 40254
+  },
+  "Data/Character/Coat/01040193.img": {
+    "Hash": "955446d94ef2ee689635ba23dfc1a95d319c0201336938fa391f17d802025792",
+    "Size": 22584
+  },
+  "Data/Character/Coat/01040194.img": {
+    "Hash": "c887c3bbdac208eb078b3254300c5e558c8855cf7284aa1187411441a320f91d",
+    "Size": 28496
+  },
+  "Data/Character/Coat/01040195.img": {
+    "Hash": "01e86b301d6e063da28574d7d2e9626606e01ced2add36cec817eb65d417af50",
+    "Size": 29970
+  },
+  "Data/Character/Coat/01040196.img": {
+    "Hash": "2cf0895eea6be9a9863d2842fd61498fb6f8fdd8f61ebb8162fb6ffacc832318",
+    "Size": 29536
+  },
+  "Data/Character/Coat/01040197.img": {
+    "Hash": "01e86b301d6e063da28574d7d2e9626606e01ced2add36cec817eb65d417af50",
+    "Size": 29970
+  },
+  "Data/Character/Coat/01040198.img": {
+    "Hash": "f24336ec1d8d985c266d7e4b0f4e2cafe21c4874e05cf9ae4ff452df5b773e4c",
+    "Size": 33824
+  },
+  "Data/Character/Coat/01040300.img": {
+    "Hash": "5f70299b5b7fabfd83de522f21328e16eab9790aab43333fc5bcf54ac0d1c9f6",
+    "Size": 47485
+  },
+  "Data/Character/Coat/01040301.img": {
+    "Hash": "d09cf8bc6b6ba0354b255ecd930d74394c3aee59708dc4122260d3f52928347c",
+    "Size": 48856
+  },
+  "Data/Character/Coat/01040302.img": {
+    "Hash": "ca98dc31843cdc28e9e42f602000c0c9ffa62c30bfe19cb22f7a991abd322023",
+    "Size": 52136
+  },
+  "Data/Character/Coat/01040303.img": {
+    "Hash": "66f96e1facc129cbb22494785f73110559bf019cb2ff5fe62fb3e5d1c87d0547",
+    "Size": 47461
+  },
+  "Data/Character/Coat/01040304.img": {
+    "Hash": "dfd60ee508fc91da810d9215d6681338af8ac10bd23573acdeefc6d607e7a449",
+    "Size": 47285
+  },
+  "Data/Character/Coat/01041000.img": {
+    "Hash": "da443b7535237f29380c66f4cfff33b469470e2c04b3ab099ed9b0db00a1c453",
+    "Size": 37431
+  },
+  "Data/Character/Coat/01041001.img": {
+    "Hash": "cb90171195befd06707a3ab19643bfe64663fb4d10ed48c6e646341d35fd403a",
+    "Size": 32316
+  },
+  "Data/Character/Coat/01041002.img": {
+    "Hash": "f2a5d8877fcf8dd0bd201faa912b3cd9f5f893f113ceca86911cdfd51e417e4d",
+    "Size": 16202
+  },
+  "Data/Character/Coat/01041003.img": {
+    "Hash": "385fb1d9fe6b9ee3c746a3eb4041fe04846d6496512e495b34b3adcc91db0461",
+    "Size": 33411
+  },
+  "Data/Character/Coat/01041004.img": {
+    "Hash": "d5fbe92e91428f0054448eb2559d3456ce8a3f524bc8955204bdb720cea951aa",
+    "Size": 33418
+  },
+  "Data/Character/Coat/01041005.img": {
+    "Hash": "5439b6c3daf28d7e43b3ff1cebdd195524495ed91f54e73e7dfbc0c7c20b7e49",
+    "Size": 33707
+  },
+  "Data/Character/Coat/01041006.img": {
+    "Hash": "2d1ff6ed2d0e9aad72ab786f1753ca90d880ecc903a3fd3ed3048f0cc0c8c003",
+    "Size": 31314
+  },
+  "Data/Character/Coat/01041007.img": {
+    "Hash": "8ba59402b04aa2d090954acfd39c903b1a055ccc4fe5b8d842a3ed556023eaa4",
+    "Size": 31463
+  },
+  "Data/Character/Coat/01041008.img": {
+    "Hash": "e89b3a990f8fe8b04b72c9cc8cbc5b17ca1dd3e357d0e9c8dbe8d5cbc23f4118",
+    "Size": 36305
+  },
+  "Data/Character/Coat/01041009.img": {
+    "Hash": "87e4b84b9cd5b1da2d06f83debc7966371ebd09906f992d79827f0da6334675a",
+    "Size": 31397
+  },
+  "Data/Character/Coat/01041010.img": {
+    "Hash": "0802a77f14e8e892190644f26e4f91170639aa0757b999146047d0818e7e79b2",
+    "Size": 32041
+  },
+  "Data/Character/Coat/01041011.img": {
+    "Hash": "5a49871f7bb4666241875a9936bd6ab0cd86ba025963273c41c62fc1a7ac4785",
+    "Size": 18231
+  },
+  "Data/Character/Coat/01041012.img": {
+    "Hash": "f230e53dade8d16ea116642792289daae0ea081cdc248be33f5815fff56a6013",
+    "Size": 38036
+  },
+  "Data/Character/Coat/01041013.img": {
+    "Hash": "ac76197fa88eccbfa06d2cccac7c3910603231305fe1e85c10a7b942ce383c01",
+    "Size": 36830
+  },
+  "Data/Character/Coat/01041014.img": {
+    "Hash": "7b57d7cb1d522b145f717e92cd6c111c061e2449720f771fcc7c64a9a80f2f30",
+    "Size": 44116
+  },
+  "Data/Character/Coat/01041015.img": {
+    "Hash": "0e815f2b62bcd92afc4dea9eef099ce80848689e5462f386e6c99c2ce372d9dc",
+    "Size": 18341
+  },
+  "Data/Character/Coat/01041016.img": {
+    "Hash": "aebe1bf3e701d2ff9847f05de629ea26ee4b3ace03b94fda941c122898dcc6cb",
+    "Size": 18355
+  },
+  "Data/Character/Coat/01041017.img": {
+    "Hash": "1f05792d24432ce5e4965c99776ec01680c0b81ba29efa5065bb79552b1ae5ae",
+    "Size": 18337
+  },
+  "Data/Character/Coat/01041018.img": {
+    "Hash": "d3bcd7ae9a850093940f8dad65331ad65c0f597b5bc0b70275c18c8aee96e149",
+    "Size": 18355
+  },
+  "Data/Character/Coat/01041019.img": {
+    "Hash": "9b4fe9c908532ddd33c02dfae4a5fa74176a69b73ff0a19c405abc445c488454",
+    "Size": 38742
+  },
+  "Data/Character/Coat/01041020.img": {
+    "Hash": "1b8c8a205904b3b84a39b7585a5c0e768f7c62244cf6b22c4fa6658c3205e9b3",
+    "Size": 39402
+  },
+  "Data/Character/Coat/01041021.img": {
+    "Hash": "87a85a3cf460025db6ece0921803413b675d76acea6988f99fbb1e587c86d1b8",
+    "Size": 39359
+  },
+  "Data/Character/Coat/01041022.img": {
+    "Hash": "4d25bfa19a4d14a9ba9894c09a45564ea5642272be31027861f3103dfc3543b4",
+    "Size": 46618
+  },
+  "Data/Character/Coat/01041023.img": {
+    "Hash": "7d6b6abf2cf6279f71a8648ced53b4e9da872726d14cf43b39801e53f747eaeb",
+    "Size": 46310
+  },
+  "Data/Character/Coat/01041024.img": {
+    "Hash": "c2da5377a32f1409558da2fe0463ea50aac2244a380aabda667d0e220d5364da",
+    "Size": 46451
+  },
+  "Data/Character/Coat/01041025.img": {
+    "Hash": "c03e96ca7d6c50f587a2f506198c04cf1ece118fc26805245a8ceff55da16fac",
+    "Size": 18666
+  },
+  "Data/Character/Coat/01041026.img": {
+    "Hash": "0ee57f12115bd543a91bce4b76aae858a4b82f8dbd67cf16ee4ff1de5425f2f1",
+    "Size": 18665
+  },
+  "Data/Character/Coat/01041027.img": {
+    "Hash": "d672002a2408797114aaa6046d358bda2742fe9d00fc5a159f6b1a5c8cfb8e19",
+    "Size": 36510
+  },
+  "Data/Character/Coat/01041028.img": {
+    "Hash": "8d4c180daa3bf0d21f8ba0952d51d7e37c489470a82d22586f0a052c90360ea2",
+    "Size": 36818
+  },
+  "Data/Character/Coat/01041030.img": {
+    "Hash": "6eabe5db2929071eb6ff36beb437c20b3ad39e3b288e3a4ec47f3f7ea74bf8d8",
+    "Size": 45947
+  },
+  "Data/Character/Coat/01041031.img": {
+    "Hash": "8b9073f2fef05be3e9cd9b79475f3c3b90f60001798758b16e7f695805f675d6",
+    "Size": 46861
+  },
+  "Data/Character/Coat/01041035.img": {
+    "Hash": "7947922d8cfa3fee200b759fb8796d66e8eb77f2a8f401fa2545e4efe999732f",
+    "Size": 47474
+  },
+  "Data/Character/Coat/01041039.img": {
+    "Hash": "79a63a5bc29406bd5f08834e63015d8d4c274d34ee50a35e836b1073a541d24a",
+    "Size": 33126
+  },
+  "Data/Character/Coat/01041040.img": {
+    "Hash": "368ff17d47c49fd476e4c1cd34cef0a43a0e94aad55c606b76d44d75c78c030e",
+    "Size": 33084
+  },
+  "Data/Character/Coat/01041041.img": {
+    "Hash": "9bd9b571339c92b289da794b7cc3e97f87f36d85ac431eb4d24526bec2f1f90a",
+    "Size": 36288
+  },
+  "Data/Character/Coat/01041042.img": {
+    "Hash": "e0a2abc1a21ee86d36c76c084256ebb3226bd6bda75dddd3a705d38ab4f51e34",
+    "Size": 36219
+  },
+  "Data/Character/Coat/01041043.img": {
+    "Hash": "8f0e7b9c69942eaf1d5a53a7e27b44a2566b3db34e3b669e710c87841665c85d",
+    "Size": 36119
+  },
+  "Data/Character/Coat/01041044.img": {
+    "Hash": "eef025cd8956598d4d123b4054132df61cea33dcac48bd49b96bdc64735c88bf",
+    "Size": 32265
+  },
+  "Data/Character/Coat/01041045.img": {
+    "Hash": "d3dce808f8df344e96000618af5598544c2c52accace1a90a886d3d127c63246",
+    "Size": 32871
+  },
+  "Data/Character/Coat/01041046.img": {
+    "Hash": "a0b1a595e1ee8c8f55cf9b08a28e0bbf74a95d33aecfda62dd933a173df337ae",
+    "Size": 20461
+  },
+  "Data/Character/Coat/01041047.img": {
+    "Hash": "4c892c738745a035626ff7deeec72510c389fa6d00f64c9e75875d0122051397",
+    "Size": 36707
+  },
+  "Data/Character/Coat/01041048.img": {
+    "Hash": "e608c6b846066aefab442db0d5bb53364d91a306791381ab0b71e5d69a818d7f",
+    "Size": 36655
+  },
+  "Data/Character/Coat/01041049.img": {
+    "Hash": "53c4110610562ae657ee7e83d27f48111c599d8abb6eba0485814d22feed38fa",
+    "Size": 37100
+  },
+  "Data/Character/Coat/01041050.img": {
+    "Hash": "3f567846bad5b5bec90b579eb0284c22ed307073d25a7537af97f35a7bd29034",
+    "Size": 37515
+  },
+  "Data/Character/Coat/01041051.img": {
+    "Hash": "d2e65f3fdb746eaf511b474b5b5706359fab908fd6aa704f83d895e994cd6283",
+    "Size": 34174
+  },
+  "Data/Character/Coat/01041052.img": {
+    "Hash": "263936feba5d1b0d4df6d72f314a864eef25b7d5c218fd1bab3c15e00e503ea3",
+    "Size": 33606
+  },
+  "Data/Character/Coat/01041053.img": {
+    "Hash": "aed77cae978f41eb29136bf90aa26155ba4574d24265f48638e91fc2a2a5da74",
+    "Size": 34096
+  },
+  "Data/Character/Coat/01041054.img": {
+    "Hash": "811a0942cae1379e55ff77da07e3dbe2eb5d6e2feb48f4b368d715db480dc6fb",
+    "Size": 41477
+  },
+  "Data/Character/Coat/01041055.img": {
+    "Hash": "f8fe9a654f4abe60dc2e599f8213a705a626320f9dd5e1dcb5abecb0dd116f43",
+    "Size": 41497
+  },
+  "Data/Character/Coat/01041056.img": {
+    "Hash": "fd1f9b2add6bcbc267830b35ea26f91c8a81186fbc81defe3604f51ebff0cab6",
+    "Size": 40372
+  },
+  "Data/Character/Coat/01041057.img": {
+    "Hash": "36cf4fd32ab9f5c5d1d157da98f92d54de7551bb1cbd210160b884e53d3b6b21",
+    "Size": 35102
+  },
+  "Data/Character/Coat/01041058.img": {
+    "Hash": "1a54e7261db9d4280a169c7c49651f9b1ef668f823adf67c8dff5b1c839f5d60",
+    "Size": 34445
+  },
+  "Data/Character/Coat/01041059.img": {
+    "Hash": "ef64e5d7784a9b385ad1767e6500639a26e2cbca1bd7cf4d6a401465a1803311",
+    "Size": 36887
+  },
+  "Data/Character/Coat/01041060.img": {
+    "Hash": "66f9b9b76428be7fb19d908445cc4c7ff7619bb871e153f52bdf02ae46bee850",
+    "Size": 37447
+  },
+  "Data/Character/Coat/01041061.img": {
+    "Hash": "fbd3de222d62c721da2e627a665320034a6d489264c0b98adb086dc60ff54409",
+    "Size": 31358
+  },
+  "Data/Character/Coat/01041062.img": {
+    "Hash": "272f9cad2455e9b53507d24bf6ce7d54d6fcfeeca2016ac47649a10fe5d1ef0c",
+    "Size": 36068
+  },
+  "Data/Character/Coat/01041063.img": {
+    "Hash": "7f6c4a2fbb6f5b2df966659e1e6889cdc35fe6b2ef6db481878b5551d58819c3",
+    "Size": 36460
+  },
+  "Data/Character/Coat/01041064.img": {
+    "Hash": "743bbfbd5079e11bd7278d93cc2c2c3b53dee97f65829e7cf9ab8f88e744b0f4",
+    "Size": 43896
+  },
+  "Data/Character/Coat/01041065.img": {
+    "Hash": "10696d73f773e64acd88297ce6ad8784b5a4c58e21bdbb85b9880a187d4a4fe7",
+    "Size": 48710
+  },
+  "Data/Character/Coat/01041066.img": {
+    "Hash": "8738eae88045143dc9e6c191ee2c7b0d26404d0cc6893b213efa3b32d5d328a2",
+    "Size": 49962
+  },
+  "Data/Character/Coat/01041067.img": {
+    "Hash": "55dd03ee8dd0189e8cda984409807ba5dd1015f43f60dc2cd58d58b20aadb1ae",
+    "Size": 50066
+  },
+  "Data/Character/Coat/01041068.img": {
+    "Hash": "092b61949620c865489da7993bbd67203d8bd2fb00e44eba6efcf7ad921374cf",
+    "Size": 49354
+  },
+  "Data/Character/Coat/01041069.img": {
+    "Hash": "491e65c952f3e69acfed54d5c8f4aeb861a50d9f77f5269a04a235999a9f7a0a",
+    "Size": 50527
+  },
+  "Data/Character/Coat/01041070.img": {
+    "Hash": "8d69cb840e20bcf5ad17e6dfe7526fb245c46c4eb136686d376d05440f45e8c6",
+    "Size": 34390
+  },
+  "Data/Character/Coat/01041071.img": {
+    "Hash": "be1a98ab13dbaf6671c1b193a12228fc67be915e32621a6f9041ec020cfa3e00",
+    "Size": 33902
+  },
+  "Data/Character/Coat/01041074.img": {
+    "Hash": "59850c8b934f502bec07eb91ef5756cbf07f43b61bd7753f46fc93752fd7ad7c",
+    "Size": 37244
+  },
+  "Data/Character/Coat/01041075.img": {
+    "Hash": "b0615c37e76175087e9455aa28b4bfe738f528d6080f8ec94e574c1f8805c461",
+    "Size": 37324
+  },
+  "Data/Character/Coat/01041077.img": {
+    "Hash": "a276f6abf6e59c74f8b23aa297c3e52b9a7b2e192e2f02df1dcdec8cfe2ec826",
+    "Size": 41005
+  },
+  "Data/Character/Coat/01041078.img": {
+    "Hash": "33b56a3e4c86afdf9b256e0223d3ea881996d2a54f0c87841b72a3dfc0c23db0",
+    "Size": 40534
+  },
+  "Data/Character/Coat/01041079.img": {
+    "Hash": "d26bc8c7daf23403b3fa6f08f0912ebb737d2df2636b88c3a6625d76a3787b48",
+    "Size": 40699
+  },
+  "Data/Character/Coat/01041080.img": {
+    "Hash": "4ddcc09a618f53f8a08ac1a8a00e781549db6ccddca2c75cf97f544cef067cf9",
+    "Size": 39496
+  },
+  "Data/Character/Coat/01041081.img": {
+    "Hash": "4089c868dced19e091176a4391fb66a4ff83963f112987f4a23b8f7f6df3fefd",
+    "Size": 45282
+  },
+  "Data/Character/Coat/01041082.img": {
+    "Hash": "45e118b2e35e6532eb1e68b2029bc1fdbe5aeb962f59d498d37a504bac04341a",
+    "Size": 45921
+  },
+  "Data/Character/Coat/01041083.img": {
+    "Hash": "62e6039f0b458cbfcb60019453babe7663f562c5f48db0b51fae63f4b986de3f",
+    "Size": 43940
+  },
+  "Data/Character/Coat/01041084.img": {
+    "Hash": "d3cb15bf2db0e5d4e81053055d77e91bcd13faba3fa2c60f84055cf6eb8ab229",
+    "Size": 47644
+  },
+  "Data/Character/Coat/01041085.img": {
+    "Hash": "1e95301984a912dea793ed801e3bfba3d833df01e2e9bc1a1cd926051ff633a1",
+    "Size": 47731
+  },
+  "Data/Character/Coat/01041086.img": {
+    "Hash": "1be7b57896a51d73f8472e21f87d2605a6c45b3877c1ce87834d10934b01e034",
+    "Size": 48016
+  },
+  "Data/Character/Coat/01041087.img": {
+    "Hash": "ff42445d872ae9eb30bf746b0b27d8413367430d7cf01dbd221d17346bbd6d6b",
+    "Size": 37593
+  },
+  "Data/Character/Coat/01041088.img": {
+    "Hash": "8f5de81900eee1b865eecec30162eb76258edbc3551ba8a5625f5ae3334b7d7c",
+    "Size": 38826
+  },
+  "Data/Character/Coat/01041089.img": {
+    "Hash": "501780764ccc95593279d434a17d26d0c11555d10690d37fcac376d1936645f4",
+    "Size": 37290
+  },
+  "Data/Character/Coat/01041090.img": {
+    "Hash": "334ab6e56b237ac4374014477dee590fc27e194e70fe168c2606271ddedf3de0",
+    "Size": 18535
+  },
+  "Data/Character/Coat/01041091.img": {
+    "Hash": "ec6608208625b18c60b2c33f511818d4fa62368271550f2ed4dd971c1dcc38fe",
+    "Size": 40822
+  },
+  "Data/Character/Coat/01041092.img": {
+    "Hash": "dbbef46de2bca4842d7e14eae319acaa908bea37e9210ca7441bea8e6414f3f1",
+    "Size": 40805
+  },
+  "Data/Character/Coat/01041093.img": {
+    "Hash": "bfd417a68cf7cd38927c2981fc13dfecacdc02ce370b197fa5ec5f184b897463",
+    "Size": 40954
+  },
+  "Data/Character/Coat/01041094.img": {
+    "Hash": "e00e686e7a6f02466ad43b692b405f7e59d0d7f3b8c1e970d3d19c3faafdd181",
+    "Size": 41189
+  },
+  "Data/Character/Coat/01041095.img": {
+    "Hash": "3ca76cbf31c417b7a8cd2006a745c93d161ae6c2193e2e15924c3778d617485d",
+    "Size": 39733
+  },
+  "Data/Character/Coat/01041096.img": {
+    "Hash": "cf644511375c0172475daf2105c3daef74db516674fd139c584c2c3432cd1c30",
+    "Size": 39499
+  },
+  "Data/Character/Coat/01041097.img": {
+    "Hash": "c995ae14b1b589841afba370758cb0c812662478ede0dce92c6c92fefd0f4eb9",
+    "Size": 48846
+  },
+  "Data/Character/Coat/01041098.img": {
+    "Hash": "aac7517bb7044f2375ce290d45fd0387511b2679d744c378e999d5fb82d3eb05",
+    "Size": 49205
+  },
+  "Data/Character/Coat/01041099.img": {
+    "Hash": "0866558912f7b1c445e95e97ec5f0248d4a391494a56425e90240fede35791a6",
+    "Size": 48145
+  },
+  "Data/Character/Coat/01041100.img": {
+    "Hash": "8cd8177d30daa1c891b2b4dac04851ed011ee607dd1d2d3c1a2a98f039ca39b4",
+    "Size": 43564
+  },
+  "Data/Character/Coat/01041101.img": {
+    "Hash": "cef8e76285d9a5340bf75ace4cb8c87d9f60da5512a907b898da9248ea5f5729",
+    "Size": 43016
+  },
+  "Data/Character/Coat/01041102.img": {
+    "Hash": "42ff79da638263c19c55e5b8a2f6fecd764ed6e80cbab81a997b626717f8d2a4",
+    "Size": 44254
+  },
+  "Data/Character/Coat/01041103.img": {
+    "Hash": "8e919df5ca0fe7fe3a39acc7332a3a328ba488dcc12f156297e8726088fce331",
+    "Size": 42632
+  },
+  "Data/Character/Coat/01041105.img": {
+    "Hash": "44d961fa17c36f6ed4d56653d9fecf7503fde60f2f5ddc05b219d9c074dfde33",
+    "Size": 35074
+  },
+  "Data/Character/Coat/01041106.img": {
+    "Hash": "53b5bdb8bc35d5360231e4e14e829bea83dec314986a481b6b3b04a0a5f6aae9",
+    "Size": 33701
+  },
+  "Data/Character/Coat/01041107.img": {
+    "Hash": "df3547bd049d2d99cea4498d44de7e71341c167ccd602d75cc34f69ce33b50f1",
+    "Size": 34515
+  },
+  "Data/Character/Coat/01041108.img": {
+    "Hash": "35276b7a164ed1a2bc2aefa98a3e5e19320ed13be12a910a7f1668812528c17c",
+    "Size": 44601
+  },
+  "Data/Character/Coat/01041109.img": {
+    "Hash": "7a284ec076cefda38ef26ecc66814ab8a9a5c94d5fb08e4c5c21f1c852190caf",
+    "Size": 37975
+  },
+  "Data/Character/Coat/01041110.img": {
+    "Hash": "78b8bcf4cd13bd5ac1539e2cff2b13bd41d1cd9e8d11013877521dad0613433f",
+    "Size": 40017
+  },
+  "Data/Character/Coat/01041111.img": {
+    "Hash": "0819b41deb9e8edbaaa8fd1a64c1ad62addd8f478fc00a4c0d8a5448b2139fb0",
+    "Size": 39640
+  },
+  "Data/Character/Coat/01041112.img": {
+    "Hash": "14ab233cab38213264b879294b7f4cf93b2202ac0ae30e775f68d073e20e0868",
+    "Size": 39526
+  },
+  "Data/Character/Coat/01041113.img": {
+    "Hash": "c84b80e39c860e1ebf12ec996436e74db8a0ff12e9d63ae7cf5c8269d5517c16",
+    "Size": 34257
+  },
+  "Data/Character/Coat/01041115.img": {
+    "Hash": "e2b8583d1bb8f70f4119d852d4a6a60fbf46ff549cfecaca6b1cd4a3447aa8cf",
+    "Size": 40451
+  },
+  "Data/Character/Coat/01041116.img": {
+    "Hash": "0c4960fa9473a0b9f13a4c1eeeb4f21990b324437c9e0131c025563ccdde0b8c",
+    "Size": 40413
+  },
+  "Data/Character/Coat/01041117.img": {
+    "Hash": "68584bbd7e79260f11ab54ac80b4f49cb3cf75bdbad25a9bb9bbf2f366e60af3",
+    "Size": 40521
+  },
+  "Data/Character/Coat/01041118.img": {
+    "Hash": "56d8d560f868988ccdd5cc73f276dec3f62f9ca21d62db87d322444825ccda5b",
+    "Size": 40464
+  },
+  "Data/Character/Coat/01041119.img": {
+    "Hash": "9775d28b4caa21907cd49816d6bbf53b3a97938f5ffc23054f32a077760b16c9",
+    "Size": 45418
+  },
+  "Data/Character/Coat/01041120.img": {
+    "Hash": "edc253698fe807faf3b9ca2fcbe8ef5d057dc08a8e1c4c5333a8c0f74bf6d6f4",
+    "Size": 45431
+  },
+  "Data/Character/Coat/01041121.img": {
+    "Hash": "7cd47834f316d8973878390f139b8c01da2f2459263f3706091903ca87359693",
+    "Size": 44457
+  },
+  "Data/Character/Coat/01041122.img": {
+    "Hash": "d34db49b882a1dd591cf342eb5fe08e4a67dc7bce8cd8334d1cf15f14eecf640",
+    "Size": 49731
+  },
+  "Data/Character/Coat/01041123.img": {
+    "Hash": "46a78f8c2689180eff809f4b42d417dbf3914b5d3f036f6ccf97ccc7586f0816",
+    "Size": 49843
+  },
+  "Data/Character/Coat/01041124.img": {
+    "Hash": "771ecebe5a712a076746a74089f6505895ed5cc94d9cfb8cdfd4c37079da39ca",
+    "Size": 50065
+  },
+  "Data/Character/Coat/01041125.img": {
+    "Hash": "3b45bf8eab8ab923d7fad79f16d3f3228d3404aa086693e876caf12f0f9b3be9",
+    "Size": 46185
+  },
+  "Data/Character/Coat/01041128.img": {
+    "Hash": "c1cad2330c7e8bf3ebf1c1d7182f1826fc92dacea43ffdc21052b36f37255c27",
+    "Size": 20860
+  },
+  "Data/Character/Coat/01041130.img": {
+    "Hash": "1e5ee26d1b58e57483cf8d2863cbe60d80978a211f20b0da034e3b7f88bdaa6e",
+    "Size": 22928
+  },
+  "Data/Character/Coat/01041131.img": {
+    "Hash": "dc8c42846df3976ca7f055a9d7378ce20f70cd87e66309978b93c8d11826cf50",
+    "Size": 33922
+  },
+  "Data/Character/Coat/01041132.img": {
+    "Hash": "3cd0d8ce064bd81faa15b0a01597a6d99b4bc8dd1a9785c81965603792c7ab9e",
+    "Size": 24351
+  },
+  "Data/Character/Coat/01041133.img": {
+    "Hash": "d0593c32f74575545b1f056750bfe905b80b4adb2ec1a34a49e7bccbe5383484",
+    "Size": 43360
+  },
+  "Data/Character/Coat/01041134.img": {
+    "Hash": "e447ae6f68cd81871ac3a68458c81e08527b0c6f84ef644542f8c5111b8a6b61",
+    "Size": 42693
+  },
+  "Data/Character/Coat/01041135.img": {
+    "Hash": "529ddaadbac7041378c70e1b6fa8c9e14407f115ebe00c845aebb8f1e7e2fb6f",
+    "Size": 39841
+  },
+  "Data/Character/Coat/01041136.img": {
+    "Hash": "5fed5caa2b874ef325286cd6738e2460fc98c891d79de9933b47dbf5a637e289",
+    "Size": 36522
+  },
+  "Data/Character/Coat/01041137.img": {
+    "Hash": "0a6079b0f8f347d5cb2f9784c17abd4d908f9fa679f390a24d723c90ce6dacbf",
+    "Size": 24746
+  },
+  "Data/Character/Coat/01041138.img": {
+    "Hash": "e2f857082cf70ae0074f9977b64af71ce671e78caba30a3e77663dc2ead4136f",
+    "Size": 44629
+  },
+  "Data/Character/Coat/01041140.img": {
+    "Hash": "a53fd86f0e73db720a632d987cd1ba51341b74f0b4eba57c55da30749b06ef9b",
+    "Size": 36563
+  },
+  "Data/Character/Coat/01041141.img": {
+    "Hash": "68b58ddbc240d9a7e4ad0874693a82c8cdb4a60de0549cf0fbb6b96226fe4bf1",
+    "Size": 47191
+  },
+  "Data/Character/Coat/01041142.img": {
+    "Hash": "871366da6f4a354fb1b32ed4929214d700f826d141ccbb0476b2cea69767997d",
+    "Size": 21944
+  },
+  "Data/Character/Coat/01041143.img": {
+    "Hash": "44228a00583ed24b6d8ba3019c1ad11ab53eee8a826bd4474b52233dbcd655d7",
+    "Size": 40940
+  },
+  "Data/Character/Coat/01041144.img": {
+    "Hash": "a864aa48e72e87708f5ea4a95f4000a9a312c7732c05c483a4dbe261388b228d",
+    "Size": 38520
+  },
+  "Data/Character/Coat/01041145.img": {
+    "Hash": "a2d4743c389ac3ea54dfc9c6fd62e634ff74d903aff7abc964bd04463e3a4730",
+    "Size": 39381
+  },
+  "Data/Character/Coat/01041146.img": {
+    "Hash": "a864aa48e72e87708f5ea4a95f4000a9a312c7732c05c483a4dbe261388b228d",
+    "Size": 38520
+  },
+  "Data/Character/Coat/01041147.img": {
+    "Hash": "a7243cabea3aabd4e9b6ee2108fa754c7be1fe7fa654ec100966e12ff52179df",
+    "Size": 52940
+  },
+  "Data/Character/Coat/01041148.img": {
+    "Hash": "c38c91d2681c912de1748eb9ca564c02786277048c18b66169c5f234f6d68afa",
+    "Size": 49429
+  },
+  "Data/Character/Coat/01041149.img": {
+    "Hash": "664fb74ff797dd2722659035eac9b5163815cc4c20bb4b0504151c7c0f3c280c",
+    "Size": 54247
+  },
+  "Data/Character/Coat/01041150.img": {
+    "Hash": "56a36c36b11037a010ac978641d518d13f88a89f919a15414d760469d99b5b64",
+    "Size": 40042
+  },
+  "Data/Character/Coat/01041151.img": {
+    "Hash": "ec04a9f5274d2ac6914fc5ec09b1ea88e22f45ea309e9fe77e48350f733e2db2",
+    "Size": 33771
+  },
+  "Data/Character/Coat/01041152.img": {
+    "Hash": "287cd448275a3bf77688cf2a3b090cb42889c86145b228d44e563b502cafb43a",
+    "Size": 35203
+  },
+  "Data/Character/Coat/01041153.img": {
+    "Hash": "9605f6b08cb7e103af24937127f9cbcab2523c18667cc0cf8e909ae89e66568a",
+    "Size": 36092
+  },
+  "Data/Character/Coat/01041154.img": {
+    "Hash": "91945fc336b16cc18d6d0d06490604faa23a214dfa4c2a9f28678bf7053c060d",
+    "Size": 45231
+  },
+  "Data/Character/Coat/01041155.img": {
+    "Hash": "504234f233157edbb6b7d053a5352d02c3228513092f830c41bb76dc2f08a88b",
+    "Size": 51641
+  },
+  "Data/Character/Coat/01041157.img": {
+    "Hash": "7b5a0e289cc83f7e8e1889a9e86c8a6f6d38f7665ec1bb22c66ac3631f06893d",
+    "Size": 48552
+  },
+  "Data/Character/Coat/01041158.img": {
+    "Hash": "c0c674494b9a5c0a4a3db52055118ef53bf5c29d1767ce695aa30856eb96fcf3",
+    "Size": 48637
+  },
+  "Data/Character/Coat/01041159.img": {
+    "Hash": "718c0c4bcc6ecbf1829399fbf3b840882abdafd8bb4ad241b32ae90fc5478dbd",
+    "Size": 40343
+  },
+  "Data/Character/Coat/01041160.img": {
+    "Hash": "92dfb4bbd65c632deb03846bc42f2a52951d71d1e5bcf34bf7639e5837b4f9c7",
+    "Size": 22141
+  },
+  "Data/Character/Coat/01041189.img": {
+    "Hash": "090134e48c11d3fba6276e9765e7597f73a4dab10ad39acdcdcb4234a27413e1",
+    "Size": 40335
+  },
+  "Data/Character/Coat/01041190.img": {
+    "Hash": "290abed4748e1970d9d17608e2b1594f474b63cd43637fffe4af27477a62de88",
+    "Size": 23353
+  },
+  "Data/Character/Coat/01041191.img": {
+    "Hash": "f716378caacdaef45d5727b450ff6450d85456de9d96c5f065d5d87124926a3a",
+    "Size": 23905
+  },
+  "Data/Character/Coat/01041192.img": {
+    "Hash": "093382cb1365b2077aecf22f6b99b987ddcaf27fe09805a11d2c01a51207afaa",
+    "Size": 22931
+  },
+  "Data/Character/Coat/01041193.img": {
+    "Hash": "38e25c6148e762ea79c2d25f0506e5ec206c05058684c7823a4c94000f1e40ad",
+    "Size": 47554
+  },
+  "Data/Character/Coat/01041194.img": {
+    "Hash": "efb5aecbcca461e1517900d5c5ea69b8e46a6520d08a1aff93e34a7a0594123f",
+    "Size": 40251
+  },
+  "Data/Character/Coat/01041196.img": {
+    "Hash": "9f572bd91c18b78883f6fc7b1c30497a5038c65abd36c1687f50f58e4c04b82d",
+    "Size": 26583
+  },
+  "Data/Character/Coat/01041197.img": {
+    "Hash": "76a3b78a04965a2765b5415d2c5465a53f6d2f9336d0f32d288ad6dc80df4853",
+    "Size": 37117
+  },
+  "Data/Character/Coat/01041198.img": {
+    "Hash": "255d563b9009ec80d837a657b9cdbb975bf2d270c2a3b714252a5d5edd880d65",
+    "Size": 24979
+  },
+  "Data/Character/Coat/01041199.img": {
+    "Hash": "76a3b78a04965a2765b5415d2c5465a53f6d2f9336d0f32d288ad6dc80df4853",
+    "Size": 37117
+  },
+  "Data/Character/Coat/01042000.img": {
+    "Hash": "fb4ac254db36a942b802e7cb8af4cc97a24be34a14f879525ce17335549b28a4",
+    "Size": 49249
+  },
+  "Data/Character/Coat/01042001.img": {
+    "Hash": "d724c880a5de099b0adddb0bdc503fa265362ae8d58dc5858bca0e35ea8cb658",
+    "Size": 47954
+  },
+  "Data/Character/Coat/01042002.img": {
+    "Hash": "8aba2c4de996de0c72c9b1f82c05cbe9ec4a39d777ecb54d5cba44640fb3fa75",
+    "Size": 47199
+  },
+  "Data/Character/Coat/01042003.img": {
+    "Hash": "c4088dfd67f69e7e19c70fbb704214fba8b14de07295c69385bc80914a302a2b",
+    "Size": 34682
+  },
+  "Data/Character/Coat/01042004.img": {
+    "Hash": "1c2dae9cc2aed2f22199531ca20613de3ced08fcbed7dac4d0255d2a31f6ba92",
+    "Size": 49299
+  },
+  "Data/Character/Coat/01042005.img": {
+    "Hash": "fd283941c147992edaf8b6a9c0c9aedd2faa116cc18ce4823cb56439872cc317",
+    "Size": 39495
+  },
+  "Data/Character/Coat/01042006.img": {
+    "Hash": "0548d028bb111ea8241731cdb8f452819c0355189f25194232596db2790e475d",
+    "Size": 39693
+  },
+  "Data/Character/Coat/01042007.img": {
+    "Hash": "f4de7181b0fde9b6be824e4bb0aad7e3d6147cd8d01e68699c2986b5a0181de4",
+    "Size": 39550
+  },
+  "Data/Character/Coat/01042008.img": {
+    "Hash": "9c577feb15d28490b3a7e1a0952317dcae643fa0451c2534387139f3b3f0e337",
+    "Size": 34915
+  },
+  "Data/Character/Coat/01042009.img": {
+    "Hash": "687c9d48039deb96d5eb8f2fc0f076b618415c3f74fe6f4a7896124cfadae599",
+    "Size": 34917
+  },
+  "Data/Character/Coat/01042010.img": {
+    "Hash": "cc2688ad50284a611c7427a509b43b8e25fd4f62cf99b73ec8ebe67fb2e9ea15",
+    "Size": 35281
+  },
+  "Data/Character/Coat/01042011.img": {
+    "Hash": "caefa38b2c02d45fea0f43fe05d784c46cf0bd638da0cf7d93872c38282536f7",
+    "Size": 35106
+  },
+  "Data/Character/Coat/01042012.img": {
+    "Hash": "3c86fb069a27a322182098f5f22b2721a81f06b2a41f8fb069518e69cf8a7879",
+    "Size": 47786
+  },
+  "Data/Character/Coat/01042013.img": {
+    "Hash": "8089100cf5f1e7e21711338ddc3459768cf2a88df8ea1551e666adb29ed9767b",
+    "Size": 47674
+  },
+  "Data/Character/Coat/01042014.img": {
+    "Hash": "1df6d2d608d624f9614ce8c47453e1ebbc518517915d53cb95f20fabe54832bf",
+    "Size": 41982
+  },
+  "Data/Character/Coat/01042015.img": {
+    "Hash": "ad923b8d5fd0f5815c8ad0911d7ae6d1acd6a2ab41083da84f057862e82d05b2",
+    "Size": 42096
+  },
+  "Data/Character/Coat/01042016.img": {
+    "Hash": "2442a1ef5dab302dca9dd52c4cf567a50838bbcf3ae1b10c536e01a72139fabf",
+    "Size": 47915
+  },
+  "Data/Character/Coat/01042017.img": {
+    "Hash": "faa85376fd8337fcdc3a2f584952e4ab6ee45495c43ddce0706fef29c438a5b6",
+    "Size": 47864
+  },
+  "Data/Character/Coat/01042018.img": {
+    "Hash": "0aa3fea3e6ab4c3a63cefa9b725bd6e8c7396047a04ff5360baed4d23155d44f",
+    "Size": 33151
+  },
+  "Data/Character/Coat/01042019.img": {
+    "Hash": "41511fff68afb870f7ae7f33d1c33ab67c2320e2f544229a158b5ab306f8f9fa",
+    "Size": 40218
+  },
+  "Data/Character/Coat/01042020.img": {
+    "Hash": "b98c3bffeab02826a4ddb58805548e1eeda8be24599e35a2383ec9f8d0772337",
+    "Size": 41331
+  },
+  "Data/Character/Coat/01042021.img": {
+    "Hash": "da5fe1c505ca6bfb5025560684f35e4b6c7b50b727e47319f862e2fa03d8af78",
+    "Size": 45940
+  },
+  "Data/Character/Coat/01042022.img": {
+    "Hash": "8fb3adaa98ff84d15af9dda5f77741f155a5b18fa70ad710ca2f35f23629b6ff",
+    "Size": 44130
+  },
+  "Data/Character/Coat/01042023.img": {
+    "Hash": "f584fb230917f7d93d2206831a4799b67360411c50871ee29dc318aa9c8c1a21",
+    "Size": 44906
+  },
+  "Data/Character/Coat/01042024.img": {
+    "Hash": "6d178a79e3b113cf9519522aaa54a963629f2ac4a1affd5702b1485ae2fc562a",
+    "Size": 42717
+  },
+  "Data/Character/Coat/01042025.img": {
+    "Hash": "f0ab5164a2dfd213010fb39f327d61443b517b418dceb18c35a9d8fb014d0414",
+    "Size": 47578
+  },
+  "Data/Character/Coat/01042026.img": {
+    "Hash": "4dc7729fdeae9fe2f8bbc6f8fe24bd0ae678ea9afcb98f8758ed0201b8ee6873",
+    "Size": 54257
+  },
+  "Data/Character/Coat/01042027.img": {
+    "Hash": "e11311d39712af39f5e38cd6abe2e9cb9b026c8117af183bcd6450eff78ae005",
+    "Size": 38326
+  },
+  "Data/Character/Coat/01042028.img": {
+    "Hash": "1b7a1cbbcfbef4219a110a52fb63c4cae8c7c330db64590898d4883a74a54fb1",
+    "Size": 38208
+  },
+  "Data/Character/Coat/01042029.img": {
+    "Hash": "a740b06c3a9299dd55c719f277d8e26854230321a1217e803a4da5b52c01f73e",
+    "Size": 34781
+  },
+  "Data/Character/Coat/01042030.img": {
+    "Hash": "65798a5ece473d8dcb00b518e177a0aeabafc4d889136326d4177f4f0f205416",
+    "Size": 34298
+  },
+  "Data/Character/Coat/01042031.img": {
+    "Hash": "6a2ce4dc7916b34a4b562ea9d6e5d56be87904bd05e5ceb60d57ec2feb8f5d9d",
+    "Size": 34506
+  },
+  "Data/Character/Coat/01042032.img": {
+    "Hash": "eae3d389aa079ab4d2a792307bee9cec1f693383e4b4017a48477cbda75ebcc9",
+    "Size": 40359
+  },
+  "Data/Character/Coat/01042033.img": {
+    "Hash": "4443c594abc6436b859f426607b48b377d49cfad71713d9483e8c3a5fd9263fc",
+    "Size": 45457
+  },
+  "Data/Character/Coat/01042034.img": {
+    "Hash": "8d1bb3ef8763f8a49d445c47befb364ecbdf455c2ec6c8502a06695bce35a794",
+    "Size": 44993
+  },
+  "Data/Character/Coat/01042035.img": {
+    "Hash": "775ceeca54716f653068ab8b0a442b18d552823e6f876343f56c61ea14a273aa",
+    "Size": 43212
+  },
+  "Data/Character/Coat/01042036.img": {
+    "Hash": "642019848467c7e648cba2b123b38417cb48372bc65765e17cd05d8931d42286",
+    "Size": 45475
+  },
+  "Data/Character/Coat/01042037.img": {
+    "Hash": "06121e97c3b4cea98fbd96f55081fa38573d3a0811c68cf01029c68a0d7c9290",
+    "Size": 46740
+  },
+  "Data/Character/Coat/01042038.img": {
+    "Hash": "c3efdba2a4dc7780e884e1836ad6a3f816444dd01cea0ae6a36bc7f387fd38fa",
+    "Size": 38038
+  },
+  "Data/Character/Coat/01042039.img": {
+    "Hash": "ecf3b1feb4a56ff3a48a314d293b1706526357aae57e46d835f7e584a798d3dd",
+    "Size": 38666
+  },
+  "Data/Character/Coat/01042040.img": {
+    "Hash": "5384eb6e775493a3b6fa8e1ddba7ad2b10ddb71ee510bc9e46aa725828e94e86",
+    "Size": 38306
+  },
+  "Data/Character/Coat/01042041.img": {
+    "Hash": "18de7fa477505f0ef74d48487f70739c53884e9ae58e4ef0a9dc139ced990a33",
+    "Size": 38698
+  },
+  "Data/Character/Coat/01042042.img": {
+    "Hash": "376d341aa25182e2b695a9111af555cf18f290d76ac1b2443767259d4422761f",
+    "Size": 33621
+  },
+  "Data/Character/Coat/01042043.img": {
+    "Hash": "f1f9d079ca111eff30f7b863e6dc92a98970937bec00c0ff5649187b0f4d035c",
+    "Size": 34526
+  },
+  "Data/Character/Coat/01042044.img": {
+    "Hash": "6a0a088c503678a4642a5901f5ccda566168b29f9e74f8ba7eec845cb3679870",
+    "Size": 34803
+  },
+  "Data/Character/Coat/01042045.img": {
+    "Hash": "b140f0c7cf782df3a7ce48a8bc9e99f22afc67b44445825c98762eaa520d8d35",
+    "Size": 38457
+  },
+  "Data/Character/Coat/01042046.img": {
+    "Hash": "3a6ddd5bac2e21908707c2c9b9ab49aa8e8c365acd66774b6955913ec9ab87ee",
+    "Size": 40627
+  },
+  "Data/Character/Coat/01042047.img": {
+    "Hash": "01307e667d845a8fd2feec2a4f8337953a34b266ca34ca061c126550acde6d24",
+    "Size": 36749
+  },
+  "Data/Character/Coat/01042048.img": {
+    "Hash": "63f253697c512c7c1a769dfb97e650cb728aec431531f087413fc64fad71ce0f",
+    "Size": 36734
+  },
+  "Data/Character/Coat/01042049.img": {
+    "Hash": "e2bf5f19377d71fb205a6371bf4f87809982d50319ec54cbf80274ae7226a902",
+    "Size": 40982
+  },
+  "Data/Character/Coat/01042050.img": {
+    "Hash": "7ee657a4d651be22da985ca701e2127c62e57f1eb95ea518eaa3f3fdf382fb30",
+    "Size": 39776
+  },
+  "Data/Character/Coat/01042051.img": {
+    "Hash": "86d7d8294c76dc5bef83d3d7c60a226e2ebf7ad16998a0e03a851950abd6d511",
+    "Size": 47511
+  },
+  "Data/Character/Coat/01042052.img": {
+    "Hash": "eb7507b5e200d95745ae9dbc3fed00c94385828e8fe6deeb784db19698c80b84",
+    "Size": 42860
+  },
+  "Data/Character/Coat/01042053.img": {
+    "Hash": "a0284d93484f07c3652966ff0b92ca33341263b286140933b7266b7d1234638b",
+    "Size": 41885
+  },
+  "Data/Character/Coat/01042054.img": {
+    "Hash": "6f6a50636082072f92ca357d164f6a28a795583eaf611d24abf92947c1df0c3d",
+    "Size": 43002
+  },
+  "Data/Character/Coat/01042055.img": {
+    "Hash": "f569c0dfed4ee7064f436da8eb555db16335f68eb7f1efcfd02833f6fe34eb7f",
+    "Size": 42637
+  },
+  "Data/Character/Coat/01042056.img": {
+    "Hash": "f96e3b0d010b846190c6e749cb07e8049b9d8d0d2b19104a93cb86aefeea61b4",
+    "Size": 39335
+  },
+  "Data/Character/Coat/01042057.img": {
+    "Hash": "7c06f4e14e7185c4b1bbd49b83a9d9550a5b6a07d0afe4331fb2ade66c2bbbd1",
+    "Size": 52644
+  },
+  "Data/Character/Coat/01042058.img": {
+    "Hash": "26bcf39268b226fb781b0bcd8dfc7c8ce8affa1641eb8d52006f76e5cf4a4d63",
+    "Size": 48302
+  },
+  "Data/Character/Coat/01042059.img": {
+    "Hash": "b5384ebd3f4bce573db156cc24abe2c1fb36e2ac4a48b4f930180339c443579c",
+    "Size": 51235
+  },
+  "Data/Character/Coat/01042060.img": {
+    "Hash": "28eea33bc8a7001f96dbc12fdafe252926a0d8850e8e6edd9d31c0bd5d0b8a7c",
+    "Size": 46961
+  },
+  "Data/Character/Coat/01042061.img": {
+    "Hash": "2bf8b71de33b98f85e3d3bbf860946c9514b1be7e3b650fd45f1246ff9863d8c",
+    "Size": 44261
+  },
+  "Data/Character/Coat/01042062.img": {
+    "Hash": "769b22b67031db3f32b743f30825f6a9e8a4c1aacfbce6ff894087aef22e6075",
+    "Size": 44399
+  },
+  "Data/Character/Coat/01042063.img": {
+    "Hash": "27f6583ab24eb8c928b9b4aa33b2a765e28b70fab5faed1eb6358c981df18bd0",
+    "Size": 41623
+  },
+  "Data/Character/Coat/01042064.img": {
+    "Hash": "825ec78ad36a4e7c73c8acfa605c0c97873425e4c35499da76770b9717b75575",
+    "Size": 49918
+  },
+  "Data/Character/Coat/01042065.img": {
+    "Hash": "18a658a25eb1c86c0abd2d807731cc9fe4452a033e47c0d94f96d4e71d1aeb7e",
+    "Size": 52125
+  },
+  "Data/Character/Coat/01042066.img": {
+    "Hash": "0844458921add8189a6129ea96e458e3fa6ef1b9c4bddcfa60125d42cf2bd489",
+    "Size": 42276
+  },
+  "Data/Character/Coat/01042067.img": {
+    "Hash": "ac11dd64d1a350365a0d481de1dde577f1019306c9acbd7fb5c208c4355f4f6b",
+    "Size": 46592
+  },
+  "Data/Character/Coat/01042068.img": {
+    "Hash": "2bc20cc5aae7228667a397fcc332841b450b4a8d56775ed9fd63930c307f1b4c",
+    "Size": 43625
+  },
+  "Data/Character/Coat/01042069.img": {
+    "Hash": "9cadcba80282ff92a1fce639cb37214b7562633084f4c277874bd1a748f8af6c",
+    "Size": 42675
+  },
+  "Data/Character/Coat/01042070.img": {
+    "Hash": "0ccdffb0fe15e20e267c6c2dd66350d9c4fffd77db3a17301cbee8c7a63f77a6",
+    "Size": 41833
+  },
+  "Data/Character/Coat/01042071.img": {
+    "Hash": "fd440e69ca3977bcb19d6ebe8d5b4b0cdbeb57622efc46f85374af51f573eee4",
+    "Size": 39015
+  },
+  "Data/Character/Coat/01042072.img": {
+    "Hash": "22a4b5e7cd0cfcb73046c4fcb620cbd999e76bce508e7403b70bcfffa9494e0b",
+    "Size": 37771
+  },
+  "Data/Character/Coat/01042073.img": {
+    "Hash": "f4dc4c150fc8fc38a40faa79b92316b4134ded7fa11603ea0b717c09282be1c5",
+    "Size": 38319
+  },
+  "Data/Character/Coat/01042074.img": {
+    "Hash": "9d1128cde16805c872d3b72ad0782aab733a81a827d3b38be28964f1d01e937a",
+    "Size": 38168
+  },
+  "Data/Character/Coat/01042075.img": {
+    "Hash": "961ab8d22cd7a4853e82cd2840f93d0a1c542362ad3c5ed769455eb127cee3dd",
+    "Size": 34223
+  },
+  "Data/Character/Coat/01042076.img": {
+    "Hash": "d1da047d631a0f5b3bc345fc492384fa314fa811f8fce20a0eb9f00b0a6eb32f",
+    "Size": 37913
+  },
+  "Data/Character/Coat/01042077.img": {
+    "Hash": "c403e1ff797641a0509a6574e46a1be9a432b74d5bfc308ad3e1b947dedfd845",
+    "Size": 22575
+  },
+  "Data/Character/Coat/01042078.img": {
+    "Hash": "3b3fa21a719f73608f83181c9455b09229894d2212f56a4c075227d9a610606f",
+    "Size": 31960
+  },
+  "Data/Character/Coat/01042080.img": {
+    "Hash": "448fba2ffb83a8dd89a7790bb0daaa35a7010de186faf099a617b54677cab68a",
+    "Size": 37917
+  },
+  "Data/Character/Coat/01042081.img": {
+    "Hash": "ce68031f6372b3d2646ae298480eaab7e3414532f1c32b7eb06cbb1bed9fe2b4",
+    "Size": 39952
+  },
+  "Data/Character/Coat/01042082.img": {
+    "Hash": "ebf83b8e369b2c940ddaf7c3ff4c3688c764c6a383593bea80c56f32e0a2253e",
+    "Size": 39313
+  },
+  "Data/Character/Coat/01042083.img": {
+    "Hash": "497235d413836bd02e4464e505905f48b5c7e586a7f15a46d916ba426d31b0ca",
+    "Size": 46214
+  },
+  "Data/Character/Coat/01042084.img": {
+    "Hash": "2bea75597449efb0d1d0659cbca9f69493c2dac1ac27733e741e196ae697fc7f",
+    "Size": 54968
+  },
+  "Data/Character/Coat/01042085.img": {
+    "Hash": "fa6a3c6fa098f2c38f7c7651529a4748c5431cac3f267e97648398b49f8c94ff",
+    "Size": 34334
+  },
+  "Data/Character/Coat/01042086.img": {
+    "Hash": "a4189bce4fddba9dcfd165f87426dca06f83e293d57106448bfd87aa734c086a",
+    "Size": 44647
+  },
+  "Data/Character/Coat/01042087.img": {
+    "Hash": "21c4c6aff6b97c2b66130588926f4e9c5c74167ff154941e5c6b5f4280dcc772",
+    "Size": 42400
+  },
+  "Data/Character/Coat/01042088.img": {
+    "Hash": "be6eaf74842777d3987aacaf19386b98f8c46c11bd65688cd6313c2e43d84972",
+    "Size": 49533
+  },
+  "Data/Character/Coat/01042089.img": {
+    "Hash": "f34d598a0ba0d66fc5f89f46aa2af621552fe7ab62143276c61f1ef3c08fe48b",
+    "Size": 48315
+  },
+  "Data/Character/Coat/01042090.img": {
+    "Hash": "9697ad5161f843288682a2a25cc0d1d420e96bae8fa18e0d825c6e37041c7e41",
+    "Size": 48729
+  },
+  "Data/Character/Coat/01042091.img": {
+    "Hash": "f83615905b3aef56049016b9eb2f133a7480270e9a42b8be36d661ea15df31c1",
+    "Size": 49878
+  },
+  "Data/Character/Coat/01042092.img": {
+    "Hash": "b4edc0cdc4692113edaf15a796778b78d2df11c161a7154e1b135dd938cc54a1",
+    "Size": 46426
+  },
+  "Data/Character/Coat/01042093.img": {
+    "Hash": "b0ab68ee164531af49fb8728da87387a2a2b009e1004aa56fc72f261b2097d53",
+    "Size": 50843
+  },
+  "Data/Character/Coat/01042094.img": {
+    "Hash": "8f23120767829b4d0cc24adc279ad3d4fa6a3fdc73223ab570628ff949b42b64",
+    "Size": 47658
+  },
+  "Data/Character/Coat/01042095.img": {
+    "Hash": "b4e423a9c042259999f9c65179007ee77c225e5da2ca6dc72f0d632e5a52e6a7",
+    "Size": 43959
+  },
+  "Data/Character/Coat/01042096.img": {
+    "Hash": "18a08fbeb00833272e1ae53b1f9854b9a0933bb3e0f9ea4f43272cc0cfbb3adb",
+    "Size": 41227
+  },
+  "Data/Character/Coat/01042097.img": {
+    "Hash": "bf9189df9019725ed13b4b3f7c224fe12a62be0c68571c14395c34fd85ed7cf5",
+    "Size": 43912
+  },
+  "Data/Character/Coat/01042098.img": {
+    "Hash": "a7367bdb8157e0b18bf5c8dc6ec0f2ef6a2555223493ddd4621fe710b2192835",
+    "Size": 42533
+  },
+  "Data/Character/Coat/01042099.img": {
+    "Hash": "ed3f55b1fd1f95af336a13c628fdd8cf73af8b9e74b0b502e20c3cfcd90a77ad",
+    "Size": 47030
+  },
+  "Data/Character/Coat/01042100.img": {
+    "Hash": "3d38946c51f7747b443b4a3da861eaaf9d7adff71c238318201dfc9ef8a1e15c",
+    "Size": 49354
+  },
+  "Data/Character/Coat/01042101.img": {
+    "Hash": "d8b1f6c068dbc1a66ced4cd8c56b5a100ca1e2bf43d4aee367c321ba1e81ed6f",
+    "Size": 51210
+  },
+  "Data/Character/Coat/01042102.img": {
+    "Hash": "980e82da54d2cb3ddb76c6d879d39a7e658f2796d57a9312641a744d8c540b8d",
+    "Size": 38151
+  },
+  "Data/Character/Coat/01042103.img": {
+    "Hash": "198cae9aff4b66c51423dfa4d6c3f00b415404a6f0c0c60a00a035be3b08793e",
+    "Size": 35970
+  },
+  "Data/Character/Coat/01042104.img": {
+    "Hash": "60e788f9b7f83a241b38678f3aebdd6566f722572fd721d62ef17a3ed165b231",
+    "Size": 34264
+  },
+  "Data/Character/Coat/01042105.img": {
+    "Hash": "688237109fc9402c9a28246bbab5fee36ae48614e5faddda46a84314b0e23745",
+    "Size": 46008
+  },
+  "Data/Character/Coat/01042106.img": {
+    "Hash": "0d3b9a886ea09da9222de8d508bce5a9f6f4e268ec5089d0a856c48597652cc4",
+    "Size": 40566
+  },
+  "Data/Character/Coat/01042107.img": {
+    "Hash": "04fbaa001398ae1350efa6ea385ee8b768e7620cd81ca37f6c3908b5b7e7de11",
+    "Size": 36804
+  },
+  "Data/Character/Coat/01042108.img": {
+    "Hash": "e5d8221fe31e82b13bf2eb7b2c97c62f3419f3c15d65bf0ecb99e581262945c4",
+    "Size": 31922
+  },
+  "Data/Character/Coat/01042109.img": {
+    "Hash": "7cd563910f0864f0b0374ac13fffab72d459fdbe306355e74b2539155dacd623",
+    "Size": 44307
+  },
+  "Data/Character/Coat/01042110.img": {
+    "Hash": "1846162c3259d93555aa8bd0e0fb2169be7b4edc716c0ebfd4a082310fc92c30",
+    "Size": 41612
+  },
+  "Data/Character/Coat/01042111.img": {
+    "Hash": "1a681ac05cc6e86cc1e640e4a150746cd29e2d805379e2ededccee898032f049",
+    "Size": 37133
+  },
+  "Data/Character/Coat/01042112.img": {
+    "Hash": "699b0afd7fe462ceb8a610a8b8868b9e0fbc9176a0d92453f257b1b3c3602dcd",
+    "Size": 37156
+  },
+  "Data/Character/Coat/01042113.img": {
+    "Hash": "32b400b03901ddb4bede5d90a0141c7cddd3202ef0aeaf9872593afd12d0a469",
+    "Size": 39277
+  },
+  "Data/Character/Coat/01042114.img": {
+    "Hash": "c1d43c063d1344e229b828a2e519da99161ec09f55cb11314bfffeea0feab276",
+    "Size": 38919
+  },
+  "Data/Character/Coat/01042115.img": {
+    "Hash": "718acd7d44a92c9129e328f1c2e5a57dffcc6dae6cf3eb280d943679c4ba4ce8",
+    "Size": 46734
+  },
+  "Data/Character/Coat/01042116.img": {
+    "Hash": "e7c42dae26aa5cef1ca6a5a7dfa0c7e1fb0c1427621def81d2c8a232527cd227",
+    "Size": 46661
+  },
+  "Data/Character/Coat/01042117.img": {
+    "Hash": "1132331f32eb9b75f2f08abf211792b6d3925a3ebccaf1f6440c865c8093b210",
+    "Size": 48582
+  },
+  "Data/Character/Coat/01042118.img": {
+    "Hash": "4dea3155a185ac18b274e221e24ce10f7581d318da66f95f36af6bc3537612e8",
+    "Size": 41256
+  },
+  "Data/Character/Coat/01042119.img": {
+    "Hash": "b7008aba403303746bf78cc512b17fd3970918d55a9dbcdd57c9083021d2cd27",
+    "Size": 51781
+  },
+  "Data/Character/Coat/01042120.img": {
+    "Hash": "2fc0d63ba88259bf1cd444c584a4d48609961a707516e61f6db85cc4b748ce98",
+    "Size": 43198
+  },
+  "Data/Character/Coat/01042121.img": {
+    "Hash": "e626d2eef1a202d7bd7f2284e93007879cde1fcfe9f5cd11b38744ab4f23cc5f",
+    "Size": 42753
+  },
+  "Data/Character/Coat/01042122.img": {
+    "Hash": "9e20ab115f7170b183b46934738b27a9596f212dd9e4cdb0b382ba4dd37fa7c1",
+    "Size": 40701
+  },
+  "Data/Character/Coat/01042125.img": {
+    "Hash": "a053a2c594ab05f60f0b9c4632aa7f675ab00d5dca45b45e88a5c891c1164b6c",
+    "Size": 42508
+  },
+  "Data/Character/Coat/01042126.img": {
+    "Hash": "a94d00c089293fd297b1c68e043c5db953070de7c8a9a33f850e3e46cb011104",
+    "Size": 41630
+  },
+  "Data/Character/Coat/01042127.img": {
+    "Hash": "43f6d52e86237daefd3718520f85f289beddb7a921be84b5622dcb6e454cfcc7",
+    "Size": 41458
+  },
+  "Data/Character/Coat/01042128.img": {
+    "Hash": "e671ba5b0adb0034b002f09af0319383be520700af090607e0999c657ec840b1",
+    "Size": 41644
+  },
+  "Data/Character/Coat/01042129.img": {
+    "Hash": "52c5968ba9807e489ec47f0ee21e281ad3ab92802397f7bed1c2bf3a36bd9776",
+    "Size": 37044
+  },
+  "Data/Character/Coat/01042130.img": {
+    "Hash": "1ea851020981839bdfa08fc34239cd5967d266a595cba7a14988a050ed2f46f8",
+    "Size": 39178
+  },
+  "Data/Character/Coat/01042131.img": {
+    "Hash": "f7eaf2fe6d59e6cb07208ba1cb64c5c84e3d1d05c2d0a412154288f62d0f8669",
+    "Size": 39369
+  },
+  "Data/Character/Coat/01042132.img": {
+    "Hash": "85ca48ac72d2b500803bc02ca0d932cd489b5cf403372b09af7c071728002fdb",
+    "Size": 34009
+  },
+  "Data/Character/Coat/01042133.img": {
+    "Hash": "3cdf7c17b3393c9b1bf3b2744f759e9a49ad694e8d3b78e622811b72e7b5781f",
+    "Size": 45449
+  },
+  "Data/Character/Coat/01042134.img": {
+    "Hash": "9cc53b1f1663ebc341c371cdcfaa0af4481bb822039a539c4d8bc16534bbcd1d",
+    "Size": 39777
+  },
+  "Data/Character/Coat/01042135.img": {
+    "Hash": "e2045b161da0db9de55a0014e32d0f13828a76350f2b47b288b4207d99ac06dd",
+    "Size": 39747
+  },
+  "Data/Character/Coat/01042136.img": {
+    "Hash": "e37528f728942cc14263293cfd38310f807e59180eca2dfdedc040741474a17f",
+    "Size": 48670
+  },
+  "Data/Character/Coat/01042137.img": {
+    "Hash": "148686e77e1f7b4d430035f72cb4791d43fc5bf26eff4fa85974c9a8dfd29963",
+    "Size": 30432
+  },
+  "Data/Character/Coat/01042138.img": {
+    "Hash": "149fc601747f8fefa07c4a071cac7fc506d80258a6dc7e9566c1bed949631add",
+    "Size": 26804
+  },
+  "Data/Character/Coat/01042139.img": {
+    "Hash": "20ddc8447b292edac2742f165368fce9edadf8ea482fa4a2bf0ff740fefbbca1",
+    "Size": 38174
+  },
+  "Data/Character/Coat/01042140.img": {
+    "Hash": "6c45e1f96f01b488ebf0e68132d063757d19caedb52809e04a4fc8d0d801cf2c",
+    "Size": 34076
+  },
+  "Data/Character/Coat/01042141.img": {
+    "Hash": "2602e16ba02b6702545d23733da810f4963f79177285d34ed026d4607eb0f003",
+    "Size": 35516
+  },
+  "Data/Character/Coat/01042142.img": {
+    "Hash": "cc8632786406880e6f6ee31a7b538a211082b89a94d9b6889ce3879a4c7231f2",
+    "Size": 28596
+  },
+  "Data/Character/Coat/01042143.img": {
+    "Hash": "d741109baeea000ae55722eb9114eaa6ca00ba7d0dba647b1073db4d2be4dc14",
+    "Size": 25063
+  },
+  "Data/Character/Coat/01042144.img": {
+    "Hash": "f51877b7acdffc2b852ea35a4fa22f7d5ea00db55cd660a5b711ee4e86f54935",
+    "Size": 40913
+  },
+  "Data/Character/Coat/01042145.img": {
+    "Hash": "7029af21c2e8b6ebea77878848eb4fe6fadec44420ce7dc66b84aa4375975125",
+    "Size": 42686
+  },
+  "Data/Character/Coat/01042146.img": {
+    "Hash": "8f076573a7828affbce0680b218fd9937835316dc27b5f272e2b483b374a9cbd",
+    "Size": 51352
+  },
+  "Data/Character/Coat/01042147.img": {
+    "Hash": "c1909dc1fccf1883fef2144013b02e3e57648393fdf8391974099efaff4abd9c",
+    "Size": 46552
+  },
+  "Data/Character/Coat/01042148.img": {
+    "Hash": "96b348c7a03969d1c3c41af6a77940c2123978d86d68ba16a020efd794ad495d",
+    "Size": 38459
+  },
+  "Data/Character/Coat/01042149.img": {
+    "Hash": "8daba8d583b83d321e4c531de254af0507c130a722405aaf2870bc2ab4cf27fe",
+    "Size": 44973
+  },
+  "Data/Character/Coat/01042150.img": {
+    "Hash": "b06a218d056a1891903acf189d199b0f58f5ad377fde415762a865cbe3c17c28",
+    "Size": 35268
+  },
+  "Data/Character/Coat/01042151.img": {
+    "Hash": "893fd0fa14a3f111c21ac5ab97452949c1982c63bb164892dfea1b100c126fb5",
+    "Size": 47429
+  },
+  "Data/Character/Coat/01042152.img": {
+    "Hash": "c4b320ef387d0d346acf6f3c3a5207fc021d34b0040a3e5df1c9c9f2c96e402c",
+    "Size": 53621
+  },
+  "Data/Character/Coat/01042153.img": {
+    "Hash": "1fe531e3ee904de85b6df370d009f81a99bad02a6f1ff9065cbadb11e392e840",
+    "Size": 47605
+  },
+  "Data/Character/Coat/01042154.img": {
+    "Hash": "bf69c02bff9afcfcec9c1918b1a2a8e91ab1148686e404ad74108caa2f8f0b5f",
+    "Size": 55563
+  },
+  "Data/Character/Coat/01042155.img": {
+    "Hash": "c8e08ff8d92b1ae53a03a13e4372673068ec944e072455f678d6de230ca7663b",
+    "Size": 58092
+  },
+  "Data/Character/Coat/01042156.img": {
+    "Hash": "813126ad648a519f4f263295de0da2cee5772cf21d116400304c41d266a93ffd",
+    "Size": 40164
+  },
+  "Data/Character/Coat/01042157.img": {
+    "Hash": "4483a5dc875b34179e2158a45041b3993f35a7e1c8e0e0bf963982059e7d19a5",
+    "Size": 40982
+  },
+  "Data/Character/Coat/01042158.img": {
+    "Hash": "b790332204a75cc9ea1c0d98efd29b92d3e8c4486b839d40bf1e5d2835861374",
+    "Size": 46065
+  },
+  "Data/Character/Coat/01042159.img": {
+    "Hash": "65f867e499f5f2915f987689209e9d10f58db20ee2ea374836eb41eb1007a2fe",
+    "Size": 60695
+  },
+  "Data/Character/Coat/01042160.img": {
+    "Hash": "450e492e17092715682251955b581a6a0c8a7e8ce32acc649a1fef1b5c1bf856",
+    "Size": 49370
+  },
+  "Data/Character/Coat/01042161.img": {
+    "Hash": "476c01c3f436df041927579eca48b7dc25ebabe6fc3608949aa2d0677e6e3800",
+    "Size": 48329
+  },
+  "Data/Character/Coat/01042162.img": {
+    "Hash": "2c81c6c95ff5b7b04532eb15a9942e2b4a10137e9b8d28389749cb585a6fdbac",
+    "Size": 21564
+  },
+  "Data/Character/Coat/01042163.img": {
+    "Hash": "6aca8a5adddcdb089a31ad588b1d409bf6f37443899244149776d506d758f04e",
+    "Size": 45517
+  },
+  "Data/Character/Coat/01042164.img": {
+    "Hash": "7b983167029cfc321378d02a15d2ed7599b20654cf0d1b91cc32977a51796106",
+    "Size": 41614
+  },
+  "Data/Character/Coat/01042165.img": {
+    "Hash": "014107145a92a7b922e6fcfcd32a996d508ddcc8ce1cabce9923314ac33327da",
+    "Size": 39637
+  },
+  "Data/Character/Coat/01042166.img": {
+    "Hash": "e2758b6f3f1655d86b1b368934ba5854f79dc4acf10f1340ae99d3e7e8761d5d",
+    "Size": 43871
+  },
+  "Data/Character/Coat/01042167.img": {
+    "Hash": "8a1d829f8a870d2bd1033ab2d00ebaf750fb3637ab83679f0a0b46d9777e66ea",
+    "Size": 44985
+  },
+  "Data/Character/Coat/01042168.img": {
+    "Hash": "5c25cf45450136192e7ab97b0a5b2490340b3f926c40c1327c087bf3781e621a",
+    "Size": 39279
+  },
+  "Data/Character/Coat/01042169.img": {
+    "Hash": "73ae5fbb26ada163948fe52be43593f9898f5b4ff9972b5d041a6f3615e049d3",
+    "Size": 42963
+  },
+  "Data/Character/Coat/01042170.img": {
+    "Hash": "29fb6683e5b5a1e2a218dad0e7f52eba1e901f0107f776519925fe3f5070ea7f",
+    "Size": 39445
+  },
+  "Data/Character/Coat/01042171.img": {
+    "Hash": "c6faba128b9e69b30b55f1f63603981ab32012164f5aa870d69e27139f08cea4",
+    "Size": 33161
+  },
+  "Data/Character/Coat/01042172.img": {
+    "Hash": "9e03cbefd781b318da65627811eb764e2effe16cf238cadae92cbd262b529c6e",
+    "Size": 43260
+  },
+  "Data/Character/Coat/01042173.img": {
+    "Hash": "0d94033b5c38c5da6cea956581be5b8b33205eb68ffccdab3eb2a48990198f86",
+    "Size": 40361
+  },
+  "Data/Character/Coat/01042174.img": {
+    "Hash": "910a59a4a5cc53eba88bd37c5f5ccb9decd3846bdc899ee47936430bc1ea6d86",
+    "Size": 47042
+  },
+  "Data/Character/Coat/01042176.img": {
+    "Hash": "4876120c1a71f88383b595aea22976b22ef321446d4b054ad95e297934970d02",
+    "Size": 39898
+  },
+  "Data/Character/Coat/01042177.img": {
+    "Hash": "7cfd7f28393f6e05d7e9e89bd68ec6809fa58fca4f08149ecfaad471d428ccf6",
+    "Size": 51408
+  },
+  "Data/Character/Coat/01042178.img": {
+    "Hash": "94394fed820ba57110429f4cd1513bfd6bb57a1d77dc7b35dade13417a79cf76",
+    "Size": 35744
+  },
+  "Data/Character/Coat/01042180.img": {
+    "Hash": "a43f82d14e98afac530be069c73620f6a78fd7e02d6388ffb3c5989b3d4df86b",
+    "Size": 35347
+  },
+  "Data/Character/Coat/01042181.img": {
+    "Hash": "630ed45463df95656e4d44267c2b8b80964e0d7ec18c5cb1b0f3b5fa665a301d",
+    "Size": 43492
+  },
+  "Data/Character/Coat/01042182.img": {
+    "Hash": "29af47e3a496cc56eb3babacf09fc35ef89d46075f50e0f288d3cac0a0010efd",
+    "Size": 44554
+  },
+  "Data/Character/Coat/01042183.img": {
+    "Hash": "0ae45d75b3afe1201ab4de80e99e3537bd63317f602b2b6f20daf473ed11d114",
+    "Size": 44129
+  },
+  "Data/Character/Coat/01042184.img": {
+    "Hash": "12a17e1cd405f7b7efdf42e713f14fcec30b43feb83a3c3447f7fc3cf227b630",
+    "Size": 45342
+  },
+  "Data/Character/Coat/01042185.img": {
+    "Hash": "3ec1de4fd66dec705f60ee2561a18408a2a56dd6b2d802bf690fa586124c7b00",
+    "Size": 44229
+  },
+  "Data/Character/Coat/01042186.img": {
+    "Hash": "6a52e322db6519baa84c718c072f62de62fb570cd28b1c12a345cd657e2ba2e8",
+    "Size": 44579
+  },
+  "Data/Character/Coat/01042187.img": {
+    "Hash": "ae4b6774f4dd7ebd57de750dbd33eb1af9da0101502325a4ed5566118ec2eca8",
+    "Size": 55908
+  },
+  "Data/Character/Coat/01042188.img": {
+    "Hash": "c0ee42d49042e7e7e622b19e94990323333f15fde8383aa5451bfda76934eb1a",
+    "Size": 40224
+  },
+  "Data/Character/Coat/01042189.img": {
+    "Hash": "ea446222a083ad98cb61ba0e50113bdb91da4161939b8074eddcaaa73722c9f2",
+    "Size": 57228
+  },
+  "Data/Character/Coat/01042190.img": {
+    "Hash": "cb558c47e3c238d794d89b8ee265987f18e4a5c95049b08d75a17a3012496aba",
+    "Size": 51448
+  },
+  "Data/Character/Coat/01042191.img": {
+    "Hash": "953a020ce07e7d340afe177ad391a4a438ac2e418ffbf2cdd2e459b0b4ea510d",
+    "Size": 48000
+  },
+  "Data/Character/Coat/01042192.img": {
+    "Hash": "44228a00583ed24b6d8ba3019c1ad11ab53eee8a826bd4474b52233dbcd655d7",
+    "Size": 40940
+  },
+  "Data/Character/Coat/01042193.img": {
+    "Hash": "3997bf23094e46055180f1c0a1e4fd4fadb3d2435f7263d2e9f59957c0a6d958",
+    "Size": 40517
+  },
+  "Data/Character/Coat/01042194.img": {
+    "Hash": "c1ea6d06cc2253d126ad24d0e220d4b14c85f74e40e92b1aa4045d3a9d425bcf",
+    "Size": 32745
+  },
+  "Data/Character/Coat/01042195.img": {
+    "Hash": "9c25fea5968e254886f5d54ca06ea0417f3cbf1b8b5586b77c403719a3d6f5a2",
+    "Size": 42574
+  },
+  "Data/Character/Coat/01042196.img": {
+    "Hash": "cdb9f6a70a8348f20b27188028747ee5655e3da2007408aa219f5b8f7f78256e",
+    "Size": 42396
+  },
+  "Data/Character/Coat/01042197.img": {
+    "Hash": "9b696dbfd9f437c3dd7e625928f21080817bb0e4304805c92ade86db99e847a1",
+    "Size": 42064
+  },
+  "Data/Character/Coat/01042198.img": {
+    "Hash": "f1ad85fbbf62c3b53470173f1b9ac65d406408c6fe90e69b742371d4144ebce0",
+    "Size": 37834
+  },
+  "Data/Character/Coat/01042199.img": {
+    "Hash": "998a455d7f4c1bcce2bc21292e71ef82a1a49385dc2bd5cd125ce0feaaf46431",
+    "Size": 35547
+  },
+  "Data/Character/Coat/01042200.img": {
+    "Hash": "bc58136b09e92f9fe5f76d53b2f201097169f0ab04bee0bb3b32103ba26574c8",
+    "Size": 35077
+  },
+  "Data/Character/Coat/01042201.img": {
+    "Hash": "b43e9cbcd43fd4c74253e3568a0e3ddbd93cd0da7f03720740eca9c1b85a4310",
+    "Size": 39753
+  },
+  "Data/Character/Coat/01042202.img": {
+    "Hash": "73b4cebabda95b9449ed7568f7ae399ddff3251c69a47b6c44a860734dc14d7e",
+    "Size": 38172
+  },
+  "Data/Character/Coat/01042203.img": {
+    "Hash": "fc56bfa8950588fb804caee55e0a0154f2ed456b3e857b53d013b3c96851271f",
+    "Size": 39564
+  },
+  "Data/Character/Coat/01042204.img": {
+    "Hash": "ab27a5886e97c5ca6e421e0b5832a95aa3b05c3e59eeff7e9332d67fe09be53c",
+    "Size": 42435
+  },
+  "Data/Character/Coat/01042206.img": {
+    "Hash": "716d0e9873a75b83716540b4f85c4943f73eb0810826dc4f44f38e5fcb02fce3",
+    "Size": 45079
+  },
+  "Data/Character/Coat/01042207.img": {
+    "Hash": "bc398947334dea1563640c48d46461cdbc1999ebec9c0a39f8841e22eaf05e2e",
+    "Size": 46650
+  },
+  "Data/Character/Coat/01042208.img": {
+    "Hash": "c87bb42b66eee0d5caf85c8f3e38376c986ef142463039a675e711f0bfbcbc82",
+    "Size": 51044
+  },
+  "Data/Character/Coat/01042209.img": {
+    "Hash": "d736696463ad7e379df3ed7c151ea97dae7d88c3e0305fa3412e4685d8842923",
+    "Size": 45517
+  },
+  "Data/Character/Coat/01042210.img": {
+    "Hash": "7de2a50aa773f67a46a89932a072a5bd634ea58190c7d821d02ebabe271063eb",
+    "Size": 45595
+  },
+  "Data/Character/Coat/01042212.img": {
+    "Hash": "08ec98c16195055b1395c991ff064f007087e410bad76826e6e604c6676d826d",
+    "Size": 49029
+  },
+  "Data/Character/Coat/01042213.img": {
+    "Hash": "6f9e03743cb805b031ba3010bdedc0e481552af204aa76ec1b1f53ca928dd9bc",
+    "Size": 49267
+  },
+  "Data/Character/Coat/01042214.img": {
+    "Hash": "f91e2804577d9ead26ebbb4bbf688ce9c96ffd59c7e50c018fd01b2f6bd54bcb",
+    "Size": 51751
+  },
+  "Data/Character/Coat/01042215.img": {
+    "Hash": "f01808808874def40e7d195bd274ce986ad78290e179135879e79d0c263766bf",
+    "Size": 41689
+  },
+  "Data/Character/Coat/01042216.img": {
+    "Hash": "65c1f5aa11f567fdd06e2e5b38633b06febeee6ac109acaacca5c6cb0a74b449",
+    "Size": 37402
+  },
+  "Data/Character/Coat/01042217.img": {
+    "Hash": "61f9fb6932dc0afe71b7ef6b3f221ec21b3cf6f3c793467edea2ff5fc1de594f",
+    "Size": 37550
+  },
+  "Data/Character/Coat/01042218.img": {
+    "Hash": "b36a4c1b103a0275df9727e203f8243d2d5ea6b2f73698b1eab69c034533ca2d",
+    "Size": 44584
+  },
+  "Data/Character/Coat/01042219.img": {
+    "Hash": "e52fc359babab55cd7cf37e2da171ff1086bba8f2dc182b94e66bc7630b82864",
+    "Size": 44912
+  },
+  "Data/Character/Coat/01042220.img": {
+    "Hash": "ae3b3b8c22325c00743bbc7848074ba0124951d994da6434e12e6c775b61851f",
+    "Size": 51126
+  },
+  "Data/Character/Coat/01042221.img": {
+    "Hash": "f361474d1ecfaa245ca3b70563b6b4528bb1ca60e55535bf203c2a87555f529e",
+    "Size": 40513
+  },
+  "Data/Character/Coat/01042222.img": {
+    "Hash": "240419263a2aa154ad09182ae9feb2c3b82ae999e6ef44a8b45f0caf8d72c5df",
+    "Size": 37958
+  },
+  "Data/Character/Coat/01042223.img": {
+    "Hash": "5e491d79f9019ff7fccca3e5f0691fb13565c61eef2a1cd688d1b13aed748673",
+    "Size": 36303
+  },
+  "Data/Character/Coat/01042224.img": {
+    "Hash": "6eb1da627f02d81da80d475b42e4851de3a4daf4c32a6218e8b0567633cab85b",
+    "Size": 47026
+  },
+  "Data/Character/Coat/01042225.img": {
+    "Hash": "a570e229de70ba20f4b86eef55c01ede5d9b029010f40122f27a73add606154c",
+    "Size": 47610
+  },
+  "Data/Character/Coat/01042226.img": {
+    "Hash": "abd1a84f8cb90a98c77ab04170053f82fd9f934694ee7b5edf3fc66fee7d2e61",
+    "Size": 35648
+  },
+  "Data/Character/Coat/01042227.img": {
+    "Hash": "7f83bc50760d7ec28d216407aa4964f902c611fbce40ad9ac71a7ee3ff9d0c5c",
+    "Size": 46042
+  },
+  "Data/Character/Coat/01042228.img": {
+    "Hash": "1c141a4cc3c6646f845dd2062054f1da9e87af3cb8be24da7cded0b6fb25c6e0",
+    "Size": 39829
+  },
+  "Data/Character/Coat/01042229.img": {
+    "Hash": "e7439a42f3560cb0db7b8e9cf643ba56aa40884db6c4d45add3267f093bb0a31",
+    "Size": 40048
+  },
+  "Data/Character/Coat/01042230.img": {
+    "Hash": "6482310c3f1c3cbf04ae99dbec20a29291cb7b62c8e8a2663bafcd7fd431caa4",
+    "Size": 47537
+  },
+  "Data/Character/Coat/01042231.img": {
+    "Hash": "3fa66e7485b4352cf7afda0bb82db60908a9fc76f645a8d165800e99780fbe33",
+    "Size": 37556
+  },
+  "Data/Character/Coat/01042232.img": {
+    "Hash": "963582dec46011ed39a4ba708c6040825a2a41676f91c02298fa9993909b26d3",
+    "Size": 55796
+  },
+  "Data/Character/Coat/01042233.img": {
+    "Hash": "ac471bac249be11b18ed96adacbf35c76efe05a6d52b0e117321b8094dcc55a2",
+    "Size": 44157
+  },
+  "Data/Character/Coat/01042234.img": {
+    "Hash": "95844203a081afd1e99f83abf2178233c51ef4042597f4dbee82355207a94cfe",
+    "Size": 45632
+  },
+  "Data/Character/Coat/01042235.img": {
+    "Hash": "5853d7738ef32e36cc8185e07ca739f0c863f152b61bfb955a6aab793e125e2a",
+    "Size": 53307
+  },
+  "Data/Character/Coat/01042236.img": {
+    "Hash": "661283444d13207d0e0e9a0f059d8cb50f77c695c160d7702ff1290bce0b20d5",
+    "Size": 45331
+  },
+  "Data/Character/Coat/01042237.img": {
+    "Hash": "086a2c09dd307d11ba1ec995a3fa1c70c05481b55342213a4384d62b71dcb732",
+    "Size": 34780
+  },
+  "Data/Character/Coat/01042238.img": {
+    "Hash": "9f7c61097fea1526249e8b8574c0d1ef01926cbec51b38c1a1e87ae7f8cc084a",
+    "Size": 40871
+  },
+  "Data/Character/Coat/01042240.img": {
+    "Hash": "0a573ec0e587701ea36cb64443060d2f20ce021c3449a349bfd4899847a215bf",
+    "Size": 42992
+  },
+  "Data/Character/Coat/01042241.img": {
+    "Hash": "94f39449a9368bb412996ec95f41ec985326a5fcc7c3f382375c519090aa1723",
+    "Size": 40105
+  },
+  "Data/Character/Coat/01042242.img": {
+    "Hash": "d35141eda4d04138d1b1d3a62a632f03ae250d3e0e7bda58dfa5dfee7da5b820",
+    "Size": 36815
+  },
+  "Data/Character/Coat/01042243.img": {
+    "Hash": "5083176a3e42096cd23894d922da6b48e5567ead087be1b14237ed47db2368d2",
+    "Size": 36788
+  },
+  "Data/Character/Coat/01042244.img": {
+    "Hash": "7e1706b63f3690d759f6433c91778b2664c46e7d51d0dbe4e8b1d471a1042e75",
+    "Size": 37560
+  },
+  "Data/Character/Coat/01042245.img": {
+    "Hash": "d60d9a7f2b0d1cfbe478620cac40532f6af4ed6b7222c7837fb48e79e7775218",
+    "Size": 48347
+  },
+  "Data/Character/Coat/01042246.img": {
+    "Hash": "14a69145bf99e314f3e2536d4c447523bd341a81a59f3111be352fbc00e68464",
+    "Size": 43882
+  },
+  "Data/Character/Coat/01042247.img": {
+    "Hash": "f6c8c11c2e0ab546d2c809e2d8775471c25f84c029bf4b89f1f3eb5ae9fbc32c",
+    "Size": 37129
+  },
+  "Data/Character/Coat/01042248.img": {
+    "Hash": "a2d0a8fa064dd4b72d48b0fc8720fd0b85f9a6cbfc9a714b8b92deea369b0fc4",
+    "Size": 43128
+  },
+  "Data/Character/Coat/01042249.img": {
+    "Hash": "bf1cf54b738b90be285988ce7a5ff899b530490ac1073804ab6eb864c2c05301",
+    "Size": 47151
+  },
+  "Data/Character/Coat/01042250.img": {
+    "Hash": "d2695f7236d76dc162b3de4c49c10022bb5bd59d11e4cf9f15a5748306ab79ce",
+    "Size": 51769
+  },
+  "Data/Character/Coat/01042251.img": {
+    "Hash": "f40eed969e829c7c0f5d9d758b83ca87a4df0b53cfe685eacc7854842963cd63",
+    "Size": 51801
+  },
+  "Data/Character/Coat/01042252.img": {
+    "Hash": "ccede969645accd5f4fe849a1484372f69f4d1e4ba04b160a96aafe302b4f58a",
+    "Size": 28286
+  },
+  "Data/Character/Coat/01042253.img": {
+    "Hash": "8409470a768019c3afc5e5645e7e01c9e9ee6cccbac2cd22667bea74032393b4",
+    "Size": 58434
+  },
+  "Data/Character/Coat/01042254.img": {
+    "Hash": "6021d304c52f1a66ba0262012c6137cc69206ddd875c101ef7e71e1e475da12b",
+    "Size": 51916
+  },
+  "Data/Character/Coat/01042255.img": {
+    "Hash": "78caf1d3326c85691d933f6d59b2e49a1bb0718c4ad5aef8c6eeb5f17499aefc",
+    "Size": 53086
+  },
+  "Data/Character/Coat/01042256.img": {
+    "Hash": "424a6530f52ad4f898df9131abe402921f12aa70ebc211577816c4e99fce6393",
+    "Size": 50913
+  },
+  "Data/Character/Coat/01042257.img": {
+    "Hash": "458057722db8118ef05f369f35add7f83b7e6de116a787458a58f341bfb67c5b",
+    "Size": 44129
+  },
+  "Data/Character/Coat/01042258.img": {
+    "Hash": "4f3501995ba9bb24c10b6676bf38e90d98bb047c067b7becb516c8a7fd082254",
+    "Size": 47717
+  },
+  "Data/Character/Coat/01042259.img": {
+    "Hash": "61e2e57aecfaafb68e3b876c7266471f5fa5953a7166e40ed6ae6f4ddec0941f",
+    "Size": 37976
+  },
+  "Data/Character/Coat/01042260.img": {
+    "Hash": "499ca9da3eca5d609817b69b31f4a00c3a671d43a0bf32c2a6a49c4df4763d0f",
+    "Size": 55103
+  },
+  "Data/Character/Coat/01042263.img": {
+    "Hash": "a10471e722e74f78ff94689549b0f9c9781b77f18e198713a2377b653a61d113",
+    "Size": 58797
+  },
+  "Data/Character/Coat/01042264.img": {
+    "Hash": "ebac4a6529af1836558e434d4147ef9dc54fdc4a403b426f9aeaedc4f5023234",
+    "Size": 28286
+  },
+  "Data/Character/Coat/01042265.img": {
+    "Hash": "b0e7a8b2dbf03c6037f1e4b04c349f31a9da4c85fd0701d3e780f5fcc541856d",
+    "Size": 49898
+  },
+  "Data/Character/Coat/01042266.img": {
+    "Hash": "a7243cabea3aabd4e9b6ee2108fa754c7be1fe7fa654ec100966e12ff52179df",
+    "Size": 52940
+  },
+  "Data/Character/Coat/01042267.img": {
+    "Hash": "174897d200771d17ac787e81040094bf2ddcf4089d8a20bfa060213ffbab3b6c",
+    "Size": 43132
+  },
+  "Data/Character/Coat/01042269.img": {
+    "Hash": "c369b83d47e90f9fdf6308bdf7fbfe93f3fe799dfd63ac13879a8c96652815fd",
+    "Size": 40058
+  },
+  "Data/Character/Coat/01042271.img": {
+    "Hash": "337bbdda9ef3e0061783b0643ac3608b1b8aa405a2702cbe614668eae2720657",
+    "Size": 39633
+  },
+  "Data/Character/Coat/01042275.img": {
+    "Hash": "3258d10952aa82e5b78011b4353e8f254f0e006a2dde9bdedcc76b026a6dd968",
+    "Size": 43938
+  },
+  "Data/Character/Coat/01042276.img": {
+    "Hash": "ed9a3f789ffe539e022e7ea1c953e93b0d2badd365d71fd2faad8656645da187",
+    "Size": 44088
+  },
+  "Data/Character/Coat/01042277.img": {
+    "Hash": "6959098746122d80c4f818ec931b93af6ebf7bc36675ad730267179db64efcdf",
+    "Size": 43981
+  },
+  "Data/Character/Coat/01042278.img": {
+    "Hash": "4dbc8de83d6e46b06ead9a413c6b9aa3f4b9a959e2aa2c497f65045ce9055fc5",
+    "Size": 44708
+  },
+  "Data/Character/Coat/01042279.img": {
+    "Hash": "cebcc3a77e7d0e4c049ffac59219d6467a75a0f7d2f8727b760ea07b1fddd7ad",
+    "Size": 42682
+  },
+  "Data/Character/Coat/01042280.img": {
+    "Hash": "59f8d947bd94f5dac292f13a411af1b6f9f40a0733656f3a4e3ec2f0f0d0712d",
+    "Size": 42742
+  },
+  "Data/Character/Coat/01042281.img": {
+    "Hash": "2418d48a290f0161ff35807ed6cfedb047d8da7d9fe9dfa0b511a954f9c9a66c",
+    "Size": 42750
+  },
+  "Data/Character/Coat/01042282.img": {
+    "Hash": "23a2db5e349d411404eea3d5dba8392cad2d918e8f5c904fd112e79b358acab4",
+    "Size": 42334
+  },
+  "Data/Character/Coat/01042283.img": {
+    "Hash": "266ebf64f188f347e03468389b480a103a4153b905098ec2ab4c605d9b2231d2",
+    "Size": 70019
+  },
+  "Data/Character/Coat/01042284.img": {
+    "Hash": "421b1d40f77ca7b67e6b2092b6b1d4f3fc9ac643d57aa3578b95dc356ec2ac26",
+    "Size": 81038
+  },
+  "Data/Character/Coat/01042285.img": {
+    "Hash": "3e4a3818ab8aa6dde7829202bdbf6c92eda9c701229df516782753552fbb5bfe",
+    "Size": 37201
+  },
+  "Data/Character/Coat/01042286.img": {
+    "Hash": "77a255bb03efdda4d556e87b800d5dfc61b186319beaa9a247de3efb8ebc099f",
+    "Size": 52158
+  },
+  "Data/Character/Coat/01042287.img": {
+    "Hash": "d916138020fc70e7fdefcf6ee49dfb36dbc35718006c888566bc7dc4b13ad9a7",
+    "Size": 45107
+  },
+  "Data/Character/Coat/01042288.img": {
+    "Hash": "9e94db57ae5f0ef5a572ceeddd38c96b0fbdf95a0cb90763781f8bb6cc1b8d56",
+    "Size": 43382
+  },
+  "Data/Character/Coat/01042289.img": {
+    "Hash": "782f4ba8393e696f5e744e1aae1daacec57f8f497b00abf22fc9b002fe5d2326",
+    "Size": 46471
+  },
+  "Data/Character/Coat/01042290.img": {
+    "Hash": "30d4488ac0ba55c226d9312b6351de2e115aa207ac6694533ac3488914dd9a9e",
+    "Size": 47305
+  },
+  "Data/Character/Coat/01042291.img": {
+    "Hash": "a4090c32d66d10d99fdf986dc93c2848a70a86b5cfc926c65632668b35d510d4",
+    "Size": 56096
+  },
+  "Data/Character/Coat/01042292.img": {
+    "Hash": "a36c3f109a2d341bbd8f123d4effb6aad7cb27f4caee5fc7565852469b72b29a",
+    "Size": 44670
+  },
+  "Data/Character/Coat/01042293.img": {
+    "Hash": "31bd023e95f6f03ca5c8552e506d13445152aa8f942f6c8cdabd97325c8de25b",
+    "Size": 41208
+  },
+  "Data/Character/Coat/01042294.img": {
+    "Hash": "1c6a02ef987124abfeee6ef971f4ae6489fd1a1fdefe30709546ab0b2e4dd76e",
+    "Size": 43770
+  },
+  "Data/Character/Coat/01042311.img": {
+    "Hash": "062887dee50b45398dcc458562370790797c8b9dde745cf943f31392e703fb13",
+    "Size": 41775
+  },
+  "Data/Character/Coat/01042312.img": {
+    "Hash": "52c5a0be3e63578834395abadfac39324e6f240f8e414b6524b427e0e51ae6f5",
+    "Size": 100977
+  },
+  "Data/Character/Coat/01042313.img": {
+    "Hash": "711c8da2f2e1dd77594c5bfd69af6ff606d20f84d11091f298815537d38ab95d",
+    "Size": 100005
+  },
+  "Data/Character/Coat/01042314.img": {
+    "Hash": "14605791d97e5a88d6420226e61e7a70a3a2f189621ae647e4ab7be08513c5cd",
+    "Size": 45163
+  },
+  "Data/Character/Coat/01042315.img": {
+    "Hash": "d69956d0a939e9d11d873005a206b0422a11dd962ca6e3130907069722e961d4",
+    "Size": 69106
+  },
+  "Data/Character/Coat/01042316.img": {
+    "Hash": "8d7888042637488bbb8f44ffaaf0bba4584aa426bb83f2df88d1c3cf8103f76e",
+    "Size": 68889
+  },
+  "Data/Character/Coat/01042317.img": {
+    "Hash": "c55ee2a0c1207f8b934440e7d5f5297b7046b90f6541b1ea107a15a3e247c98a",
+    "Size": 37560
+  },
+  "Data/Character/Coat/01042318.img": {
+    "Hash": "974fe1e95a2cb4fac9001726e940654b7395a666f9adc25e02a724b29f0167fe",
+    "Size": 51875
+  },
+  "Data/Character/Coat/01042319.img": {
+    "Hash": "b1470dea54d96f81951802c1a26ca2ecb9e0363c1ae07dd4419e3779289f9625",
+    "Size": 41758
+  },
+  "Data/Character/Coat/01042320.img": {
+    "Hash": "0a8542da56ec64ff6a7746d7abb13211b2783a88d78014b63fefb73d8fe3049a",
+    "Size": 40927
+  },
+  "Data/Character/Coat/01042321.img": {
+    "Hash": "016a42efa47ba859d8e29eee0fa0c093234ad83794491bd03a8bb9a6720c24e7",
+    "Size": 64898
+  },
+  "Data/Character/Coat/01042322.img": {
+    "Hash": "bbe4723e9eae567261545d55a54e845fcb6c8312917828006e575c1019da817a",
+    "Size": 62827
+  },
+  "Data/Character/Coat/01042323.img": {
+    "Hash": "4599a5f96c12c8eafc3bbcfaeb5315f5e31abe7e29725715496d11b402725174",
+    "Size": 67301
+  },
+  "Data/Character/Coat/01042324.img": {
+    "Hash": "f616568a3f598d1622d31748c274d159032931d297bc39a5d0f37683f221fe6d",
+    "Size": 62206
+  },
+  "Data/Character/Coat/01042325.img": {
+    "Hash": "f81b40c159d8ce3b6add2b582637d0ee82a47a481dee1c5e51ad1d5bd7c37fd2",
+    "Size": 66009
+  },
+  "Data/Character/Coat/01042328.img": {
+    "Hash": "b0e7a8b2dbf03c6037f1e4b04c349f31a9da4c85fd0701d3e780f5fcc541856d",
+    "Size": 49898
+  },
+  "Data/Character/Coat/01042329.img": {
+    "Hash": "3d259e34092ebd2a8b137f4fe164c57621e3cf17ecd60d1230864c5776acd9c7",
+    "Size": 41906
+  },
+  "Data/Character/Coat/01042330.img": {
+    "Hash": "e60dfa6e9cf2f6c8f232f0641b912d8ca57b7093c006af25e49a716fdb483f7e",
+    "Size": 42169
+  },
+  "Data/Character/Coat/01042331.img": {
+    "Hash": "b1470dea54d96f81951802c1a26ca2ecb9e0363c1ae07dd4419e3779289f9625",
+    "Size": 41758
+  },
+  "Data/Character/Coat/01042332.img": {
+    "Hash": "09b129e00a5dfa88ed35ae4283b68e878da99e9283d9ea4dd3c5b8ba8bbcb72b",
+    "Size": 41586
+  },
+  "Data/Character/Coat/01042333.img": {
+    "Hash": "a2fee8b9488fece5c9953608f19c80b67cc37e2678edbeb48b10fbb56eecef65",
+    "Size": 41022
+  },
+  "Data/Character/Coat/01042334.img": {
+    "Hash": "9aba11342d11e569b504fc65fe615dfc6157bac2b7934428e5584ba40d0f2d3a",
+    "Size": 41957
+  },
+  "Data/Character/Coat/01042335.img": {
+    "Hash": "c16868aeb8c8eefd504ff8eb7bb15363a21a4032b570835fd8cf90e22ff00ff2",
+    "Size": 39965
+  },
+  "Data/Character/Coat/01042336.img": {
+    "Hash": "df4f6e73680696336b20960c9211035cd37c97af206a5990fc8781fe5f75dd6a",
+    "Size": 47362
+  },
+  "Data/Character/Coat/01042337.img": {
+    "Hash": "501b0ed497ca9ff65825be5f70e947c490b236485377dd80395c749bbc7e2cd6",
+    "Size": 48654
+  },
+  "Data/Character/Coat/01042338.img": {
+    "Hash": "4a3ec21e62c361a1a052089a093d26f54100ff22206adf4cf6fac9bea34d4f86",
+    "Size": 48884
+  },
+  "Data/Character/Coat/01042339.img": {
+    "Hash": "8152aa93482ccc07f8f625a5611018560403d953d4110bf10ace6b4ab6b91081",
+    "Size": 44856
+  },
+  "Data/Character/Coat/01042340.img": {
+    "Hash": "4a121b7863a33c59f3789b6bd8cee5a7f66c54a6c2a8529491155a0986c74d83",
+    "Size": 44075
+  },
+  "Data/Character/Coat/01042341.img": {
+    "Hash": "c2e8b4ec58bb594c3da686b7c9d7795bc0f2cc1f4c08cf77f3b5d8008cd80503",
+    "Size": 40910
+  },
+  "Data/Character/Coat/01042342.img": {
+    "Hash": "88d190e619370044d3bef7c622a336a44d14cec79a658fbf1dae965d5a7cc434",
+    "Size": 45308
+  },
+  "Data/Character/Coat/01042343.img": {
+    "Hash": "6bf2e2695859cf73b852e8726aa93b13cb356567f11112a646c94da6ca53d7d2",
+    "Size": 56106
+  },
+  "Data/Character/Coat/01042344.img": {
+    "Hash": "a14fb095594368b881e28c6979e24836f2e7e7877297d5624e45da28795d3e7e",
+    "Size": 47114
+  },
+  "Data/Character/Coat/01042345.img": {
+    "Hash": "ab0feedaac3ac740ca8289ea6e7c6d8b2fa68adbd0a427db7cf9b9bfc2763cae",
+    "Size": 44745
+  },
+  "Data/Character/Coat/01042346.img": {
+    "Hash": "aecf4aadaf6c29b04b53203c2a6c6fa5ea34a4f8bdd4a56022dce7b368d8e4d6",
+    "Size": 45225
+  },
+  "Data/Character/Coat/01042347.img": {
+    "Hash": "7852e0662c30f92f2d760839732571f1d571893f36f59a247a23b4ada0276a54",
+    "Size": 25550
+  },
+  "Data/Character/Coat/01042348.img": {
+    "Hash": "750f87ac7030838ced79a93f4e67edd28cc6101ea7bbdac2af71fd6e9194ac47",
+    "Size": 39925
+  },
+  "Data/Character/Coat/01042349.img": {
+    "Hash": "f56a835013a3a67e9307a3c32bd21338806aebe4bb9106ea1b3c5b3d3920510b",
+    "Size": 44000
+  },
+  "Data/Character/Coat/01042350.img": {
+    "Hash": "f9ded950b638c2bff4abd305cb249f21c10d7f09080935df46eed26c9d139a64",
+    "Size": 40979
+  },
+  "Data/Character/Coat/01042351.img": {
+    "Hash": "a1359e964ca1a316a8664185e0f49459d136d373ec314a1bf12b36c65601edda",
+    "Size": 45323
+  },
+  "Data/Character/Coat/01042354.img": {
+    "Hash": "fee942541470779746519052ece235f89fba7f8e0edc12234aa12990b386c36d",
+    "Size": 44705
+  },
+  "Data/Character/Coat/01042355.img": {
+    "Hash": "3fecdd83450f536c297ab82ab404dcbedba8b809f7ee7e8098e71946c8b29cd9",
+    "Size": 44329
+  },
+  "Data/Character/Coat/01042356.img": {
+    "Hash": "cfe8b8190afb23e5d19a5f5ec81bc1523b6892a4c7d8f4b54b274a273cc9fb17",
+    "Size": 43579
+  },
+  "Data/Character/Coat/01042357.img": {
+    "Hash": "c7d4cc37101b333c8525b6e8b51e12413962afa80f1fcab50236fab3e32bf6e1",
+    "Size": 48657
+  },
+  "Data/Character/Coat/01042358.img": {
+    "Hash": "bdbbf0e41fa3cd7bab07a4afb1b5e4b2c708c8f1bf7b5340c8ad2438461eaf92",
+    "Size": 47187
+  },
+  "Data/Character/Coat/01042359.img": {
+    "Hash": "f91e2804577d9ead26ebbb4bbf688ce9c96ffd59c7e50c018fd01b2f6bd54bcb",
+    "Size": 51751
+  },
+  "Data/Character/Coat/01042360.img": {
+    "Hash": "579692be12b05712d21d319f2d55a6ae6c05c8ce7d4e97b340284d43a26d1f9e",
+    "Size": 47700
+  },
+  "Data/Character/Coat/01042361.img": {
+    "Hash": "e8c4dd938763168e43d56e816fc43fdac2aff6f1d4c580904c96268dfcedb21b",
+    "Size": 37308
+  },
+  "Data/Character/Coat/01042362.img": {
+    "Hash": "09809c907977d448f176d322df86ae897c2458f40f950984e56992d13c281342",
+    "Size": 39796
+  },
+  "Data/Character/Coat/01042363.img": {
+    "Hash": "da863e378a9c8e73ddb11398600b22e9a3abb70a4d0f247557079cd76ad70502",
+    "Size": 39506
+  },
+  "Data/Character/Coat/01042364.img": {
+    "Hash": "9f146d69039291570760a22e9ef24ac03ca7dfe0437ec84b30304853836dfefd",
+    "Size": 39473
+  },
+  "Data/Character/Coat/01042365.img": {
+    "Hash": "933baacfedc7552bc533b34591027e4df8974e4ad9887409efb043ca8d34b15d",
+    "Size": 40637
+  },
+  "Data/Character/Coat/01042366.img": {
+    "Hash": "8a50298bb5cc870267d4f7c58931d1fe063b63de25ac684a77976c56947cab9e",
+    "Size": 41233
+  },
+  "Data/Character/Coat/01042367.img": {
+    "Hash": "ecb841527296e1151a4c4740e51e0f7318971f1ab539a1171281afce16efe686",
+    "Size": 40601
+  },
+  "Data/Character/Coat/01042368.img": {
+    "Hash": "9c3bcc8276258d3e548dc891df213291f5e4dbbe6e954e18592669aca83e65a6",
+    "Size": 49061
+  },
+  "Data/Character/Coat/01042369.img": {
+    "Hash": "9c57b589b9ad59b24743b589a8e4c5e15a8f671687cdbc2c85c93ef708f4096a",
+    "Size": 49299
+  },
+  "Data/Character/Coat/01042370.img": {
+    "Hash": "4db5e36b18175556fb2496687d68675f1f8a00bfa90390ccafb4ec7181c3ea5f",
+    "Size": 44616
+  },
+  "Data/Character/Coat/01042371.img": {
+    "Hash": "be74464ae56909554740c8a462639fb14fbc87b4476252a6109da4ddec79b683",
+    "Size": 44944
+  },
+  "Data/Character/Coat/01042372.img": {
+    "Hash": "a381c11b5c4aebae341344a38e5c71920bd35a685f16f0445fbe346d6803828c",
+    "Size": 39828
+  },
+  "Data/Character/Coat/01042373.img": {
+    "Hash": "d1949487637b15be859f2097b6c7c8296a365a088ff9db20a9df32e447a33d91",
+    "Size": 39538
+  },
+  "Data/Character/Coat/01042374.img": {
+    "Hash": "7259ba20b89cfa302b91c9bceda24490f6a28733a2ad0528a52480d64e14fa43",
+    "Size": 39505
+  },
+  "Data/Character/Coat/01042375.img": {
+    "Hash": "18302be1724f2767bae2bf59810aa9cb6fe1dc9fad9a959289c601d7b9a9e78b",
+    "Size": 44201
+  },
+  "Data/Character/Coat/01042376.img": {
+    "Hash": "8fb57629ead4bc05a73785bc39e02d9b56e7add56f8c7409b3434a6f531c1e24",
+    "Size": 48935
+  },
+  "Data/Character/Coat/01042378.img": {
+    "Hash": "f24336ec1d8d985c266d7e4b0f4e2cafe21c4874e05cf9ae4ff452df5b773e4c",
+    "Size": 33824
+  },
+  "Data/Character/Coat/01042379.img": {
+    "Hash": "497a54056fa76ac937a4166f4bcbc6a6730405ec628153133cff8358e11a7865",
+    "Size": 44007
+  },
+  "Data/Character/Coat/01042380.img": {
+    "Hash": "18302be1724f2767bae2bf59810aa9cb6fe1dc9fad9a959289c601d7b9a9e78b",
+    "Size": 44201
+  },
+  "Data/Character/Coat/01042381.img": {
+    "Hash": "a283629f78c8ae7b05968a8e21d65e94870fe53c0b0c9864a3c8d879a96e8287",
+    "Size": 51866
+  },
+  "Data/Character/Coat/01042382.img": {
+    "Hash": "f1bfa27564d5f94c2b480942462967dc212d68db3252e4dc8ae394781986c376",
+    "Size": 103496
+  },
+  "Data/Character/Coat/01042383.img": {
+    "Hash": "c411a8c33221b98a4ccefb28ae0b892fa9b5e3c7a612e34ce49163e39d7404bd",
+    "Size": 50288
+  },
+  "Data/Character/Coat/01042384.img": {
+    "Hash": "c411a8c33221b98a4ccefb28ae0b892fa9b5e3c7a612e34ce49163e39d7404bd",
+    "Size": 50288
+  },
+  "Data/Character/Coat/01042385.img": {
+    "Hash": "d7535c6833244d7577a10747de6acddfe57a804013f3f5ac8cf367848fa4012b",
+    "Size": 45026
+  },
+  "Data/Character/Coat/01042386.img": {
+    "Hash": "569b4c3013d8fb5058b3fcfec4300fb74bcd4efe4f4caf8ca86996dacb0be8e2",
+    "Size": 37854
+  },
+  "Data/Character/Coat/01042399.img": {
+    "Hash": "dfea6caa8af8aee72d9bec39b5f07775483258832778123104997ff6159f2726",
+    "Size": 15594
+  },
+  "Data/Character/Coat/01042404.img": {
+    "Hash": "950fcae9876f74f14cf7fec4b2394d5e694ce12d7da908034f0d22a37bd91018",
+    "Size": 44653
+  },
+  "Data/Character/Coat/01042405.img": {
+    "Hash": "7313e5642d205d88c7df2b206a594a622d8e4de735416974deea7e081927b394",
+    "Size": 44665
+  },
+  "Data/Character/Coat/01042406.img": {
+    "Hash": "9bf9c2d105396122e23e2a6356265321f9e23ecacb2f7ec1dd33c77b226812cd",
+    "Size": 44946
+  },
+  "Data/Character/Coat/01042407.img": {
+    "Hash": "6b576c5b0c56577ea597e037478650d02c5c6d746691001a2d377f4eeeef07d4",
+    "Size": 44238
+  },
+  "Data/Character/Coat/01042408.img": {
+    "Hash": "692b9624f3961bd93960b819868369f7f4174520975a33308afa6d07f8019a7a",
+    "Size": 45052
+  },
+  "Data/Character/Coat/01042409.img": {
+    "Hash": "d32723a60891fada5dfd3f6a84ea9d9cbff78c194e25442a0956cb224412efdc",
+    "Size": 43572
+  },
+  "Data/Character/Coat/01042422.img": {
+    "Hash": "92af8a8befd39b0adadd7055fc919b5ff90087532e712ff7e6c7fd5c63789770",
+    "Size": 62468
+  },
+  "Data/Character/Coat/01042438.img": {
+    "Hash": "180aec534e795f5bf80ccb5dcdd0d79ff640febfb3671a998672f58cdc60bffe",
+    "Size": 45285
+  },
+  "Data/Character/Coat/01042439.img": {
+    "Hash": "a34648bd869f444e76750d76d6fa828503a2de4963e5ec665697fbebcbf3ac92",
+    "Size": 42222
+  },
+  "Data/Character/Coat/01042440.img": {
+    "Hash": "58adee9b7b1b991f6a9d11a0efbe3957dfac11e3286f1680bcfec99d7d11f6e7",
+    "Size": 43955
+  },
+  "Data/Character/Coat/01042441.img": {
+    "Hash": "13b68717e820ac577aaf38a399bac9336ce3b98d35c4f1d67b5ab3f04c34b33b",
+    "Size": 63243
+  },
+  "Data/Character/Coat/01042442.img": {
+    "Hash": "77573718f8a284d93e4437d4f23f84992ca447bb0a95ad8c5f1a9782209a5775",
+    "Size": 63583
+  },
+  "Data/Character/Coat/01048000.img": {
+    "Hash": "f84d03bf7d182e0e752de4bd3807aece3252add35006c7ba371c80862d440e75",
+    "Size": 59837
+  },
+  "Data/Character/Coat/01048001.img": {
+    "Hash": "b6885190484c4db48596c9669ccf35cacf62c8fa5bfa3e1aa4c97e4013aa2bbe",
+    "Size": 52819
+  },
+  "Data/Character/Coat/01048002.img": {
+    "Hash": "8190c2fbdd17da1de54c1a06f28c8cce9f9e9cda66cd0426970e8be9ca47928b",
+    "Size": 53029
+  },
+  "Data/Character/Coat/01049000.img": {
+    "Hash": "ba6ee6d0cdf48add0413c5c358596336231da099559c5971b3ed1770c48e2ab9",
+    "Size": 61137
+  },
+  "Data/Character/Coat/01049001.img": {
+    "Hash": "b4c9e039b260d8322944d46652d35729099866cf3840a8c42a397d005bf53958",
+    "Size": 60664
+  },
+  "Data/Character/Coat/01049002.img": {
+    "Hash": "6e8ed0bc91262d056127218a0b567c9acb4a2990a976bf6a5930482adf1af29c",
+    "Size": 39048
+  },
+  "Data/Character/Coat/01049003.img": {
+    "Hash": "d44ac8b643043be01924c3cf18bab8e376fc5fdc4c4f45bc48bfd103c1f622b3",
+    "Size": 37965
+  },
+  "Data/Character/Coat/01049004.img": {
+    "Hash": "eb3a7844d41ec5b2c1d67ba73476d6ce9220f3dd689d5f84c624e502d0875d88",
+    "Size": 39497
+  },
+  "Data/Character/Coat/01102380.img": {
+    "Hash": "19f8b4935655e5848ee34dd18d186a098d519bd6a26640dd6ca89befa144ca81",
+    "Size": 68844
+  },
   "Data/Character/Face/00020000.img": {
     "Hash": "a52c66789fc6e6c3140735e6e66530a3defe87ca1c92236c95559afd1e120e63",
     "Size": 13403
@@ -43798,6 +46610,2558 @@
   "Data/Character/Face/CommonFaceCN.img": {
     "Hash": "790f1e7a28b14dc8b52d5617db8b123a6c931700719ceb22202ec3b31453fde4",
     "Size": 27770
+  },
+  "Data/Character/Glove/01080000.img": {
+    "Hash": "78e51ee904062bb34c04617164458ef58163de376bf86c57a032bdf92eb557a8",
+    "Size": 26008
+  },
+  "Data/Character/Glove/01080001.img": {
+    "Hash": "cbd8898e2d677e3afc8d6367c8742e4f31195798890f5491945446647e078318",
+    "Size": 28364
+  },
+  "Data/Character/Glove/01080002.img": {
+    "Hash": "732fff0824bd878b49e066eaaa613c4b862120664fd8ef8b244edc532f2c476d",
+    "Size": 29297
+  },
+  "Data/Character/Glove/01080003.img": {
+    "Hash": "39f61b25e7dee0e6ba0ccf7845fcbdddde7929e835c03c9848ec1ec296bc3b72",
+    "Size": 27971
+  },
+  "Data/Character/Glove/01080004.img": {
+    "Hash": "483e265c25b78256266a84fd1c53556ce1a61572c4a108a59fea39aa65bdc556",
+    "Size": 27676
+  },
+  "Data/Character/Glove/01080005.img": {
+    "Hash": "91ce6294b6535034d0407c99a5a37c4073c60410ddd0208f6c07fafd5199d18e",
+    "Size": 29301
+  },
+  "Data/Character/Glove/01080007.img": {
+    "Hash": "00d25277fa8eebf98b34868aab1f810480be31f9aef0cbbf9972e7640fc0b971",
+    "Size": 33892
+  },
+  "Data/Character/Glove/01080008.img": {
+    "Hash": "6eaa9a1073031574690bea637571e260ac089dedd18dc31430edc648e2034f6c",
+    "Size": 26970
+  },
+  "Data/Character/Glove/01080009.img": {
+    "Hash": "d6ad8b4739daf80be3d57e38ddde187f98a925b1b0a3a96766f45c1f1ed03fe1",
+    "Size": 40183
+  },
+  "Data/Character/Glove/01081000.img": {
+    "Hash": "77297dfb2ad028ca0276f94c9437f8b54cb3023c7864c94cfa5b9f5b7f6427bf",
+    "Size": 25620
+  },
+  "Data/Character/Glove/01081001.img": {
+    "Hash": "8e939edba20cbaddd8d2d46f097a8d63f4320563a9c739efcf8d6a26dcb56250",
+    "Size": 26581
+  },
+  "Data/Character/Glove/01081003.img": {
+    "Hash": "e13b17592c6ae16cd989bb29153a5bb7960c646033d44b91701cff5c9df70716",
+    "Size": 28267
+  },
+  "Data/Character/Glove/01081004.img": {
+    "Hash": "c8e310e810512a86c9ffd1b59d753adf15d83b1b9b76e391358eab1549df1453",
+    "Size": 28449
+  },
+  "Data/Character/Glove/01081005.img": {
+    "Hash": "29fbd6fb31f771a0aef1303e0948a22a16a79885e6de81eab5b4fb1b51d7345c",
+    "Size": 26753
+  },
+  "Data/Character/Glove/01081006.img": {
+    "Hash": "e0f670e099552b20cdae71fe9dd530fd03747767e843a2093cff2e7b48e8c591",
+    "Size": 31701
+  },
+  "Data/Character/Glove/01081007.img": {
+    "Hash": "f81c5f2a95eca2955062cae99640343a1ed57badb5178d747712604ce9cb3360",
+    "Size": 31333
+  },
+  "Data/Character/Glove/01081008.img": {
+    "Hash": "40565090c258eee1416f314a0592ad59de20196e5974d0fc35a5608b6c9d7e17",
+    "Size": 29297
+  },
+  "Data/Character/Glove/01081009.img": {
+    "Hash": "03cdf389ce5e4753f71dcdabf9584c928ff0b0308c18385725d257de1077007b",
+    "Size": 27349
+  },
+  "Data/Character/Glove/01081010.img": {
+    "Hash": "27adc907ca11633fb71fda9d556fe03c0f5028f6718835b5df46f3ea0934094b",
+    "Size": 27737
+  },
+  "Data/Character/Glove/01081011.img": {
+    "Hash": "dfa0d63b8631c95e8b4e4bf75b5b6bc74b67329c0e592d24990cf37befe8401c",
+    "Size": 29301
+  },
+  "Data/Character/Glove/01081013.img": {
+    "Hash": "cca6b679a5fbcf0439683e7f22481f45e7c2e1d76001be02fef6edeaf04fba0c",
+    "Size": 27935
+  },
+  "Data/Character/Glove/01081014.img": {
+    "Hash": "6387a2d0883aebe0553be77ffd2a98ebe03290ed554ae7ab02d7dbfbfa1c4ecb",
+    "Size": 27016
+  },
+  "Data/Character/Glove/01082000.img": {
+    "Hash": "c85661a5d8e5fc05ba7ec9a798057a2425a914155800c58572ce4ae51cfde3c1",
+    "Size": 24261
+  },
+  "Data/Character/Glove/01082001.img": {
+    "Hash": "0add6f7dd6624301c32d15246c302d901aefacacf8073fc0f1e544dac6666c80",
+    "Size": 25136
+  },
+  "Data/Character/Glove/01082002.img": {
+    "Hash": "ee58d5be2f5386ecd314dd29448a656ab2970ba36700502af8be8906193cbaff",
+    "Size": 26108
+  },
+  "Data/Character/Glove/01082003.img": {
+    "Hash": "6c217cfc8bc2dee1100c335655e8bbc49ca199e085d4f608ca967675c8d74a9b",
+    "Size": 28175
+  },
+  "Data/Character/Glove/01082004.img": {
+    "Hash": "573d132a4d07573d2a03f694118cb3e73b757da0ec346c986980cee230a73947",
+    "Size": 47033
+  },
+  "Data/Character/Glove/01082005.img": {
+    "Hash": "ad87af3eb30961f052697183be373ac2225220abfc5c9f312d79c37a6d86a21e",
+    "Size": 47711
+  },
+  "Data/Character/Glove/01082006.img": {
+    "Hash": "2bc8c79e727962c7c613ba7106f5dbffa811406e55d3c53c3ae71b380504c60d",
+    "Size": 47755
+  },
+  "Data/Character/Glove/01082007.img": {
+    "Hash": "3d81053eca5bb75d782a90f8b5da4a0be889e399a9f0667468ed0924efcadbd8",
+    "Size": 47599
+  },
+  "Data/Character/Glove/01082008.img": {
+    "Hash": "ab102022c5a4be1887692b25de6244593df79cccbf78a8d0b0994898e6e23c24",
+    "Size": 48551
+  },
+  "Data/Character/Glove/01082009.img": {
+    "Hash": "af45439e42cb1f9ee9fd412124a3b0fc1791cf006cb01011b6dfc63bdecfca27",
+    "Size": 49743
+  },
+  "Data/Character/Glove/01082010.img": {
+    "Hash": "08cbc70ab0632fe37c365ceca205c34b39a72bac71814c3baee013a3d7b91b2c",
+    "Size": 49737
+  },
+  "Data/Character/Glove/01082011.img": {
+    "Hash": "3636642e127f66c923b0155548e2e3d4fd3c6d2685a0492b66b76c3e544c4bef",
+    "Size": 50013
+  },
+  "Data/Character/Glove/01082012.img": {
+    "Hash": "978da5548f866142737c02a38b38c127d361d3beebadb1db1a301cceeea07f82",
+    "Size": 15116
+  },
+  "Data/Character/Glove/01082013.img": {
+    "Hash": "aa2dba1add6ed0da56a37f840968c78313e61f5894cf3c1b4a7a25d8e315a2cb",
+    "Size": 16246
+  },
+  "Data/Character/Glove/01082014.img": {
+    "Hash": "59d5c9d3da951b77192dc636d3815ab91b4a7af9d8a71ebcfa754b9541be0dc1",
+    "Size": 16241
+  },
+  "Data/Character/Glove/01082015.img": {
+    "Hash": "8a42346549f94501854e279421715be0b45c8f5fe1ebe30f1aa918a97e0268bc",
+    "Size": 16261
+  },
+  "Data/Character/Glove/01082016.img": {
+    "Hash": "23707afc3aedcae4e80eec4c1b5ab07fdcc717f87a5f239c18d2a1f80b456f25",
+    "Size": 16005
+  },
+  "Data/Character/Glove/01082017.img": {
+    "Hash": "5c592603f9ac85469ae4e032dbd99980559a4e58d68d89eca418e2a8a4d216c9",
+    "Size": 15975
+  },
+  "Data/Character/Glove/01082018.img": {
+    "Hash": "ecec50a5ba20045c667ba940c8b75d56f8f1fcdb78ebb922715b4cd11b5d0916",
+    "Size": 16011
+  },
+  "Data/Character/Glove/01082019.img": {
+    "Hash": "5f6d4f48b11984c3b3dbd86008da612da1b74c98ff0f5a9f297d24efb4fea36a",
+    "Size": 27712
+  },
+  "Data/Character/Glove/01082020.img": {
+    "Hash": "3a9b68626baaadbc6b524de74c1b10c64bedc63645fdc70f8ec4144ddc73fbfd",
+    "Size": 27984
+  },
+  "Data/Character/Glove/01082021.img": {
+    "Hash": "6ffe2e92fd6372fd4e082b29bc26c91f5e2c2629bf37626dc9ebaa545c53a198",
+    "Size": 28005
+  },
+  "Data/Character/Glove/01082022.img": {
+    "Hash": "8ff0026bda81a2a0c08f1b0c78df8aef07b749b47d6bfc937e8e171ff5151644",
+    "Size": 28001
+  },
+  "Data/Character/Glove/01082023.img": {
+    "Hash": "f66a29523c6bf6c425a4a49de0e31ae05fe222f7c2e77c6a053a36b90e6453f4",
+    "Size": 50105
+  },
+  "Data/Character/Glove/01082024.img": {
+    "Hash": "9093bbc856312f56eb8008c9eccf62d79a36f05596ead5326bc10aac352ec0c5",
+    "Size": 49289
+  },
+  "Data/Character/Glove/01082025.img": {
+    "Hash": "8fd74fb2cf98b2be52ca3ade1742b06e71f7fb26c07d651feb437c7e8d5a1fd3",
+    "Size": 49341
+  },
+  "Data/Character/Glove/01082026.img": {
+    "Hash": "b97c6a51a1f33c64de9ea43233fca19c3ca3c51800775261914825cc2456fb03",
+    "Size": 26002
+  },
+  "Data/Character/Glove/01082027.img": {
+    "Hash": "25eda1219a7bc94e599bdf3251a69d7ea181b236e4a36cd17ef6bf7f1870f7ee",
+    "Size": 26153
+  },
+  "Data/Character/Glove/01082028.img": {
+    "Hash": "ec4e9761f1a2b18c9419639b7e42db878f6b2bbcb5214d8f5563f4103d9cead4",
+    "Size": 25981
+  },
+  "Data/Character/Glove/01082029.img": {
+    "Hash": "6868795a587b2ca50bdcccdb6a5f3f81c09a55a69455d9ef4d9269c478b3c97d",
+    "Size": 27822
+  },
+  "Data/Character/Glove/01082030.img": {
+    "Hash": "8027210cd8fd69ac781042a7ecff51fb24331dfe3c3e7b876786c6fab9c7c5a0",
+    "Size": 27611
+  },
+  "Data/Character/Glove/01082031.img": {
+    "Hash": "4cc0ccc0eda77b496123a392b7b50df8190a29a6cca8a6f0923778f3ecf9c53f",
+    "Size": 27582
+  },
+  "Data/Character/Glove/01082032.img": {
+    "Hash": "63fb4c52119dc90dd93e6d8071251b0e7d1c86729711af6b28c1a6976b4c0782",
+    "Size": 24894
+  },
+  "Data/Character/Glove/01082033.img": {
+    "Hash": "bbde9e5bae0af6e1665fee560cefe47cc37fc8116c8ec86f1985a1c2bc3ffc3b",
+    "Size": 25195
+  },
+  "Data/Character/Glove/01082034.img": {
+    "Hash": "7c6a033b67429bd0de310af1be241c76ea18193cf8b748d879407799396e6132",
+    "Size": 25061
+  },
+  "Data/Character/Glove/01082035.img": {
+    "Hash": "28eb536c3a72b1f8db74b154627e572e24317d4eb1625477fb04bf7d5b42bfc8",
+    "Size": 48057
+  },
+  "Data/Character/Glove/01082036.img": {
+    "Hash": "89f092d78a4325d7e47d31124742970873ba97476875e91934c63b0004db6c65",
+    "Size": 47217
+  },
+  "Data/Character/Glove/01082037.img": {
+    "Hash": "0bbe8d5e331adb57883c292b0bc5016c038fed6ea53904331a4fb5bdfde506fd",
+    "Size": 28293
+  },
+  "Data/Character/Glove/01082038.img": {
+    "Hash": "e87ffe1bf6bae8d265f70c568d2c471bc86b397f3dd9d3391f10a3c74e8bf7da",
+    "Size": 28289
+  },
+  "Data/Character/Glove/01082039.img": {
+    "Hash": "441546fc8a2a0af1dffa396a82e910f8c15fe2329360ef0953bbbcbaebe86c60",
+    "Size": 28263
+  },
+  "Data/Character/Glove/01082040.img": {
+    "Hash": "6cc37a77a5d6d3cbe44f86b559a3e090608f21f7d36526756007ceaac1b8937f",
+    "Size": 31978
+  },
+  "Data/Character/Glove/01082041.img": {
+    "Hash": "2e452e6babe3e413de966c9cb9b46795c306a266a01e518583a2ad7865228890",
+    "Size": 31657
+  },
+  "Data/Character/Glove/01082042.img": {
+    "Hash": "336a84fca38520af0ea2cfcbb88d09a3eb72e2157ec49ff2d9a99e41c4359209",
+    "Size": 31532
+  },
+  "Data/Character/Glove/01082043.img": {
+    "Hash": "82115dd71188ecda7f105f4d4b7242ef7c77fd5e5ec71390f84240505387361e",
+    "Size": 31152
+  },
+  "Data/Character/Glove/01082044.img": {
+    "Hash": "958bbc30b01a962088a67a52554753ea045e462f1caabb3893eaa611b37f49c9",
+    "Size": 32047
+  },
+  "Data/Character/Glove/01082045.img": {
+    "Hash": "25236ff93116b8db7f93f758824d918f377886e2d90e5e3d4c979182f70ebcf4",
+    "Size": 30225
+  },
+  "Data/Character/Glove/01082046.img": {
+    "Hash": "2d91120e78826e28e24413a42bd64887ab6652413ace054afc933d2058e9699b",
+    "Size": 30498
+  },
+  "Data/Character/Glove/01082047.img": {
+    "Hash": "ee22d3103ddd768973c9090d8c731fc3fdb4ca8161a75795f254082476ec695b",
+    "Size": 30446
+  },
+  "Data/Character/Glove/01082048.img": {
+    "Hash": "ec5ce78966765fc5b6e3cc9db946b3e30620fd6e5895b770ccdf59d29abf872c",
+    "Size": 18434
+  },
+  "Data/Character/Glove/01082049.img": {
+    "Hash": "5321e3dfc82ea61edd94199b1b90ddaffb9232b133ecb87835f503677a7dac20",
+    "Size": 18465
+  },
+  "Data/Character/Glove/01082050.img": {
+    "Hash": "19415505eb7788645960de1c0883e4de3c057f482652fe344eec68f36bde2319",
+    "Size": 18533
+  },
+  "Data/Character/Glove/01082051.img": {
+    "Hash": "ee07a6994c8a4ecfd553c078d964335502fb509739a6de0512ba9dc1a5028be2",
+    "Size": 28663
+  },
+  "Data/Character/Glove/01082052.img": {
+    "Hash": "741248bd2aa677a42afdf09f4519e7aca35f25719a6933b3ed10f47c97e82c27",
+    "Size": 28544
+  },
+  "Data/Character/Glove/01082053.img": {
+    "Hash": "84825ffb14edf9f413c00e4f80bd00b877e670253898428d1058dae350a9c250",
+    "Size": 28633
+  },
+  "Data/Character/Glove/01082054.img": {
+    "Hash": "5ccba556a90b2dc1e367522183f44026bf5e48aecb2f412f1063965f8fd41845",
+    "Size": 29762
+  },
+  "Data/Character/Glove/01082055.img": {
+    "Hash": "21ee8f8674bea2eb642d5f14dc8c21553c4c9168978d7ee1fac439393292c8a5",
+    "Size": 29698
+  },
+  "Data/Character/Glove/01082056.img": {
+    "Hash": "167723278bad955287fe0756b65c92949c3b08072a5dc1a5aa8e2a2772625f31",
+    "Size": 29694
+  },
+  "Data/Character/Glove/01082057.img": {
+    "Hash": "9142fb11d0d3a61a491470d765fe6cd80f26af6d233a8f8d3bba108a7632b8a0",
+    "Size": 16381
+  },
+  "Data/Character/Glove/01082058.img": {
+    "Hash": "bd087849696863afa47440efe9bc18ff5ee7c2b6a0041432f5bd7b9d99ff055d",
+    "Size": 16288
+  },
+  "Data/Character/Glove/01082059.img": {
+    "Hash": "7ce4b07f4946695d9aec0987d01212085832f160a4f1228a21a66e67cb059fbe",
+    "Size": 50861
+  },
+  "Data/Character/Glove/01082060.img": {
+    "Hash": "fcd28a4f07fb132668f1d0e830ed5a01c3e739fa480c873fbf1ae5995f5933ad",
+    "Size": 50564
+  },
+  "Data/Character/Glove/01082061.img": {
+    "Hash": "d2e3dcc2bf178048e0bbf8623ae78c735e282be266e413b26f62c086fe0c0d7c",
+    "Size": 50751
+  },
+  "Data/Character/Glove/01082062.img": {
+    "Hash": "ad8960fde077506eb441ddaec25e693a52b0b0e969a36d8b728877be70672086",
+    "Size": 28849
+  },
+  "Data/Character/Glove/01082063.img": {
+    "Hash": "84637ed581f70f842dd69a7acf278eb518cebd7f2b6eb7e3aca57084f12fbb5c",
+    "Size": 29224
+  },
+  "Data/Character/Glove/01082064.img": {
+    "Hash": "51d20fe8da207a8f4381321e9a1b0d761bece9a6ce3ed61c66159356a09becf3",
+    "Size": 29553
+  },
+  "Data/Character/Glove/01082065.img": {
+    "Hash": "90b9c44bf628a1d8be9cdab2b0c50f7fcd3ef40b18d295ac6ff4af5ba7004bdb",
+    "Size": 28656
+  },
+  "Data/Character/Glove/01082066.img": {
+    "Hash": "0692908e7faaab2133446969a75d197e0068cd4d79089fd6f4d97d7334bed765",
+    "Size": 28624
+  },
+  "Data/Character/Glove/01082067.img": {
+    "Hash": "6dc4059454ee502c89351579dc0d9ee7a2e0ab0dd50d8fa61b6a5054590b962e",
+    "Size": 28396
+  },
+  "Data/Character/Glove/01082068.img": {
+    "Hash": "b9c593e501be4abc5d284d030051a27fb749b6e86bde4e1b37ed061b03b3f837",
+    "Size": 31007
+  },
+  "Data/Character/Glove/01082069.img": {
+    "Hash": "a8c2e60b8e63f56e6b69af9a057559d5904c0e4a0aa5ef8ade6a8640c71fffc5",
+    "Size": 30905
+  },
+  "Data/Character/Glove/01082070.img": {
+    "Hash": "343ae7a7e713cfb89fca06a93761e65e19019270cd925c0481ae6ae5e849ce99",
+    "Size": 30834
+  },
+  "Data/Character/Glove/01082071.img": {
+    "Hash": "a6c743f9a75dfc1d99b795eb6f0d25e1f2d00b37be0d68d7202c2c4460962e52",
+    "Size": 29785
+  },
+  "Data/Character/Glove/01082072.img": {
+    "Hash": "52308b1956eeb9214c4f90e3a3c4b9a5065ebebdfeb99857d5e94f558fd3eae7",
+    "Size": 29804
+  },
+  "Data/Character/Glove/01082073.img": {
+    "Hash": "ec5b95acf4b12c61864e4161c365634eee9eedd60af8a80caf40a737122fec5f",
+    "Size": 29985
+  },
+  "Data/Character/Glove/01082074.img": {
+    "Hash": "5700c6e8bf86fa4d2c8422416efe25fccf55d39f0cc06f9a9f56051ad767b7d3",
+    "Size": 29689
+  },
+  "Data/Character/Glove/01082075.img": {
+    "Hash": "30a4de3b017e2448e98bfebcdb811ce64c29382c59236b4447164862589a94e1",
+    "Size": 29907
+  },
+  "Data/Character/Glove/01082076.img": {
+    "Hash": "7b5b81a2cdffb2e06481aa00551dc246b30d9be6031fddea4258c36d34300959",
+    "Size": 30610
+  },
+  "Data/Character/Glove/01082077.img": {
+    "Hash": "170e2cefec7f5bc3b1e1607873bbae443aeba918442180e1f64b671609a398ca",
+    "Size": 29390
+  },
+  "Data/Character/Glove/01082078.img": {
+    "Hash": "8a25b077c6ab42e64038e43f8ae840d90eb88c43946c8ac191dc6578ce7c7cd6",
+    "Size": 29751
+  },
+  "Data/Character/Glove/01082079.img": {
+    "Hash": "7cfe66e8e0eff0458cfbbcb219eeafa760884b5331207da43106c9bc519fe18e",
+    "Size": 29737
+  },
+  "Data/Character/Glove/01082080.img": {
+    "Hash": "0bc1d006b1e0d8a416f91916b5f7d427a4d95e725972040fb5810b7185fe7184",
+    "Size": 29534
+  },
+  "Data/Character/Glove/01082081.img": {
+    "Hash": "51dff26da446dc4ec904ca1298dd906778064543a2a5b79da5c361555f7e8fd0",
+    "Size": 28849
+  },
+  "Data/Character/Glove/01082082.img": {
+    "Hash": "7e40f7575e784c198673726e3d593fe78472709e4e85c759f5d1b299e25357d1",
+    "Size": 29320
+  },
+  "Data/Character/Glove/01082083.img": {
+    "Hash": "b76bf12491b522c18892ebff0a6389fc8be2177c0174eaf5a8a2585725eada43",
+    "Size": 29790
+  },
+  "Data/Character/Glove/01082084.img": {
+    "Hash": "10529d7800d55243141748906490723a097810008ccded3377ee01e9936ad3c9",
+    "Size": 29841
+  },
+  "Data/Character/Glove/01082085.img": {
+    "Hash": "ca051b2fd136c3bab8ca1e6f85175cb9d9a214a807f0f46f50a767802e09136f",
+    "Size": 29387
+  },
+  "Data/Character/Glove/01082086.img": {
+    "Hash": "d249eda4860f63de5b859c4737db7864b4ee7207df7a09730f47efa593fb8be6",
+    "Size": 29791
+  },
+  "Data/Character/Glove/01082087.img": {
+    "Hash": "ac87db8ee104cbba53fc596ca165ae5ebddae883c807c0412afbafa096a69db4",
+    "Size": 29623
+  },
+  "Data/Character/Glove/01082088.img": {
+    "Hash": "228b082ed500799c91020c6dfc76fbca0f6ac295e32fe003ef9f984512f7a4ad",
+    "Size": 29013
+  },
+  "Data/Character/Glove/01082089.img": {
+    "Hash": "b3aa51833f01fa5dde6e4bca10977fe9f5ffceccee5b9b8888c76efed19fd79e",
+    "Size": 30439
+  },
+  "Data/Character/Glove/01082090.img": {
+    "Hash": "dbff4946d66e7ad0154a65e9f7b5841d87d4d27b560d5ff56469194616986a37",
+    "Size": 30412
+  },
+  "Data/Character/Glove/01082091.img": {
+    "Hash": "9ad893a620a67de453849d9b080a9dfec883805f80f0a434e32d1f34baf2b97c",
+    "Size": 30279
+  },
+  "Data/Character/Glove/01082092.img": {
+    "Hash": "1d55f24bb94817d0d778ef29b149586878635aa51e0ba114932ea5f0d542cf30",
+    "Size": 27185
+  },
+  "Data/Character/Glove/01082093.img": {
+    "Hash": "262d7b24162cbac16e68c62c6f28cd8fff9c880af744e8503fb6d205c4da8a29",
+    "Size": 27023
+  },
+  "Data/Character/Glove/01082094.img": {
+    "Hash": "fdfc0ec22f759ab1e1b739257a8e0eef61bdc75a956fd7eb1aa9324d92a03952",
+    "Size": 26703
+  },
+  "Data/Character/Glove/01082095.img": {
+    "Hash": "5902f8ccadc44422545ac355a8f578dca450aa125cab1f3eff5291702dd91f6f",
+    "Size": 29331
+  },
+  "Data/Character/Glove/01082096.img": {
+    "Hash": "69d0662103d7d2092be1e58fc4759ad84385ecfa6accad7fcd512a8f32ea7ecf",
+    "Size": 29334
+  },
+  "Data/Character/Glove/01082097.img": {
+    "Hash": "7e0b081a98ef8825daf58c53e5eaa20ae8ef476603fdedec4d38e61c45ef188f",
+    "Size": 29424
+  },
+  "Data/Character/Glove/01082098.img": {
+    "Hash": "58c3e76db9dbbf5685d062faeb2a422f3941219ccbcb425e1f169af0fa6c3928",
+    "Size": 32672
+  },
+  "Data/Character/Glove/01082099.img": {
+    "Hash": "9f2944a2ff7b06227ee4d033d7c47f8a1bf0724dff541286b9019da4de3c0dcd",
+    "Size": 31350
+  },
+  "Data/Character/Glove/01082100.img": {
+    "Hash": "cac3f4fa18c7738dbb0ee8473308d8ac73e61a181c4f5ebc567b5aaf2ef0bd7b",
+    "Size": 31997
+  },
+  "Data/Character/Glove/01082101.img": {
+    "Hash": "5b09eee34996412b4476905455e0b3ff768b62d3de272459b135d9bdaa36fdcb",
+    "Size": 28048
+  },
+  "Data/Character/Glove/01082102.img": {
+    "Hash": "291085bbb1525ffe86b134b0071694a777b56d79717d150213b8652639ba861b",
+    "Size": 936
+  },
+  "Data/Character/Glove/01082103.img": {
+    "Hash": "4f8e882922925a8c449394558ce82f03322c54722da340569b4c78aa831d99b7",
+    "Size": 49603
+  },
+  "Data/Character/Glove/01082104.img": {
+    "Hash": "33d966c4ea8ef47848dd309c794fb01272d658ac09dbb29000d25e7b78cc0adb",
+    "Size": 49341
+  },
+  "Data/Character/Glove/01082105.img": {
+    "Hash": "5b564b16cbf0553feb163f566f877b906aa2187f62bd8835df1fb2ef5c984ca8",
+    "Size": 49402
+  },
+  "Data/Character/Glove/01082106.img": {
+    "Hash": "b41fb0bf945269483ce6620489ec6e5f8f3b9cc05f22ada2089dea57470bf5cf",
+    "Size": 28644
+  },
+  "Data/Character/Glove/01082107.img": {
+    "Hash": "8721cc6a8ea2bd2ab7f2790e32d39476de6e88aa4507bc4b541ee4ef46164a9e",
+    "Size": 27947
+  },
+  "Data/Character/Glove/01082108.img": {
+    "Hash": "406353335503d32e2781857f8490afd1277dee206ecb1591fc1074cb79c11d55",
+    "Size": 28799
+  },
+  "Data/Character/Glove/01082109.img": {
+    "Hash": "bb20d9579817a275abf2d9e2a709ceb51f101febe192f1ed6b4659dbd47e1457",
+    "Size": 51451
+  },
+  "Data/Character/Glove/01082110.img": {
+    "Hash": "78956b708a4516be31ecf3460920d1ba8362bc26556aa239c9ea0897086db7d3",
+    "Size": 51726
+  },
+  "Data/Character/Glove/01082111.img": {
+    "Hash": "a28e8d988145426cc47f2577b08aaa6da192334bc563d9fedeea213e28292f69",
+    "Size": 51530
+  },
+  "Data/Character/Glove/01082112.img": {
+    "Hash": "0b8f2f6d91857a0e3b098d5f5b2fbe838b64a2e643eb71b91d22fe603d86de3d",
+    "Size": 51593
+  },
+  "Data/Character/Glove/01082113.img": {
+    "Hash": "bcccc25b53d8dcc4a8444494583b9b1a433926c7be064ba53ed911d0e3c1da1f",
+    "Size": 15785
+  },
+  "Data/Character/Glove/01082114.img": {
+    "Hash": "c24250224949a8b12f0c56b1d63faa2c4f10de6ee8ccc9769d7a762da100723e",
+    "Size": 49223
+  },
+  "Data/Character/Glove/01082115.img": {
+    "Hash": "33333c1cbbf831fb10e6d8cf886326d3a6d5bf30a373c6d5aa0980942dc4c408",
+    "Size": 50323
+  },
+  "Data/Character/Glove/01082116.img": {
+    "Hash": "6aac44da2ce60765af50cf4864fffc678eff1936fbdba4790d6bd6c144be7870",
+    "Size": 48783
+  },
+  "Data/Character/Glove/01082117.img": {
+    "Hash": "0c65677f81f04ed4dd63a0c587be71d80ebcb326ae43f78ababb902a4d4b222c",
+    "Size": 49710
+  },
+  "Data/Character/Glove/01082118.img": {
+    "Hash": "1f82d8f7b201bac1bc185b9c648eceb384c76e578cdf8283c21856c526c895ff",
+    "Size": 28943
+  },
+  "Data/Character/Glove/01082119.img": {
+    "Hash": "6cfff163e03b74ed698dd242e5107728b36d2e48521d717e248e2a0fdd70a138",
+    "Size": 28862
+  },
+  "Data/Character/Glove/01082120.img": {
+    "Hash": "c4742e36688dd1ed99b96e6edcc8d8e3fca404c973b81b547819233173d7ad3c",
+    "Size": 28959
+  },
+  "Data/Character/Glove/01082121.img": {
+    "Hash": "1482369c763df3161481460892c372ba2b61f798937cf4dbd4c06c0152596896",
+    "Size": 27215
+  },
+  "Data/Character/Glove/01082122.img": {
+    "Hash": "6a38549563b6272272b4c5b8b470caeeadfac6699d885749e7d11ee304aa8af3",
+    "Size": 27212
+  },
+  "Data/Character/Glove/01082123.img": {
+    "Hash": "8a847d02658b4d4925f7965242ff2802a80e0d661bc781af450aa26b016dd954",
+    "Size": 27178
+  },
+  "Data/Character/Glove/01082124.img": {
+    "Hash": "633f987ced9e6bc8745a3d206fb796119220b0af220abe9682dcd05bc1661afe",
+    "Size": 47860
+  },
+  "Data/Character/Glove/01082125.img": {
+    "Hash": "90bf9f149c69ac7c3f1541b1a8a336249de1d7c70ca4f9dd5d306eecb664c4fe",
+    "Size": 29664
+  },
+  "Data/Character/Glove/01082126.img": {
+    "Hash": "639c22ef9ba8043a3ee1a4aff05f5e5209c8cc205aa0603b9586568cfab686d7",
+    "Size": 30678
+  },
+  "Data/Character/Glove/01082127.img": {
+    "Hash": "c40f116810b06cbf9bfc905ddaff1af4897b59f6048bb23e45892c6e22ac9f01",
+    "Size": 30763
+  },
+  "Data/Character/Glove/01082128.img": {
+    "Hash": "6d305f75d7844bb21a637ad53d82def82754347fcb101ed9693eacad5151826c",
+    "Size": 32715
+  },
+  "Data/Character/Glove/01082129.img": {
+    "Hash": "ecbbbfd9be1786e18ab53f9a81a3b3220570f368a66852b33712bc5ed0bdc070",
+    "Size": 32877
+  },
+  "Data/Character/Glove/01082130.img": {
+    "Hash": "fc40f854992758d3bdce14569f845c4c386d1c812f7855a87ba28f28ff73489d",
+    "Size": 32563
+  },
+  "Data/Character/Glove/01082131.img": {
+    "Hash": "4dbca534f48bd749e58023706d2787b416477c547610570b64242e271e382b7b",
+    "Size": 31518
+  },
+  "Data/Character/Glove/01082132.img": {
+    "Hash": "a27e30d2c10bc97bb473ac709f3ac074036168efaa195d92ccd42e7149e9893e",
+    "Size": 31541
+  },
+  "Data/Character/Glove/01082133.img": {
+    "Hash": "b5ac562b6d059c5a5e0eff2bfd2d7e3b5893b01ade960e7c35a915678fa6758e",
+    "Size": 31097
+  },
+  "Data/Character/Glove/01082134.img": {
+    "Hash": "1e462b7a70e1c82047c4e1ef2ef559fbd1b4d3a84b5cabaa667a7020233c542a",
+    "Size": 31085
+  },
+  "Data/Character/Glove/01082135.img": {
+    "Hash": "46535f7f55f05067188cfef69216c038eeb7fd362ef8fe0d7954a9401298f217",
+    "Size": 34236
+  },
+  "Data/Character/Glove/01082136.img": {
+    "Hash": "392f38c4ca75bd41340ea3d78f2cf06b908f6e36d98400eeaa9c8ec7ec609a04",
+    "Size": 34388
+  },
+  "Data/Character/Glove/01082137.img": {
+    "Hash": "af4cdcf6cd67e1fd6daa8e06a0932e69288bdc0fd0fa588cece3256602d23215",
+    "Size": 33891
+  },
+  "Data/Character/Glove/01082138.img": {
+    "Hash": "a5b20dda5d5b7381edf4b60da85961bb5e1d58fef40c2b1eb3ef4ed47a095174",
+    "Size": 34472
+  },
+  "Data/Character/Glove/01082139.img": {
+    "Hash": "a3489b12483bfadce67c4a3382b939e3b934d24b3bb8ad8e54839404b89ee3c6",
+    "Size": 32091
+  },
+  "Data/Character/Glove/01082140.img": {
+    "Hash": "329e969225f14f9acd62b1e9ec3445259f9e69f2681f0d4b21e05137988aa59a",
+    "Size": 32073
+  },
+  "Data/Character/Glove/01082141.img": {
+    "Hash": "c353567d428ee578b74ec5b446ca968418c968d2ca13ca569463068b606da3da",
+    "Size": 31974
+  },
+  "Data/Character/Glove/01082142.img": {
+    "Hash": "786191f0b3892a7a75378d61dd4d6c219cde1cca2b7d4320881aaf5498e4c9d9",
+    "Size": 29891
+  },
+  "Data/Character/Glove/01082143.img": {
+    "Hash": "f24adb4d7e5ea619fa6a4787b0cac5c8c887d00c90e643bfae37dba90d9bbf0b",
+    "Size": 29731
+  },
+  "Data/Character/Glove/01082144.img": {
+    "Hash": "768359c25fd28edd566d3502e511a23439ccfb4d6b5157ef8a1a81b13136caad",
+    "Size": 29933
+  },
+  "Data/Character/Glove/01082145.img": {
+    "Hash": "59eba6fbf16827d598572686cb6f5fb5279223950b903a917934a12a2e0ea431",
+    "Size": 25864
+  },
+  "Data/Character/Glove/01082146.img": {
+    "Hash": "f93eb83e0a561b7ef8cebd26070ca919ac30d3ba9dfa9a8b53fad86194a7baac",
+    "Size": 25596
+  },
+  "Data/Character/Glove/01082147.img": {
+    "Hash": "f2a21415096855e6e7cb1472d0dfb204e4032f8a69c5086bae7fb9890c8e0b8d",
+    "Size": 25434
+  },
+  "Data/Character/Glove/01082148.img": {
+    "Hash": "f60af2f7e7fe3eea8ce991c138c5f22b57be667f1ac482b3286652b3ddb912e9",
+    "Size": 26332
+  },
+  "Data/Character/Glove/01082149.img": {
+    "Hash": "c0b3b0b8f575dda4a7adaa65341da85bfba6144c205e0270b2ff49e0bfbf64dc",
+    "Size": 26252
+  },
+  "Data/Character/Glove/01082150.img": {
+    "Hash": "dee5d0c13706df8fe7657cd476a6e99488f34707891d9118ee69f87da9473359",
+    "Size": 26337
+  },
+  "Data/Character/Glove/01082151.img": {
+    "Hash": "e9df8576c428e1c1c035aa0ee352ffa3162bc4a5d5ecd91e8b2556e7db98ed23",
+    "Size": 31378
+  },
+  "Data/Character/Glove/01082152.img": {
+    "Hash": "fd4f96328f5986420f4bff63c4cdf067072192f338fd7ee0c81020194308f79d",
+    "Size": 31144
+  },
+  "Data/Character/Glove/01082153.img": {
+    "Hash": "0e8274815d422181ed75c1f84bf35efdabac6e3b0e9a676e28419150a87a5d1b",
+    "Size": 30944
+  },
+  "Data/Character/Glove/01082154.img": {
+    "Hash": "58926415deb2c663f64b968d77a777d90ef7ada9305f031276197f190196585f",
+    "Size": 31154
+  },
+  "Data/Character/Glove/01082155.img": {
+    "Hash": "6b20bcf8e7716426d08169346a1226e51f659526a08d4780a89e524b3850da0f",
+    "Size": 32914
+  },
+  "Data/Character/Glove/01082156.img": {
+    "Hash": "70391934893c766ef247ad10290be90225e37e8785f130bdb014748c6756749d",
+    "Size": 29927
+  },
+  "Data/Character/Glove/01082157.img": {
+    "Hash": "2691e1f6a9ddf2cbde0ea5e0fa234930da9cda2a4e205120eba585c41ca3d9e9",
+    "Size": 30274
+  },
+  "Data/Character/Glove/01082158.img": {
+    "Hash": "6c923a54badbea8363ef1df711ce288af00aa1e4c5b468b8ae229249e2fcba7e",
+    "Size": 48375
+  },
+  "Data/Character/Glove/01082159.img": {
+    "Hash": "3396930b9a05b9892caabe220d0eb2017c19e0ecd7d540fd37b2d04bd3ec5fe0",
+    "Size": 48798
+  },
+  "Data/Character/Glove/01082160.img": {
+    "Hash": "ef18e67ecbd4f231060cbe4de5833b9edf4a853a31f0975dba561f5b948418da",
+    "Size": 49471
+  },
+  "Data/Character/Glove/01082161.img": {
+    "Hash": "e6a305410361a5b7976a4c2f6a31c6643b2a8baa928b58d48d0da5508bf010dc",
+    "Size": 21442
+  },
+  "Data/Character/Glove/01082162.img": {
+    "Hash": "42cbe0e56e3da8d1e088b97bcc340ff1e108a9d045ff79916658f8f1fd113902",
+    "Size": 20366
+  },
+  "Data/Character/Glove/01082163.img": {
+    "Hash": "5a9f510a203eae90d4be3f97a7a420c71535a4ea0944d2162a1a5c3a2c2f6fec",
+    "Size": 50733
+  },
+  "Data/Character/Glove/01082164.img": {
+    "Hash": "02879641bb6eaa7c68c7251f45b36e18d0f20ba45e6ed0c5953da6d2af329bd8",
+    "Size": 29252
+  },
+  "Data/Character/Glove/01082165.img": {
+    "Hash": "5e54b59ec15400b894d0ae271a2328e3add54ae484f7a9b3830b0ffb195c28fe",
+    "Size": 32549
+  },
+  "Data/Character/Glove/01082166.img": {
+    "Hash": "9de754d4fd4728f3be75674ee5cec51ae2dc0c9a17b73744097e86ed64233bc1",
+    "Size": 29525
+  },
+  "Data/Character/Glove/01082167.img": {
+    "Hash": "75dd53abf757d12ffb1e99f5248d2dc61d9403992eb373f864b5f39cb49021e6",
+    "Size": 29433
+  },
+  "Data/Character/Glove/01082168.img": {
+    "Hash": "33cb8c46af6c09494e2e2e1999b3fbc4c9dc49d81cea4fe1d1df1c779295a882",
+    "Size": 36643
+  },
+  "Data/Character/Glove/01082169.img": {
+    "Hash": "f104f72754fd85342bbfd357aa4e27cb76821d7adb5501cf2e59dbb1cf3c74dd",
+    "Size": 47843
+  },
+  "Data/Character/Glove/01082170.img": {
+    "Hash": "7624fee293cdceafdd934cb30a16e2d8935bcb02285cbc0b9ade48d655b8ec8c",
+    "Size": 15566
+  },
+  "Data/Character/Glove/01082171.img": {
+    "Hash": "90c77d1cd8e4b2fd0a34003718e3940980cdafae620a5f948afe0121ccc0ec8a",
+    "Size": 15556
+  },
+  "Data/Character/Glove/01082172.img": {
+    "Hash": "7f4b7751b582f0aa37a3b4855ea8bf4993ea705c574e7dbc0b5de8b2a8015155",
+    "Size": 26895
+  },
+  "Data/Character/Glove/01082173.img": {
+    "Hash": "4e328ea284db7ad0e91c7159edfd9e5ade837ffbc6d7850649ac49aac062f672",
+    "Size": 18045
+  },
+  "Data/Character/Glove/01082174.img": {
+    "Hash": "272ac5c7728420f38359403d1156aa5bcd55433e0a5f57f3912032f31bfe0cd6",
+    "Size": 26702
+  },
+  "Data/Character/Glove/01082175.img": {
+    "Hash": "cbc17eaa25b3e65f7303efbb3a1b1594bd85b2950b69a62fbeb43df41d5f6904",
+    "Size": 18732
+  },
+  "Data/Character/Glove/01082176.img": {
+    "Hash": "45f1f7027caafa08f92c6279ed8cfc43a9edde866666df6df70675bbefedee6d",
+    "Size": 19174
+  },
+  "Data/Character/Glove/01082177.img": {
+    "Hash": "4c2b6a4cbac4e90aad6c3245e930bcaea3f1542818686632a2b321ec2878255c",
+    "Size": 19045
+  },
+  "Data/Character/Glove/01082178.img": {
+    "Hash": "59bfde54eb0b38302922a2496dc4bf411a506a858d695203970e6592c8872302",
+    "Size": 19001
+  },
+  "Data/Character/Glove/01082179.img": {
+    "Hash": "9d84d98bc055335b0d83d917d9312a3fd0c06ea293a6a1244f164ff65eb58ec9",
+    "Size": 18624
+  },
+  "Data/Character/Glove/01082180.img": {
+    "Hash": "5befc0bdd62872cd05268c6a3d5c3f1443e9a0c2f42a7a391eeb164a7df65d09",
+    "Size": 25245
+  },
+  "Data/Character/Glove/01082183.img": {
+    "Hash": "fd5e6d68402eac6e9635fd430a0e4eb1e03702191f33b1efe212a22331388102",
+    "Size": 19848
+  },
+  "Data/Character/Glove/01082186.img": {
+    "Hash": "6df4d777dcc75f13712b423c2f766849ad078d1b5a15aa1341406ead13ef1bd9",
+    "Size": 22327
+  },
+  "Data/Character/Glove/01082189.img": {
+    "Hash": "0dc22856733e3efabe5aafc6b1f2be3ea0d747d646c60907f24d043c5cd63eaf",
+    "Size": 24468
+  },
+  "Data/Character/Glove/01082192.img": {
+    "Hash": "d47e6f3f501853159720a6f9e553e0b31b33b4bb304075dfc51d6254f3284747",
+    "Size": 24946
+  },
+  "Data/Character/Glove/01082195.img": {
+    "Hash": "fec49a4b72cb9c07a82d94111325896e960ef98c0e69781cb1b8bc0ffe31535c",
+    "Size": 22283
+  },
+  "Data/Character/Glove/01082198.img": {
+    "Hash": "70fd5d97346f7f8a8bb23e29012ea0e12aeaadfdee5a8328a4eb6f336f0ea9f6",
+    "Size": 24528
+  },
+  "Data/Character/Glove/01082201.img": {
+    "Hash": "3bc47e28813876a1215e721d68cf0854fcaeb31baf7e05943df922dcb1503b32",
+    "Size": 25767
+  },
+  "Data/Character/Glove/01082204.img": {
+    "Hash": "c2b82d19699b22ca1bab3e28beddbe89c527f4ac6f0f074fefae4b91436278ab",
+    "Size": 25765
+  },
+  "Data/Character/Glove/01082207.img": {
+    "Hash": "1788dbbbe49dff31ca195aea844b9c11e239d9d6932be9c53fe53f0a876821ea",
+    "Size": 25976
+  },
+  "Data/Character/Glove/01082210.img": {
+    "Hash": "5dc4e28fc45fd9721920a0ab8edeb8a9265b7a192bac8d063ab3bd6da35e114c",
+    "Size": 22351
+  },
+  "Data/Character/Glove/01082213.img": {
+    "Hash": "b56776f4f8c5d9a5c7ee192d2babeb3360799c432b4ac9433bdc6be2cf64fbe0",
+    "Size": 26775
+  },
+  "Data/Character/Glove/01082216.img": {
+    "Hash": "aeccbcfdee027f9dd5074abd3024fa1b98bcc319eebd0011783b3213058236e4",
+    "Size": 26982
+  },
+  "Data/Character/Glove/01082218.img": {
+    "Hash": "6cca3f82ecb609d9af466b8af029a827099c6a136ea36eab2db49ad098ea9fbd",
+    "Size": 51520
+  },
+  "Data/Character/Glove/01082219.img": {
+    "Hash": "749c8a5bacb5f75079f1b1451afc084d0809ec2f445e012e5cd9a184d8cebde7",
+    "Size": 30307
+  },
+  "Data/Character/Glove/01082222.img": {
+    "Hash": "0887b0e02b293e82fd5a2b69ff2dba109c5cd738d67ed80d3e6f1cd580f37ebd",
+    "Size": 29954
+  },
+  "Data/Character/Glove/01082223.img": {
+    "Hash": "f4e32f6dd5acfb983575aa85c74f45d1388d6821825996f401d3b6f910039b2c",
+    "Size": 41228
+  },
+  "Data/Character/Glove/01082224.img": {
+    "Hash": "4139a35c0fd5e94e63edbce5ca1c47e319e00a709bdf5d29998f4e73f8d0f386",
+    "Size": 57996
+  },
+  "Data/Character/Glove/01082225.img": {
+    "Hash": "39f64978c404c4166e1db2d6cdaf74eccfa2e900bea313fd5552159c9006d907",
+    "Size": 55672
+  },
+  "Data/Character/Glove/01082227.img": {
+    "Hash": "f4cf28115a0e398f2ae151604080ec3d4893a4736eac85eefaf85dc95e6fa161",
+    "Size": 15837
+  },
+  "Data/Character/Glove/01082228.img": {
+    "Hash": "df406a34046d18b7de44600cb6a894bd2d7ddfbf2233d4465ec76c99ec1634ea",
+    "Size": 30659
+  },
+  "Data/Character/Glove/01082229.img": {
+    "Hash": "ce1a4d5257c9cd6c8e5de89cb504da14f3d807c929915eb13add379ca255abba",
+    "Size": 15975
+  },
+  "Data/Character/Glove/01082230.img": {
+    "Hash": "8917ef6f9c662fd82001c60851da0f21717ddb1542e702ba00eb1948e8f2a4cd",
+    "Size": 40562
+  },
+  "Data/Character/Glove/01082231.img": {
+    "Hash": "de64d3a1a72ad523014746d6a679b5e8f3df284562c3782005a6586bfa687dc6",
+    "Size": 15516
+  },
+  "Data/Character/Glove/01082232.img": {
+    "Hash": "b9f5fd35d1aeec664e650b4bfe2904635e695507fb7f6c9d112960bc8db46a59",
+    "Size": 14150
+  },
+  "Data/Character/Glove/01082233.img": {
+    "Hash": "677f357abd342968f8a0fd47bcf762c690e1353e9e6720d00df6e207d4e13eb4",
+    "Size": 30790
+  },
+  "Data/Character/Glove/01082234.img": {
+    "Hash": "ab3d097ee297eaf95b46b397a4286586b9a4400c9e08db8825654f91a4a190a5",
+    "Size": 53407
+  },
+  "Data/Character/Glove/01082235.img": {
+    "Hash": "25e7e4902f82b5a9115eeffbdf4c9f6814e770864c90d94523760b438513ed73",
+    "Size": 31276
+  },
+  "Data/Character/Glove/01082236.img": {
+    "Hash": "d99d83f96c890f9e42cd0eb3882cbaa2d1893a78fd8e7fe6973757980a2ab58f",
+    "Size": 29841
+  },
+  "Data/Character/Glove/01082237.img": {
+    "Hash": "5fc4f315b2764be2cfe0b4d7ef5eedafe9fe38ec1c52ca7a588afc8f831d9baf",
+    "Size": 31152
+  },
+  "Data/Character/Glove/01082238.img": {
+    "Hash": "c6ea8a1f595051a587fe739bcd46e8da82e24464e4397c2f394118f8b05719d7",
+    "Size": 29965
+  },
+  "Data/Character/Glove/01082239.img": {
+    "Hash": "2957b8b6dcbceaa470de79420c05392146cd6f088014fbd070bf5ec197f41ac0",
+    "Size": 53191
+  },
+  "Data/Character/Glove/01082240.img": {
+    "Hash": "10706f7a4aa967413a6064c5fe21118dc444e2efe5ee87d885d8356808aabb12",
+    "Size": 31142
+  },
+  "Data/Character/Glove/01082241.img": {
+    "Hash": "42b12f619d7f83da2ddb39c733a37e714dcedb764a5af86190eedaa5122aa4fc",
+    "Size": 29625
+  },
+  "Data/Character/Glove/01082242.img": {
+    "Hash": "3002a27430792c10014c2ecdc3ae3dba7fbd11c1412f407e4e0c6814aa1e8ee2",
+    "Size": 30908
+  },
+  "Data/Character/Glove/01082243.img": {
+    "Hash": "fbdb07eb21dd3e6e44f104232435f524a3a6453bb66890cd522f4051637bff16",
+    "Size": 29749
+  },
+  "Data/Character/Glove/01082244.img": {
+    "Hash": "fb618b41f970a3eeee5984bc25852cb11da217d161616cf59561ec0881481069",
+    "Size": 27010
+  },
+  "Data/Character/Glove/01082245.img": {
+    "Hash": "2ef19691f5c160207eb78b2265c8671bc9116fa8c0da8b095fcef02b7339db9a",
+    "Size": 26984
+  },
+  "Data/Character/Glove/01082246.img": {
+    "Hash": "0b5e15afdc6141a752af45322e72f51bf8da7cb499f349a462508c2dd969c151",
+    "Size": 51975
+  },
+  "Data/Character/Glove/01082247.img": {
+    "Hash": "6685662dd24f8d0672323c5a3bc7b8cf4710bbf51cb3b1a23c91b5cf033cfcfc",
+    "Size": 45046
+  },
+  "Data/Character/Glove/01082248.img": {
+    "Hash": "be1c8f8734adab9ab8d97db8e70447994325d209c58dad6a0ee91e0cce208779",
+    "Size": 23051
+  },
+  "Data/Character/Glove/01082249.img": {
+    "Hash": "2e4dfe66e068b4e9fd12eb120a54a10b21832a6693c8e52e4338977176ff5c9d",
+    "Size": 20607
+  },
+  "Data/Character/Glove/01082250.img": {
+    "Hash": "20db8150b86ad2489e24e73a8feb99cc6e04f47aaad3ba8f1785a81b80600fca",
+    "Size": 28985
+  },
+  "Data/Character/Glove/01082251.img": {
+    "Hash": "e8ec375e8db8bab077bb87919eae00c5af6c911aa0c743549f597c2def4f3667",
+    "Size": 23498
+  },
+  "Data/Character/Glove/01082252.img": {
+    "Hash": "ec402eadda2cc0fdc1876603e6890440f98d18526aa028018c945ea85eee7703",
+    "Size": 49890
+  },
+  "Data/Character/Glove/01082253.img": {
+    "Hash": "ce55c963eb6ffcf2d036f848c9e79e8b556ae9f9116453dbedac1ba1b06e70d2",
+    "Size": 21522
+  },
+  "Data/Character/Glove/01082254.img": {
+    "Hash": "f933ce0e8d6a709a5be6b98150f14064cc5cf8bb4297de9fdb970e7ed3b30eef",
+    "Size": 27326
+  },
+  "Data/Character/Glove/01082255.img": {
+    "Hash": "20c142518f6964b2df8f618dc62b738f4ca19d4591daf8139b69fe48928f8206",
+    "Size": 28650
+  },
+  "Data/Character/Glove/01082256.img": {
+    "Hash": "c87c713a5e809de457bd742b0644be601694075859edff7de91a74779790a224",
+    "Size": 39471
+  },
+  "Data/Character/Glove/01082257.img": {
+    "Hash": "ba76685d6bb2eb1ab5af4b45617a1eb6dba612eb473a176bc4d89573863bd3d4",
+    "Size": 39716
+  },
+  "Data/Character/Glove/01082258.img": {
+    "Hash": "18322dd8ef14e86b9b45bc04c2813b14ecf710a305e89a4aed9cb8ff05a5299f",
+    "Size": 40106
+  },
+  "Data/Character/Glove/01082259.img": {
+    "Hash": "f0edba96ea21db844fce7b4d61f9d5b598034f1a47aa9312ed57368b4bc0e3c8",
+    "Size": 39832
+  },
+  "Data/Character/Glove/01082260.img": {
+    "Hash": "25c52e6fcea204bff262affed9277ce88b4482e0114b7725343d2f29631653a4",
+    "Size": 40087
+  },
+  "Data/Character/Glove/01082261.img": {
+    "Hash": "230c70c76bb7a1394ac2edcf30d2ad195ae8392cd656ed3f651b17601b946edd",
+    "Size": 32735
+  },
+  "Data/Character/Glove/01082262.img": {
+    "Hash": "ab5fccd159d6eff7d5fecea63956e1b10670f3691385aaf41c0bbc0b32dd0bf8",
+    "Size": 18956
+  },
+  "Data/Character/Glove/01082263.img": {
+    "Hash": "4b1c788e5c6221572f88e6d03ad49baef3160a2541bedf237b0a749ea7881af9",
+    "Size": 33571
+  },
+  "Data/Character/Glove/01082264.img": {
+    "Hash": "e9629dab1efcedfefe3d9f1346b41053baf74e97eaabd100d54e9a1eea9b632c",
+    "Size": 20754
+  },
+  "Data/Character/Glove/01082265.img": {
+    "Hash": "590d03bd04a3910f171267c65a6e260c2163535ac2def603c9b3ad96565370ee",
+    "Size": 49108
+  },
+  "Data/Character/Glove/01082267.img": {
+    "Hash": "d04e66f1eab35e1fd2ad50806547c38e3eefc683ac7aa124842c791be74c85df",
+    "Size": 39806
+  },
+  "Data/Character/Glove/01082268.img": {
+    "Hash": "612f6e5811cd4d770a5028fcb0cbe8055bf0ebcd77b0f343c48857cb9a1d757e",
+    "Size": 31879
+  },
+  "Data/Character/Glove/01082269.img": {
+    "Hash": "b5e27bcc89d245be8caee5455f92dcb5908c6c2767b7aefda024439f7a52e2d2",
+    "Size": 48996
+  },
+  "Data/Character/Glove/01082270.img": {
+    "Hash": "b6ad403104c14c7fbef8538202ec789481d407fa0d066e9e32f2f047463bccf6",
+    "Size": 23041
+  },
+  "Data/Character/Glove/01082271.img": {
+    "Hash": "92acad749c329c9d695c1177272c40b40d0469dc701334c6afa9be33f5c72cd6",
+    "Size": 23045
+  },
+  "Data/Character/Glove/01082272.img": {
+    "Hash": "d44432c90738715cef0d0fbbfe3dde3dd863efea84cc5dc54ce8083c6b098a83",
+    "Size": 32463
+  },
+  "Data/Character/Glove/01082273.img": {
+    "Hash": "64392e33bcaab4229b46a7fb09d2692f02a12557b6d6c0de5208161e8531ef2d",
+    "Size": 56990
+  },
+  "Data/Character/Glove/01082274.img": {
+    "Hash": "3f5d48e3f00d7addd9e46268ae0564dc88173841fb4234f6b3067b0a46b6e0d8",
+    "Size": 30951
+  },
+  "Data/Character/Glove/01082275.img": {
+    "Hash": "e588f05d83fe4cea17b18651e6497dabe0d9873e4862bdd694815cf57dc4e229",
+    "Size": 31100
+  },
+  "Data/Character/Glove/01082276.img": {
+    "Hash": "d95b3c1759218a51f990fe787184c4a4317a2ce3624f4fd021d0bcf1408d3f34",
+    "Size": 28205
+  },
+  "Data/Character/Glove/01082277.img": {
+    "Hash": "f2a7880238520d3ea2d669765cf4dd42505c0a27bbe74e351b48a8ac2aa909a2",
+    "Size": 26826
+  },
+  "Data/Character/Glove/01082278.img": {
+    "Hash": "84058835b9005a0088d41c68d2dc095ae04fd22bd4266594d81d527697fb16c0",
+    "Size": 40635
+  },
+  "Data/Character/Glove/01082279.img": {
+    "Hash": "03dc3affc2f48ba135905524287b964385317f45954640c10d426f19287bd6ba",
+    "Size": 41421
+  },
+  "Data/Character/Glove/01082280.img": {
+    "Hash": "4d40cf2f4058143565bef46476d98b35e189c1ce5c95b2729afd8f8d86c9a174",
+    "Size": 40580
+  },
+  "Data/Character/Glove/01082281.img": {
+    "Hash": "2ed44aedf3b1c73509707fc4d9f31067afc3a22c01cd53c54c8e7238cf46a326",
+    "Size": 41169
+  },
+  "Data/Character/Glove/01082282.img": {
+    "Hash": "da8ee04a734cc89554fb01f34d1d74b0a61916c25c8ee20476874f83300c1609",
+    "Size": 34110
+  },
+  "Data/Character/Glove/01082283.img": {
+    "Hash": "1362b3f6d04752bb4e377c65a9ede47956c25e08c95167c195c7d9b983935757",
+    "Size": 30777
+  },
+  "Data/Character/Glove/01082284.img": {
+    "Hash": "1b980811a075d60d43b616b68b424c29cfa4ba84df25dea62030ac9e863f6308",
+    "Size": 32004
+  },
+  "Data/Character/Glove/01082285.img": {
+    "Hash": "a7bd8dd1182f26ade0e8abc8fdc31519f3c610e01d22175964372ceeab039edb",
+    "Size": 31270
+  },
+  "Data/Character/Glove/01082286.img": {
+    "Hash": "70d3ff1a7c0170edf07606eb215f1c88da816742ecfe4371828b4d950467df95",
+    "Size": 31280
+  },
+  "Data/Character/Glove/01082287.img": {
+    "Hash": "68134f7287bc85d75b03efa3c56458327199b90f16bffa4ae62a319cb0c230f9",
+    "Size": 31270
+  },
+  "Data/Character/Glove/01082288.img": {
+    "Hash": "aee6f1a11a4cf84bdb24fcedb4bde6cae8dc2b098af320e2aceae3080263708b",
+    "Size": 31270
+  },
+  "Data/Character/Glove/01082289.img": {
+    "Hash": "9e6e0520443c85454938f90446e9c0971652a3945d33ffe81eb76b0d95d07aa9",
+    "Size": 31266
+  },
+  "Data/Character/Glove/01082290.img": {
+    "Hash": "f703d5dd9187b9421bca0edc1cf42026d388b7a6a393b0018e67d93f3b3be233",
+    "Size": 33371
+  },
+  "Data/Character/Glove/01082291.img": {
+    "Hash": "4892d6e91a62e0d39c1584fcd4980f093d69afcc9bf53ab9f2a1457b8d516d2b",
+    "Size": 33371
+  },
+  "Data/Character/Glove/01082292.img": {
+    "Hash": "e0f670e099552b20cdae71fe9dd530fd03747767e843a2093cff2e7b48e8c591",
+    "Size": 31701
+  },
+  "Data/Character/Glove/01082295.img": {
+    "Hash": "d3a65d37bba9286381db0d040a6fe255a491cb360a7076d0fab8e9c40a0998c8",
+    "Size": 55148
+  },
+  "Data/Character/Glove/01082296.img": {
+    "Hash": "fece57c88c7ae9543e84001f347d5350cac30bb0a3ca46d5bed2d7b974d17891",
+    "Size": 33967
+  },
+  "Data/Character/Glove/01082297.img": {
+    "Hash": "02a755f0d2bd20bd755e17ca3d2fd7d737baefd99b29dea91054421abc7f5ba1",
+    "Size": 35156
+  },
+  "Data/Character/Glove/01082298.img": {
+    "Hash": "06432ed77724260b2ca2c56d85555dd7c9fbfdd8113ce58f827d0e273343639a",
+    "Size": 32902
+  },
+  "Data/Character/Glove/01082299.img": {
+    "Hash": "9affb3d5007236147b7c1e327b70733d83d71ccd77403ff43e7dfbeaf647ae34",
+    "Size": 34783
+  },
+  "Data/Character/Glove/01082300.img": {
+    "Hash": "e6a68f599649605eba8de3f94327232556537a2483d3cba590b8aa419c19d0d6",
+    "Size": 32085
+  },
+  "Data/Character/Glove/01082301.img": {
+    "Hash": "46216dbf385dacedfc8b62c8c71dfef7d74f749055e5fde515979f5c9ed76c05",
+    "Size": 32095
+  },
+  "Data/Character/Glove/01082302.img": {
+    "Hash": "78c326e7a34ca6f13bbb377f0f80c56575eb0952ac85bc8d3b24e8b84a632401",
+    "Size": 32095
+  },
+  "Data/Character/Glove/01082303.img": {
+    "Hash": "651b13e92f1179ae5a8b0a15ec755dd4fbb86e56aa7a50b31a4bdf07cf366c93",
+    "Size": 32529
+  },
+  "Data/Character/Glove/01082304.img": {
+    "Hash": "f3fffebc9fcaddda816ebc255a431ae0811eda4acaac39c47ff50872896d96aa",
+    "Size": 32091
+  },
+  "Data/Character/Glove/01082305.img": {
+    "Hash": "af8ef1b0fd30581bd5681c593187aef9c490739c85a446ff0e0d705c78be5fab",
+    "Size": 31557
+  },
+  "Data/Character/Glove/01082306.img": {
+    "Hash": "e63d2798671232b06dde599ee74f764406002c76d1b00dd8cf4a8c5a7de77dd7",
+    "Size": 31567
+  },
+  "Data/Character/Glove/01082307.img": {
+    "Hash": "8252d416b2629b6dc09451ca2c9f326b04bf9857f9c04d708aa9c3eb74889add",
+    "Size": 31557
+  },
+  "Data/Character/Glove/01082308.img": {
+    "Hash": "15c2b8b69b049cd58947657d34282aed62b5efaf87f2179a1fd0f98e27dca106",
+    "Size": 31557
+  },
+  "Data/Character/Glove/01082309.img": {
+    "Hash": "84c9650e86ecc80d11365e659bfb209e9d9abeadb2a4d0ad214748440c7f3a3c",
+    "Size": 31553
+  },
+  "Data/Character/Glove/01082310.img": {
+    "Hash": "40f69f69675b67529011c71e007155c7e277c318460523f31e2a03de910f6e2d",
+    "Size": 49190
+  },
+  "Data/Character/Glove/01082312.img": {
+    "Hash": "87293a273a49da15b20634535de9f1b2b07fa3820854f85339e72bd1e03550d8",
+    "Size": 16100
+  },
+  "Data/Character/Glove/01082313.img": {
+    "Hash": "7ab76aef8c86633934a051a2d2e21a7d9a8022abcb5f20cb638f3287cbd91117",
+    "Size": 49942
+  },
+  "Data/Character/Glove/01082314.img": {
+    "Hash": "876c1965ede07d2e49d2027e56286d58aeaf579f354e134aa2fb26291d88d83a",
+    "Size": 18759
+  },
+  "Data/Character/Glove/01082315.img": {
+    "Hash": "5ba24456af1449fe03629251b480f77240c0377377483a95443cffbca62b48b3",
+    "Size": 18671
+  },
+  "Data/Character/Glove/01082316.img": {
+    "Hash": "69784885ddd8917363d964b228079f9f79dc79c236252d11b8517c4006d2ceff",
+    "Size": 26676
+  },
+  "Data/Character/Glove/01082317.img": {
+    "Hash": "78bc115d8c9a9a45ae2cb0d83b7c321ea3b426583436afac790d7786336c2693",
+    "Size": 40466
+  },
+  "Data/Character/Glove/01082318.img": {
+    "Hash": "5a9798b4569ddfb7710cf887198a256cea7a56a20342da46a6b6ebf0d0abdf8a",
+    "Size": 41262
+  },
+  "Data/Character/Glove/01082319.img": {
+    "Hash": "404accc195ffed2553fec340e740a06ec0e46a4e7ad34261638353494df31d70",
+    "Size": 40411
+  },
+  "Data/Character/Glove/01082320.img": {
+    "Hash": "498369b8d4e85e97a37b16604a0eaa30f0b42abc773e36a109dffdc590424fe4",
+    "Size": 41010
+  },
+  "Data/Character/Glove/01082321.img": {
+    "Hash": "553ca7a793efcc3a6c87cdbe7087a915bb4ad0f62e4ac41fa7638099c6670b94",
+    "Size": 40986
+  },
+  "Data/Character/Glove/01082322.img": {
+    "Hash": "da3943a5b340c08e4f4817bea8e193c2703c58fd00a05499a29c25141477b3f7",
+    "Size": 15107
+  },
+  "Data/Character/Glove/01082324.img": {
+    "Hash": "9b0d50920c1e201ead9eb6bf363905a8ac949887d31d0f08fef252f09c85ea9a",
+    "Size": 1087
+  },
+  "Data/Character/Glove/01082325.img": {
+    "Hash": "d43d148c17ef78dd7e12c8fdaaf2723ff07417c31e38b09fe25a9c5f3bc6ec9a",
+    "Size": 15716
+  },
+  "Data/Character/Glove/01082326.img": {
+    "Hash": "eb4556fe0157a741279bdc3fbacfa5d5a1e351d376e490528f8d501869e1943d",
+    "Size": 16400
+  },
+  "Data/Character/Glove/01082327.img": {
+    "Hash": "7b1b87d8e2ab38233f307295729c2d1f2c156812f3c3ea19dec74d0cd7fe00fb",
+    "Size": 15829
+  },
+  "Data/Character/Glove/01082328.img": {
+    "Hash": "5967c3af6b4fedad49331133aa4e240eb056ed63b65baddbfaf38bec11a0721a",
+    "Size": 54676
+  },
+  "Data/Character/Glove/01082329.img": {
+    "Hash": "1828ae101cee16d0c71b189c97dd64c010f1f997848635228bb51534a07416f5",
+    "Size": 33052
+  },
+  "Data/Character/Glove/01082330.img": {
+    "Hash": "712d8bb59e754c1bfb7fd795cb220eec69abf7e5d44ccd5a5ce6544ae27ca965",
+    "Size": 30593
+  },
+  "Data/Character/Glove/01082331.img": {
+    "Hash": "4398f706baddc833d569f0188b5526205b1776daf738ffdd08f4259b3f0787f7",
+    "Size": 33167
+  },
+  "Data/Character/Glove/01082332.img": {
+    "Hash": "b2a1f8dc038c68d93b8ce1c785e63dbd74d8906eff850447eb9a2d64b17a139e",
+    "Size": 31034
+  },
+  "Data/Character/Glove/01082333.img": {
+    "Hash": "9656c367b6ad57ad71d858bec673e97a72416e15a357892750e57534b589ba19",
+    "Size": 54806
+  },
+  "Data/Character/Glove/01082334.img": {
+    "Hash": "9133ada05c45d30aebbd296c7d54f8e157855dd1fce73d7357adbe6317d24cdb",
+    "Size": 33182
+  },
+  "Data/Character/Glove/01082335.img": {
+    "Hash": "30282531dbe112d9ba0bbbc89c8118a2f81f6257a25959512f4b7cf7832fb358",
+    "Size": 30723
+  },
+  "Data/Character/Glove/01082336.img": {
+    "Hash": "e2eab5c605f1cd244b57773e3610ae4e23e1a26dbc60ba1b6b8e39b7d46fe25f",
+    "Size": 33325
+  },
+  "Data/Character/Glove/01082337.img": {
+    "Hash": "84b94c5cf00b6d374fb81f966c3c9397bdfcaf69a947e0808b9ce44009ac2e75",
+    "Size": 31164
+  },
+  "Data/Character/Glove/01082338.img": {
+    "Hash": "39dede8cb0102afe978dda3490e5f961fbdf7423d6c2f98f39b7b99130218216",
+    "Size": 31301
+  },
+  "Data/Character/Glove/01082339.img": {
+    "Hash": "e78889db6be218d84e91bd28dd3111f29cdb5e34741eeedddf39ff6f43208392",
+    "Size": 31311
+  },
+  "Data/Character/Glove/01082340.img": {
+    "Hash": "0642bffc1a5b46db41caea9ec7ff3cfda8bb00f08ddeae9b95b01d6abeefd7bb",
+    "Size": 31301
+  },
+  "Data/Character/Glove/01082341.img": {
+    "Hash": "8fbfc0353c0a8a8434cb47ce1b64b687565102222fa4a230085eeb12dd79cd66",
+    "Size": 31301
+  },
+  "Data/Character/Glove/01082342.img": {
+    "Hash": "18b60dcc3e187a37200eb956ec873724879240bfbc4bdd7112f63f6c59bd208c",
+    "Size": 31307
+  },
+  "Data/Character/Glove/01082343.img": {
+    "Hash": "773af06692886b92dfdbef72149ab9eb8f52015ade8d0a064b6f072722b7b2e4",
+    "Size": 49937
+  },
+  "Data/Character/Glove/01082355.img": {
+    "Hash": "634e41c1e3276df763f34edf87c9623920ce2f7808c37bc7f7f3ef20ea641718",
+    "Size": 19795
+  },
+  "Data/Character/Glove/01082360.img": {
+    "Hash": "ecc046d0aba70f97494837d00064ea8be0424487280b8a1d19863ca72f848258",
+    "Size": 22370
+  },
+  "Data/Character/Glove/01082379.img": {
+    "Hash": "1426f1742f4e8a3d5499645d354d19e12035fc629c4cae855c2ecb8035b1200e",
+    "Size": 29236
+  },
+  "Data/Character/Glove/01082390.img": {
+    "Hash": "f26ab0e46dd7b11dac919c61a7166c8ed6bab18c3ce2d528a1b3e6979dabaf8f",
+    "Size": 26138
+  },
+  "Data/Character/Glove/01082391.img": {
+    "Hash": "5cfb6f2535a1f0b15b1dceab9a1eb5bd8e54125430c7f6f5456fd580ecdb50a9",
+    "Size": 18665
+  },
+  "Data/Character/Glove/01082392.img": {
+    "Hash": "476e9b369645c9ca26a2806bf38ee9839a06a1cbf510c773585067c57379b9ed",
+    "Size": 34885
+  },
+  "Data/Character/Glove/01082393.img": {
+    "Hash": "90f156192a3d3b474bcd219297075ca6b559b8547f38250f0de95be4cc7326f9",
+    "Size": 33345
+  },
+  "Data/Character/Glove/01082394.img": {
+    "Hash": "96d5f2bee34a0cedc10402f150e8bd5d9c8c100971b7899d506ba50fe0be036b",
+    "Size": 29584
+  },
+  "Data/Character/Glove/01082395.img": {
+    "Hash": "ca9619f1c9aa0809050b2fe02afc1012f6b6e99d764a4a50af911434a13bb442",
+    "Size": 32097
+  },
+  "Data/Character/Glove/01082396.img": {
+    "Hash": "ca9619f1c9aa0809050b2fe02afc1012f6b6e99d764a4a50af911434a13bb442",
+    "Size": 32097
+  },
+  "Data/Character/Glove/01082397.img": {
+    "Hash": "ca9619f1c9aa0809050b2fe02afc1012f6b6e99d764a4a50af911434a13bb442",
+    "Size": 32097
+  },
+  "Data/Character/Glove/01082398.img": {
+    "Hash": "ca9619f1c9aa0809050b2fe02afc1012f6b6e99d764a4a50af911434a13bb442",
+    "Size": 32097
+  },
+  "Data/Character/Glove/01082399.img": {
+    "Hash": "f8415d891271128f37cc897d56d581c77870943c501631f1fa046847c6617e97",
+    "Size": 41238
+  },
+  "Data/Character/Glove/01082400.img": {
+    "Hash": "14d322be599059b02622325e51edd7dd5caa1a03e9b544ea605a114477b239a3",
+    "Size": 33981
+  },
+  "Data/Character/Glove/01082401.img": {
+    "Hash": "848f16920c5f3e4e2c34747a7697ae4fe7b609d8e3d75ce5e632171efc8f5940",
+    "Size": 30283
+  },
+  "Data/Character/Glove/01082402.img": {
+    "Hash": "b617e05ae18878bfd6c03d878d2981a8913c0a482c68a0ec47a8e5e3f71517d3",
+    "Size": 51971
+  },
+  "Data/Character/Glove/01082403.img": {
+    "Hash": "288b8e21101fbc33838781734795e92505d9b486fcc6910c3992a119575a9849",
+    "Size": 32044
+  },
+  "Data/Character/Glove/01082404.img": {
+    "Hash": "288b8e21101fbc33838781734795e92505d9b486fcc6910c3992a119575a9849",
+    "Size": 32044
+  },
+  "Data/Character/Glove/01082405.img": {
+    "Hash": "288b8e21101fbc33838781734795e92505d9b486fcc6910c3992a119575a9849",
+    "Size": 32044
+  },
+  "Data/Character/Glove/01082406.img": {
+    "Hash": "288b8e21101fbc33838781734795e92505d9b486fcc6910c3992a119575a9849",
+    "Size": 32044
+  },
+  "Data/Character/Glove/01082407.img": {
+    "Hash": "54c68212c38953a668c561d15232fc03292b4727ac3f655d5298f0497670d0b8",
+    "Size": 35157
+  },
+  "Data/Character/Glove/01082408.img": {
+    "Hash": "1184c8056315adc014d08c40780c6aad9ee5f7478ff5ec15abd93383afc4df94",
+    "Size": 29590
+  },
+  "Data/Character/Glove/01082409.img": {
+    "Hash": "2a3d14dd56c1c829c4dee72b67e833c6000e914e9b81002b02b0e4e4e68e5795",
+    "Size": 18728
+  },
+  "Data/Character/Glove/01082410.img": {
+    "Hash": "e8da5ada3f815a14d7430d817a54d0c80fe11ab2b7d3f1836c2fa23b516679e1",
+    "Size": 49987
+  },
+  "Data/Character/Glove/01082411.img": {
+    "Hash": "c009978da95d778fb9233d18a8638ee2eafc43747f5f760698d3a8970583a8ed",
+    "Size": 29266
+  },
+  "Data/Character/Glove/01082412.img": {
+    "Hash": "5314d348cbd81f3026e601cfe08f230539e2fb25a6428066c063ae39dcd7cacd",
+    "Size": 29668
+  },
+  "Data/Character/Glove/01082413.img": {
+    "Hash": "632fc60fa8a6a9246c1fb2232c894a6efe88a00e5f743f34d947320d208ea063",
+    "Size": 35219
+  },
+  "Data/Character/Glove/01082414.img": {
+    "Hash": "d929c1c460644cef66c3a4730099270eede889bf462fde6c4ef8e72b6d34c6e8",
+    "Size": 49285
+  },
+  "Data/Character/Glove/01082415.img": {
+    "Hash": "86278e66d3e62cb4388f1d0604a0f919c39a0c6e3adbc1bcda268d685e69ec95",
+    "Size": 31235
+  },
+  "Data/Character/Glove/01082416.img": {
+    "Hash": "4b70f7be1fba369720ead9c1180b91b861022d255a33fe9fd0d41514d13634a4",
+    "Size": 32085
+  },
+  "Data/Character/Glove/01082417.img": {
+    "Hash": "bd40ca24c9d1870e4b86d7be4119f4680fb34bb2d65665e11a521ad6bd6bf90d",
+    "Size": 32095
+  },
+  "Data/Character/Glove/01082418.img": {
+    "Hash": "42fe0a6cd864345fb8c2367b8747cd46608a399b9df0c85ae631ee4ce6af29d3",
+    "Size": 32095
+  },
+  "Data/Character/Glove/01082419.img": {
+    "Hash": "5c239142839f72c03f6c9d65867ed1247e26d5373acf3127269be28c4ec82a8b",
+    "Size": 32529
+  },
+  "Data/Character/Glove/01082420.img": {
+    "Hash": "025d2a6ad16da478d43def8f96436ebe29a2fcd4333aa2fee7e6bb5c5fd2e813",
+    "Size": 32091
+  },
+  "Data/Character/Glove/01082421.img": {
+    "Hash": "f254515f278be5de4ffe84df8f3254bfc5d9fe34d5f12bb49d93ffdd328ac51d",
+    "Size": 34964
+  },
+  "Data/Character/Glove/01082422.img": {
+    "Hash": "51dd34d3b9b87f5ba43c32326073ea097210aee74f96eaf169a84e183db21f65",
+    "Size": 35478
+  },
+  "Data/Character/Glove/01082423.img": {
+    "Hash": "86e31145cabd047f7a08c3aaad8959518ed599adeb1c6aa9504be84a5ff9dd34",
+    "Size": 34338
+  },
+  "Data/Character/Glove/01082424.img": {
+    "Hash": "0fa716999815837106e8ad6f9c4cb2823bc21d44a84b956d6fed601a447dfe26",
+    "Size": 33352
+  },
+  "Data/Character/Glove/01082425.img": {
+    "Hash": "2491747204af2b79b70082d90e60baad9b744444c679c540963f4f3773ca1db0",
+    "Size": 54722
+  },
+  "Data/Character/Glove/01082426.img": {
+    "Hash": "7b4294735eb5eace4dc4b05a4c868675005f45ff516ee1eb8e6d99e956fd92b9",
+    "Size": 33088
+  },
+  "Data/Character/Glove/01082427.img": {
+    "Hash": "619c3a7f535a711ccdc85a6e4ef8c00e68f80d0568f64ed156e35efe0dfcc09a",
+    "Size": 30652
+  },
+  "Data/Character/Glove/01082428.img": {
+    "Hash": "75505af870f2c840b458fea43cb3d71743960684db5c05225096a4c4fe3336cb",
+    "Size": 33155
+  },
+  "Data/Character/Glove/01082429.img": {
+    "Hash": "2f5188fed1da55baf8816ab443167c490bfc4643bcc39077f86a063cad924eba",
+    "Size": 30994
+  },
+  "Data/Character/Glove/01082430.img": {
+    "Hash": "38f6c24a1aa5d79ecc23597e9d70aea61c5e46c278bfd7acdb248e7569f8247a",
+    "Size": 19147
+  },
+  "Data/Character/Glove/01082431.img": {
+    "Hash": "b54061eb1fd9eb1b01dcd3ea3fc31034afc7ca1d2d22682f2e25937e0bcd37e8",
+    "Size": 14546
+  },
+  "Data/Character/Glove/01082432.img": {
+    "Hash": "560d8e16f7527ac0ac12c13647838756a8545331179423aa8ca5a817f6800327",
+    "Size": 40568
+  },
+  "Data/Character/Glove/01082433.img": {
+    "Hash": "e7629ad5fa8786ba4fc54ea488bcd23d5d3a3ff6aacc6329030e82b6326c4f7a",
+    "Size": 19163
+  },
+  "Data/Character/Glove/01082434.img": {
+    "Hash": "69b899698882c364b48205d47189fd62e3a64812a4fb5e716687518848f961d5",
+    "Size": 31113
+  },
+  "Data/Character/Glove/01082435.img": {
+    "Hash": "a0e06e1cee2367e03d8622bc21fca59f82bb00316ab846fffe84719d91285d16",
+    "Size": 31252
+  },
+  "Data/Character/Glove/01082436.img": {
+    "Hash": "bc2d0743a364f2b4fb33d3a98799330506af747bdca594b4b63cd970771446d6",
+    "Size": 30995
+  },
+  "Data/Character/Glove/01082437.img": {
+    "Hash": "f1f794099bb5ca0a88c2645526e2c417e75fd294cc92a9b82657d2dbbf27572b",
+    "Size": 31011
+  },
+  "Data/Character/Glove/01082438.img": {
+    "Hash": "5f2c8f8fa7e242b80cfff63a89a3035e7308ee4abf726734e532f3446f3bcada",
+    "Size": 28296
+  },
+  "Data/Character/Glove/01082442.img": {
+    "Hash": "19b416f6e90eaf0bf65b0d5b0ce2f6b91ae19a3019dde9524978c457aeb29e1b",
+    "Size": 30940
+  },
+  "Data/Character/Glove/01082443.img": {
+    "Hash": "63f5125228367963bf73dfc083fc5cd687617a944377739e42ba353c9cd62f3e",
+    "Size": 14383
+  },
+  "Data/Character/Glove/01082444.img": {
+    "Hash": "46972128675ab843921a1f69e22fd42f233d47950f1db8fdb0bd899885d5446a",
+    "Size": 30397
+  },
+  "Data/Character/Glove/01082445.img": {
+    "Hash": "01cf5c9a613a964f69054f86d1aebdbf8e0a6ddea456786a943fa2cb1ed655de",
+    "Size": 32699
+  },
+  "Data/Character/Glove/01082446.img": {
+    "Hash": "e7ee9381039cc7dff3971c379a0ccae05679f7ff6b4ef2223abeb373539d4a90",
+    "Size": 34026
+  },
+  "Data/Character/Glove/01082447.img": {
+    "Hash": "ea65f6a065118e750ad5f5017c1d1a1a80401b1106a3016b0ba846dee2b968b6",
+    "Size": 38239
+  },
+  "Data/Character/Glove/01082448.img": {
+    "Hash": "dbec4ea0f5e16327aafac3fbb17b846dbef8cd802527279d569a4ea0bd04f2a2",
+    "Size": 23332
+  },
+  "Data/Character/Glove/01082450.img": {
+    "Hash": "ac381733bc45af25520790b24652a29ca56e667a39791c3598557aa68e75e150",
+    "Size": 27038
+  },
+  "Data/Character/Glove/01082451.img": {
+    "Hash": "a602522239876ecb106e1958c859f5cd741b730747d068f71d03d400203557ee",
+    "Size": 26760
+  },
+  "Data/Character/Glove/01082452.img": {
+    "Hash": "3997f40091873354c01a9c9317a5aeaf5be2df72974fa7024698f772d99da84a",
+    "Size": 26643
+  },
+  "Data/Character/Glove/01082453.img": {
+    "Hash": "a01ca67e7d90081b02c89e7a5fb1d5bd2ff6c3be57ad188efb25346983f27c7f",
+    "Size": 14474
+  },
+  "Data/Character/Glove/01082454.img": {
+    "Hash": "fdd49b6304d0ea76652ab274f97503c138ed647aff1e2b875f9af94c3469d929",
+    "Size": 30345
+  },
+  "Data/Character/Glove/01082455.img": {
+    "Hash": "ec7ee7f5f354507f500b45a127b19e83195e17701c4e7deef4ca4d3f637a38ce",
+    "Size": 32699
+  },
+  "Data/Character/Glove/01082456.img": {
+    "Hash": "7de230fdb572b09ee41ede37707404788a7b8288f106229ac6aff1df63066cd6",
+    "Size": 32699
+  },
+  "Data/Character/Glove/01082457.img": {
+    "Hash": "d537899b48f9d806da4c1a8c7026bf9a4cd5a03ec197b4d4a8e4fad7ec7933f5",
+    "Size": 32699
+  },
+  "Data/Character/Glove/01082458.img": {
+    "Hash": "355f3aef132519a5853118207d9cd6445c783ff131443684ef3964473d1db7dc",
+    "Size": 34026
+  },
+  "Data/Character/Glove/01082459.img": {
+    "Hash": "eee3dec804de67fd6b538f2acd9b4f5e834554f38ec2de54a83157e58f3b5087",
+    "Size": 34026
+  },
+  "Data/Character/Glove/01082460.img": {
+    "Hash": "fcbd4b133507dd70a7238ec1b4aee85c18d0dc84305cdccd66ded554486192d1",
+    "Size": 33990
+  },
+  "Data/Character/Glove/01082466.img": {
+    "Hash": "f9dc7f718d72e9d13bde5b92eb207d7d533ba9a1541e9db555920d26dddc39dd",
+    "Size": 32085
+  },
+  "Data/Character/Glove/01082467.img": {
+    "Hash": "acb908d3b05cfc507f18b529c658ff56e5d6ad27971c4dbda97325bc35fc40ba",
+    "Size": 32095
+  },
+  "Data/Character/Glove/01082468.img": {
+    "Hash": "bf87fb630168bc0dcf705680a72c0bfbd35919a4677cec29ccb63de48562e19f",
+    "Size": 32095
+  },
+  "Data/Character/Glove/01082469.img": {
+    "Hash": "f1a069531d9d9163e86cdec2b4a577d99494223adb796f5ef840fdd5169e1984",
+    "Size": 32529
+  },
+  "Data/Character/Glove/01082470.img": {
+    "Hash": "247a0792f208f7c52347d73bd718687ee81bd57c11e32aa78ba3f42ae19b84bc",
+    "Size": 32091
+  },
+  "Data/Character/Glove/01082471.img": {
+    "Hash": "03a6cc531da3b42793e163fd56df779d380ea07e52ad5e812abda73e54ac1b28",
+    "Size": 43030
+  },
+  "Data/Character/Glove/01082472.img": {
+    "Hash": "3a89e883ce49aae0d32bafd5179269d027d68895e326b2ade858116572f6f6f8",
+    "Size": 30770
+  },
+  "Data/Character/Glove/01082473.img": {
+    "Hash": "e69aa70a04a6929d00a24eb61e782b6cfc2e46c618725c540de5b1952c53e56a",
+    "Size": 29986
+  },
+  "Data/Character/Glove/01082474.img": {
+    "Hash": "40d98ab92701091d205e41ea341e24120c2e6091df2f50f6c118e0c45db6a4d6",
+    "Size": 29986
+  },
+  "Data/Character/Glove/01082475.img": {
+    "Hash": "7c62f87ca10172e756bac543a851cca8c1ce838b8a350c162310a6011ebf409a",
+    "Size": 29986
+  },
+  "Data/Character/Glove/01082476.img": {
+    "Hash": "59e565faacb222da6dfe5ccb79b5274373747906b10ef99aa499af9eb2ca985d",
+    "Size": 30770
+  },
+  "Data/Character/Glove/01082478.img": {
+    "Hash": "a62af8a1099ca5b79e2a82e048cd1fee8dc708db4752b04417ce896f863ebe84",
+    "Size": 28809
+  },
+  "Data/Character/Glove/01082483.img": {
+    "Hash": "2e625287af67321ac88bd18b9ef6d1e8d0d97dc94cf5979672e2c8e80459f811",
+    "Size": 30949
+  },
+  "Data/Character/Glove/01082488.img": {
+    "Hash": "6726b76573710d8f47003a25317c7ea08e5c9c366b79839479cd26edfa2f5bc6",
+    "Size": 54495
+  },
+  "Data/Character/Glove/01082489.img": {
+    "Hash": "0c066a47c9ccf18bf295adf880ccfc4a486434633e1147b5a5fc63b6660033d2",
+    "Size": 56069
+  },
+  "Data/Character/Glove/01082490.img": {
+    "Hash": "d71186c7d4426cac88b462fd6435954c992ee48dffd6321108cacb448bb349ba",
+    "Size": 54336
+  },
+  "Data/Character/Glove/01082491.img": {
+    "Hash": "b85a9b677e2436b987ccdbdd1239d2e560e30e9f352bb5c82e34eff829dd5e71",
+    "Size": 55319
+  },
+  "Data/Character/Glove/01082492.img": {
+    "Hash": "ac35445e1dc74136f70af3ae943e2b32098b0799ab2e2fd7bbd0d23327dbcb9e",
+    "Size": 56178
+  },
+  "Data/Character/Glove/01082493.img": {
+    "Hash": "983b1946a5e0df4b5777871fbdc84ef7d2e96b7fd9701497196ba76e27860794",
+    "Size": 48652
+  },
+  "Data/Character/Glove/01082494.img": {
+    "Hash": "ece6ac7466e637fb344f1fceb5b2da82afa57cfe04c8f7e27ab65a840a961928",
+    "Size": 28339
+  },
+  "Data/Character/Glove/01082495.img": {
+    "Hash": "deb4b2331795c87f1d2418fd0e28a4f4b496309330168dddcd53faba88c3402a",
+    "Size": 35265
+  },
+  "Data/Character/Glove/01082498.img": {
+    "Hash": "dda99edc75542b973271a3465aacf241cf5a62c66caab1f09eb4d5693690827a",
+    "Size": 27351
+  },
+  "Data/Character/Glove/01082499.img": {
+    "Hash": "996178d14feef56b2f7e5b8983d4c07f88dbbcb3143f8d8dfec2c7126d0755ad",
+    "Size": 27866
+  },
+  "Data/Character/Glove/01082500.img": {
+    "Hash": "7dbc019249bb73f1fac280a0a2111a32da72f5a939b8c35dcef5538bd6ba4677",
+    "Size": 29884
+  },
+  "Data/Character/Glove/01082501.img": {
+    "Hash": "54c68212c38953a668c561d15232fc03292b4727ac3f655d5298f0497670d0b8",
+    "Size": 35157
+  },
+  "Data/Character/Glove/01082502.img": {
+    "Hash": "8663ff246fccf2a5db4cf3153410b8120848d2fdcb4c619e0984b815ce0950a8",
+    "Size": 31841
+  },
+  "Data/Character/Glove/01082503.img": {
+    "Hash": "02fd5e9e21093d7f77905e5e11d14c53a4e71b724058e928796a8d8236778dee",
+    "Size": 26629
+  },
+  "Data/Character/Glove/01082504.img": {
+    "Hash": "579515f850b4baa03d3ff041d7d631fc244921e7c432b6aab87753203d1780a6",
+    "Size": 30771
+  },
+  "Data/Character/Glove/01082505.img": {
+    "Hash": "b736bc4cb0ef004e18caf269549ee4e4f7c0717dde60fc7d9a0c21af1ba5ca4f",
+    "Size": 45542
+  },
+  "Data/Character/Glove/01082506.img": {
+    "Hash": "798756ffda9aef43f286348f02e6ad8e748f7937cedcecab2991e6b62405d892",
+    "Size": 32094
+  },
+  "Data/Character/Glove/01082507.img": {
+    "Hash": "b6f8dc20fdf502fb83552b7ef7655ccfc46cddb983aaeac98f0e3c44e8726c20",
+    "Size": 32104
+  },
+  "Data/Character/Glove/01082508.img": {
+    "Hash": "d30acce4a81f5ab242026318273870c6b929f42d9ff98da3d10c9a9aa5d44eff",
+    "Size": 32104
+  },
+  "Data/Character/Glove/01082509.img": {
+    "Hash": "af2af0080a93d2b6525b7d3c0c2944b12ec5a26b25fecaf27e173b4ed37ee53e",
+    "Size": 32538
+  },
+  "Data/Character/Glove/01082510.img": {
+    "Hash": "5a63b08953149a509fc1c7f1e38322d391e0c2a9d878d978211413c46b88f306",
+    "Size": 32100
+  },
+  "Data/Character/Glove/01082511.img": {
+    "Hash": "f4b7b6d2763957d932d18e701d006948a9c271e81f700c87e66f64d2d1f57d59",
+    "Size": 32990
+  },
+  "Data/Character/Glove/01082512.img": {
+    "Hash": "7e4d9be32a3b701d53617161be7e441618af8139365f8df7d87aea513da098a0",
+    "Size": 16786
+  },
+  "Data/Character/Glove/01082513.img": {
+    "Hash": "ecfb5d65867f87e3a4700736d9d1bb8641789be1937bf36d4e42a9dee37fb343",
+    "Size": 17487
+  },
+  "Data/Character/Glove/01082514.img": {
+    "Hash": "c194d7fec4c44290ef2312c8c3846f175677e069eb612efc0757789424a7c0b5",
+    "Size": 17589
+  },
+  "Data/Character/Glove/01082515.img": {
+    "Hash": "e0f98e8aadc1ef35b228b815f13ceaa766afa8a863eb45dad88d1392d6db81f6",
+    "Size": 26237
+  },
+  "Data/Character/Glove/01082516.img": {
+    "Hash": "84c8ce284b59c78b4a726e9a1fbb319541d932386ae82d1c93f30fe2c666f812",
+    "Size": 28347
+  },
+  "Data/Character/Glove/01082517.img": {
+    "Hash": "11ed6f008146afd20e17bee988f94aeac5e2778ceec796f1a172921dff902c6a",
+    "Size": 13982
+  },
+  "Data/Character/Glove/01082518.img": {
+    "Hash": "e8281451aa82f782f32aa4d5223a6e49c9024e7fd00bc23211eb54446c9db202",
+    "Size": 16786
+  },
+  "Data/Character/Glove/01082519.img": {
+    "Hash": "7fde9ab33462fb3d030e8cd8ec6477d5320c9a9a9c95957e889993105007ec8b",
+    "Size": 32997
+  },
+  "Data/Character/Glove/01082520.img": {
+    "Hash": "fc5ca6a38eafd23d50b9f663712b441f9ec42b638e89dd2d48c372393c09c9b4",
+    "Size": 54542
+  },
+  "Data/Character/Glove/01082521.img": {
+    "Hash": "d87d2225f9f9d080b4da716a3b9610b4c7d10600c52831cc3a3de5cd88f9f412",
+    "Size": 29065
+  },
+  "Data/Character/Glove/01082522.img": {
+    "Hash": "6fe3caab829883e8e670240f2830f20564f1c5901ba5da7e9d14cee47b1ffc4f",
+    "Size": 29615
+  },
+  "Data/Character/Glove/01082523.img": {
+    "Hash": "789b8d479f2bf85fe9f7a91d4c598a9b5fc0039183b8d4eda03c37b59c66d1d4",
+    "Size": 32752
+  },
+  "Data/Character/Glove/01082524.img": {
+    "Hash": "02fd5e9e21093d7f77905e5e11d14c53a4e71b724058e928796a8d8236778dee",
+    "Size": 26629
+  },
+  "Data/Character/Glove/01082525.img": {
+    "Hash": "6b7e7b12d8a26c101a8b4d84eed24f2230f0a2106c8cd3b1e9c35320d4c10bc2",
+    "Size": 29048
+  },
+  "Data/Character/Glove/01082526.img": {
+    "Hash": "e530714823d3d0805ba2c5db31bb5b0a2d1354e771462cf487c61b02f75e74cb",
+    "Size": 18156
+  },
+  "Data/Character/Glove/01082527.img": {
+    "Hash": "8830e36d93c1ce96e6387c4e848b025e1d8d7aa58566a60ab138e0cff921efca",
+    "Size": 14816
+  },
+  "Data/Character/Glove/01082528.img": {
+    "Hash": "7c7a40204f71f676ae6e61a587f9a38312ac2ab412800e9a6bc931cae964b36c",
+    "Size": 49872
+  },
+  "Data/Character/Glove/01082533.img": {
+    "Hash": "b530a646e6555641f7fdb3822234c98533cbdde6571d86b28358fcc57b9e05ab",
+    "Size": 21782
+  },
+  "Data/Character/Glove/01082534.img": {
+    "Hash": "7a41be4a10b1fcdce93ea165e098752fe7025f0ff22db34b09094911b9a05d37",
+    "Size": 51603
+  },
+  "Data/Character/Glove/01082535.img": {
+    "Hash": "b856c11389fcecd3c2ac7a2b4ff8e72f0b5be888c531b03c24c58cecf74337ba",
+    "Size": 30647
+  },
+  "Data/Character/Glove/01082536.img": {
+    "Hash": "ae641c19ac8612c713b2fb04ecc509ce0b889207d680b83fddcb04fd542211f6",
+    "Size": 28783
+  },
+  "Data/Character/Glove/01082537.img": {
+    "Hash": "7893e388a29ea80c34001a65a9fbf862862411d45257c21e850af5a6d5f8d910",
+    "Size": 19116
+  },
+  "Data/Character/Glove/01082538.img": {
+    "Hash": "196087d56e7e0f612dc6ed398620731a13373a2b67288c880c2f619e203fa168",
+    "Size": 20777
+  },
+  "Data/Character/Glove/01082539.img": {
+    "Hash": "470809fc0f2c865426ca3803eb13675fe37551436390906755010a39d2d7b684",
+    "Size": 22033
+  },
+  "Data/Character/Glove/01082540.img": {
+    "Hash": "09be0cbd74838732862c2fec138b037d1dd76f0643807323e41b55f8dca69645",
+    "Size": 29205
+  },
+  "Data/Character/Glove/01082541.img": {
+    "Hash": "e01c106d932a2033ef191aedaf14f1eecc231e39cfb5f92d9aca171e522a45cf",
+    "Size": 36728
+  },
+  "Data/Character/Glove/01082542.img": {
+    "Hash": "3860ab09893bf943ba70b4da9881010efaa76d192b1a3862184c679ed23ce0ae",
+    "Size": 54639
+  },
+  "Data/Character/Glove/01082543.img": {
+    "Hash": "4acfdfec99bd7d0341b885735296f39705dcafdc1410eef3afd88e438eb98cfe",
+    "Size": 56714
+  },
+  "Data/Character/Glove/01082544.img": {
+    "Hash": "bce6539336212ac685326048349e203e6335cf61d5b60fe817eb7d4aed7008e3",
+    "Size": 56714
+  },
+  "Data/Character/Glove/01082545.img": {
+    "Hash": "d3ab6f09cbddc9bc90c8f6585247c155203f8dfedd054aef26bb43fbaeb8fce7",
+    "Size": 56720
+  },
+  "Data/Character/Glove/01082546.img": {
+    "Hash": "25ddaf513a77be323b3d110eaca19694ec063717c25ba418a919a34b7654c2c2",
+    "Size": 56720
+  },
+  "Data/Character/Glove/01082547.img": {
+    "Hash": "3a1ddc95306b7afa636e2218cb8a2e8915833b1eddcc9b174c2fffbbfc6f6c85",
+    "Size": 56720
+  },
+  "Data/Character/Glove/01082548.img": {
+    "Hash": "9519c68fef0a92ed1778e1680a9f1e6db59d52222ba14658a140f74f90311c20",
+    "Size": 16282
+  },
+  "Data/Character/Glove/01082549.img": {
+    "Hash": "2586b78962fd982fc87559984edc3e1f69fe566b5f4dcb480fe8e77a99cf642a",
+    "Size": 39792
+  },
+  "Data/Character/Glove/01082550.img": {
+    "Hash": "858d5a248d766e4ec429bc297c068c427a5bc20b32f4968cd7ab73d3a2973706",
+    "Size": 25618
+  },
+  "Data/Character/Glove/01082551.img": {
+    "Hash": "fcdd7c047ddb5bb81b53a87b27232f80a15a8836f7173a52547dbc30ffad3392",
+    "Size": 31360
+  },
+  "Data/Character/Glove/01082552.img": {
+    "Hash": "43953d06333c0b32da0eb28cde945732955578dec185e764ba961afd8db59a6e",
+    "Size": 31343
+  },
+  "Data/Character/Glove/01082553.img": {
+    "Hash": "d0647f2648a1326643ef958da10da20e1972aa30ed46a66d9463470842ef265c",
+    "Size": 30437
+  },
+  "Data/Character/Glove/01082554.img": {
+    "Hash": "f80c9d02ee2d8191d15cffb0e9c58b4055bc5eeb6d6bffdcb45654d1867a4be1",
+    "Size": 30922
+  },
+  "Data/Character/Glove/01082555.img": {
+    "Hash": "3f67d653942e63610b2961d145e872891fce1fa9cb6472aa308a98ce57bf23ac",
+    "Size": 16182
+  },
+  "Data/Character/Glove/01082556.img": {
+    "Hash": "d8023f26259270b4686b413a35d5ec258f4aa14667e87c20912a6814632081b5",
+    "Size": 14756
+  },
+  "Data/Character/Glove/01082557.img": {
+    "Hash": "087e7d90c813aa527347c45828ae03befd44ee37d5a1c4a0476f63c7f2e0e5d3",
+    "Size": 30058
+  },
+  "Data/Character/Glove/01082558.img": {
+    "Hash": "eeee2b2082d6f933b414a2eb8f58f222da1964fbab902fe66df7f3afde3ca936",
+    "Size": 26894
+  },
+  "Data/Character/Glove/01082559.img": {
+    "Hash": "90ebb12e8b37daaf468a2e9165b4c0f3c48d5aec48becce1ca2f385f25c4f3f3",
+    "Size": 13024
+  },
+  "Data/Character/Glove/01082560.img": {
+    "Hash": "d5a0b36d78e5ebc51e0a2bb79bf147e806e7a499a2dd44a641836b5ae341bee2",
+    "Size": 29867
+  },
+  "Data/Character/Glove/01082561.img": {
+    "Hash": "230c70c76bb7a1394ac2edcf30d2ad195ae8392cd656ed3f651b17601b946edd",
+    "Size": 32735
+  },
+  "Data/Character/Glove/01082562.img": {
+    "Hash": "408d6584b4712edd1b83087abefad7a46ff34c686161875286ccff030dc3d655",
+    "Size": 34880
+  },
+  "Data/Character/Glove/01082563.img": {
+    "Hash": "5d5e800814cabb7ed92c708e9a3e62e86c5190115cdf35e65deaee45decbc084",
+    "Size": 46160
+  },
+  "Data/Character/Glove/01082564.img": {
+    "Hash": "217ddec3a70c7bc82498a605f9a409943405eddc5ee168dcaf953f223e324a12",
+    "Size": 36705
+  },
+  "Data/Character/Glove/01082565.img": {
+    "Hash": "3b48d6c5c32f8e0d13f52a5ad717f6d5f9396275ae645859c12f56ff4f5d3a94",
+    "Size": 16897
+  },
+  "Data/Character/Glove/01082566.img": {
+    "Hash": "4439c4c8cf143bcfa4229d3363ac4cf4b7f8a792e2ce8c04403475128f2b12c2",
+    "Size": 30393
+  },
+  "Data/Character/Glove/01082567.img": {
+    "Hash": "79751eab14243e826218b9f9b38193e87a16e9f905f1087714f0b93566f3c659",
+    "Size": 32695
+  },
+  "Data/Character/Glove/01082568.img": {
+    "Hash": "fcb1ffde466f3ecc7771d21dc430c55e8cfec98ade53077a6b34c9aa4650b354",
+    "Size": 34026
+  },
+  "Data/Character/Glove/01082569.img": {
+    "Hash": "d1bdf3bbe08abddf341312d393a6a98692502ec8669f5820c44601c5ef74a259",
+    "Size": 32695
+  },
+  "Data/Character/Glove/01082570.img": {
+    "Hash": "a2d725db5904d54890bcc32bc70558473070af97202b23670611106af33ec1ad",
+    "Size": 34026
+  },
+  "Data/Character/Glove/01082571.img": {
+    "Hash": "d04e66f1eab35e1fd2ad50806547c38e3eefc683ac7aa124842c791be74c85df",
+    "Size": 39806
+  },
+  "Data/Character/Glove/01082572.img": {
+    "Hash": "3d87631e8f7f5dc2de11912be2b8e60b5850447756807963443630144c097d4b",
+    "Size": 27570
+  },
+  "Data/Character/Glove/01082574.img": {
+    "Hash": "39c7424f52ebfb5d14bd942d9ff17578b2fdb2ee9380bae517eecce2e92f6a2d",
+    "Size": 36191
+  },
+  "Data/Character/Glove/01082575.img": {
+    "Hash": "b4162ffd70721f5e8dfd93c33b5bd281fb8bb9cb774e581d665dd50944be70a4",
+    "Size": 55414
+  },
+  "Data/Character/Glove/01082576.img": {
+    "Hash": "f050efb671be72c228dac5c6446158cbcf999788b3a4c8312f3f31759a77ae64",
+    "Size": 34346
+  },
+  "Data/Character/Glove/01082577.img": {
+    "Hash": "563ada408f8afbc372c04d806d917a797abf0fb99197972818aa556fdb717948",
+    "Size": 35683
+  },
+  "Data/Character/Glove/01082578.img": {
+    "Hash": "71e3f816ad97e3a5c9a9206ec438cac9a24e8ace2b7a92a9311fc5496e420238",
+    "Size": 33695
+  },
+  "Data/Character/Glove/01082579.img": {
+    "Hash": "209a717a7e08536dfadd376647ff06b71430feaad89121e8cf22952bf4819ff7",
+    "Size": 35407
+  },
+  "Data/Character/Glove/01082580.img": {
+    "Hash": "f9436f2e171ff9df6bddcefd0a5f69e5609ae57f25c33618287146e9a477e629",
+    "Size": 29117
+  },
+  "Data/Character/Glove/01082581.img": {
+    "Hash": "fdc1423af7868f4d2fa14aaff7add4094d04bf5a97a09dd925ef527954364969",
+    "Size": 16893
+  },
+  "Data/Character/Glove/01082583.img": {
+    "Hash": "b3a030374942bd195be3e77add7ce3f11ba47c859e373178e8db1dcc2dd6f6c3",
+    "Size": 16220
+  },
+  "Data/Character/Glove/01082584.img": {
+    "Hash": "d5e6016c9470646ef498823ec92c122606b1f4bcc610d7921018e0d40128f740",
+    "Size": 29100
+  },
+  "Data/Character/Glove/01082585.img": {
+    "Hash": "935b702ec32a4ac97d09747c6c348bc078c7cd809dbf4c245dca7757ea8e9113",
+    "Size": 27832
+  },
+  "Data/Character/Glove/01082587.img": {
+    "Hash": "b2219757eaa5a8807951570747b79a80444dcc9940873886e161652e4851a7c8",
+    "Size": 32483
+  },
+  "Data/Character/Glove/01082588.img": {
+    "Hash": "812cb4eab53f5d7a914334c01a0217120d34e2a8c42d8f6b02d5d58fd4cafa13",
+    "Size": 22709
+  },
+  "Data/Character/Glove/01082589.img": {
+    "Hash": "46f53874d0493c1ac80e2964bac996a3e9347bd7ed3b993c32a498459c2d6779",
+    "Size": 26954
+  },
+  "Data/Character/Glove/01082590.img": {
+    "Hash": "80291f7acc4e6a9d8ee4f6c0e62461a4125d96b9551ce3908cda922b88c347c7",
+    "Size": 26971
+  },
+  "Data/Character/Glove/01082591.img": {
+    "Hash": "5c0122494fba3e38ef9f403b06055b6a49d9e87b09232a20e6a3df59469bd3ec",
+    "Size": 31560
+  },
+  "Data/Character/Glove/01082592.img": {
+    "Hash": "1b77e3c6765b29a411228ca8f19763727d5ef5c8725f7107fe4ad6e338b5d519",
+    "Size": 27460
+  },
+  "Data/Character/Glove/01082593.img": {
+    "Hash": "8a61551b58f15aa734cf4f50df693ddd0dd0ca288d19d730085b16dcb50009bf",
+    "Size": 32109
+  },
+  "Data/Character/Glove/01082594.img": {
+    "Hash": "8aa4aabe2bb2bf201bd69c23a887b1bfc279f6bccff9cc04f161d2a62749093a",
+    "Size": 32119
+  },
+  "Data/Character/Glove/01082595.img": {
+    "Hash": "e80a826df4f743d875a76a2fe90ca456c87165ab2e88a75cef32a12893f1057b",
+    "Size": 32109
+  },
+  "Data/Character/Glove/01082596.img": {
+    "Hash": "796e232b7b61a039aa19d4661335a8da3ef9a6e9d13374e95313095d75c61a5d",
+    "Size": 32109
+  },
+  "Data/Character/Glove/01082597.img": {
+    "Hash": "ca6850912a73355f94da3a4b53a31691a271f4bb53d982be5a2fa90ed25d3306",
+    "Size": 32105
+  },
+  "Data/Character/Glove/01082598.img": {
+    "Hash": "6024a555e966302d04cfb1793a867dbe1baf32a61b5b9837f6eac90d63e299da",
+    "Size": 53972
+  },
+  "Data/Character/Glove/01082599.img": {
+    "Hash": "42dbb76c748c43d2b888160bc272e1748cff1d9049eeef23740fd37e0123d3bd",
+    "Size": 32371
+  },
+  "Data/Character/Glove/01082600.img": {
+    "Hash": "989d001450cdf8af70cc20b2f4448478af81116b411575cafbaac6867332fd82",
+    "Size": 29968
+  },
+  "Data/Character/Glove/01082601.img": {
+    "Hash": "9af1b67ec4da3c8d039b448b2794f7ebe9400a9c689cca4ee7af44b1022a5085",
+    "Size": 32455
+  },
+  "Data/Character/Glove/01082602.img": {
+    "Hash": "ed5ba4a9e8a4d90541f5e624695db24b6b5583312831c6b7203b8018383fb407",
+    "Size": 30310
+  },
+  "Data/Character/Glove/01082603.img": {
+    "Hash": "3f398c026fc2f99aa3db12f3adf554879d15aedeb6119cd77a8e3b3fcdcf1006",
+    "Size": 28585
+  },
+  "Data/Character/Glove/01082604.img": {
+    "Hash": "e1becb09e50a7dd39a17b052ee25eee0834b9dfe8cb71e4d3b6e47342f0e58c3",
+    "Size": 28595
+  },
+  "Data/Character/Glove/01082605.img": {
+    "Hash": "35404d73ce60313bb62d7e7b4d278ce941673a79c6fb2e173fe0788a6f720565",
+    "Size": 28585
+  },
+  "Data/Character/Glove/01082606.img": {
+    "Hash": "5b5457ec61fcb7822753ffaeb9aa1217061d3c483b1fcee7b4fce0308b7eac3c",
+    "Size": 28585
+  },
+  "Data/Character/Glove/01082607.img": {
+    "Hash": "956350cabac56ad68a74e8eda2f2d4cc579a6b7b4286cb7f4e50487e9023c2db",
+    "Size": 28581
+  },
+  "Data/Character/Glove/01082608.img": {
+    "Hash": "e212ec614ea0fe24eb512dc8f084d26863b2b90fad51458e8291d55dea1720e0",
+    "Size": 27075
+  },
+  "Data/Character/Glove/01082609.img": {
+    "Hash": "21e326ef13c04415fbabfd654c20c52c00d1fff78e62081c9a828e674b5ecced",
+    "Size": 27075
+  },
+  "Data/Character/Glove/01082610.img": {
+    "Hash": "39acf205fce113ef284a38bbac0a6f261ecf601b7d8a979f06705bfc87affd49",
+    "Size": 27075
+  },
+  "Data/Character/Glove/01082611.img": {
+    "Hash": "e8058a0658a1bf123cbb23551069bd88c3a79d29701699fbc4c21c938058845f",
+    "Size": 27075
+  },
+  "Data/Character/Glove/01082612.img": {
+    "Hash": "dbd379c6aadeec3f179151c978a27cc074a522d7b5f302f3653f8ede4167ce67",
+    "Size": 27071
+  },
+  "Data/Character/Glove/01082613.img": {
+    "Hash": "4b0626e2c9125c1e9b5dd3f63de671a98e624e3f14493679b7046963521d2fb6",
+    "Size": 31282
+  },
+  "Data/Character/Glove/01082614.img": {
+    "Hash": "1adba1a9759995011a137259e41fca998852ded8eb28fb0838290445401a4ca4",
+    "Size": 31292
+  },
+  "Data/Character/Glove/01082615.img": {
+    "Hash": "0ea8c5a14533effc70473357fdb6b003798597e8582b46a4cf6bae87b45e590d",
+    "Size": 31282
+  },
+  "Data/Character/Glove/01082616.img": {
+    "Hash": "ed15049e1cee101038f5fb44a9410375fcb4d5770a9c3e55f9e4b5c96566b475",
+    "Size": 31282
+  },
+  "Data/Character/Glove/01082617.img": {
+    "Hash": "6a2b69755b27fb590ed6bd7fd3ec482af3bb6fea60b7c889175f86d77ad933e1",
+    "Size": 31288
+  },
+  "Data/Character/Glove/01082618.img": {
+    "Hash": "73502aa67f1b2abb841b389f46121e9ff12aab1865a42cdc3f21a365e310f2b1",
+    "Size": 36348
+  },
+  "Data/Character/Glove/01082619.img": {
+    "Hash": "812cb4eab53f5d7a914334c01a0217120d34e2a8c42d8f6b02d5d58fd4cafa13",
+    "Size": 22709
+  },
+  "Data/Character/Glove/01082620.img": {
+    "Hash": "ca3f70471291e853c5d1ee8a5a736ca04fcc9dc26b81d5a60ef0207cd8890182",
+    "Size": 23628
+  },
+  "Data/Character/Glove/01082623.img": {
+    "Hash": "b4bcf043ff6346a774b57e2d3b98b4a4e7356420fe5db89de1c1ad8738cc788a",
+    "Size": 21896
+  },
+  "Data/Character/Glove/01082624.img": {
+    "Hash": "44d72aeda5a184cfb373cf61bac9ef5aa971505a2501996fe9708fc3480310e7",
+    "Size": 15741
+  },
+  "Data/Character/Glove/01082625.img": {
+    "Hash": "0dcc6786d22153539cf347e2c32d65c4fe0e08a35dee3f7e260a66a36add906a",
+    "Size": 56679
+  },
+  "Data/Character/Glove/01082631.img": {
+    "Hash": "3f059fef1a7b8cdfdd1dda07a0628c7cd2c583a4463b2f124c831ca0befc463b",
+    "Size": 26492
+  },
+  "Data/Character/Glove/01082632.img": {
+    "Hash": "8b8ccc77be4b4b403b7da2aed0f0260cb701ddb68eebe61c87c3e0141682f82e",
+    "Size": 30801
+  },
+  "Data/Character/Glove/01082634.img": {
+    "Hash": "bb5af38cc12e5aeeef1ae848548d63ece1d871a903018f35031b82f651109696",
+    "Size": 32851
+  },
+  "Data/Character/Glove/01082636.img": {
+    "Hash": "3778904385f9731ae38565c0bd45b656a4394d172890a39799f70618fbc3b7e6",
+    "Size": 19649
+  },
+  "Data/Character/Glove/01082637.img": {
+    "Hash": "7d86438520b5317aad159269276db3f63ad6bb84bcf2dd6a66818a34386263e9",
+    "Size": 21202
+  },
+  "Data/Character/Glove/01082638.img": {
+    "Hash": "8d14e9db78843b6f95e9c51c1e1ddc632c489c8c0ac8e62adee4b52510f8b1e5",
+    "Size": 19642
+  },
+  "Data/Character/Glove/01082639.img": {
+    "Hash": "b1caf1e692a5ec6cc56b07545d804786a9be25bc46e41c7a333313ec976a8abf",
+    "Size": 19642
+  },
+  "Data/Character/Glove/01082640.img": {
+    "Hash": "cc3d89fae351f7bcba77cd31a288abf3282dd04babdd299d23cf919c341590c4",
+    "Size": 19638
+  },
+  "Data/Character/Glove/01082641.img": {
+    "Hash": "621094f38c3e3a89a8557880b17936cb958ce0e64026b05079d97bf4755a24fa",
+    "Size": 28068
+  },
+  "Data/Character/Glove/01082642.img": {
+    "Hash": "f30c41375eb491b63d5d1db172b7242b989f4f10e908c34a962a70c0266aeab7",
+    "Size": 33896
+  },
+  "Data/Character/Glove/01082644.img": {
+    "Hash": "e99122e5b0d98201351ef050e7319a45fb3a69b23f48e01ebdcdb2c0ab3fe76f",
+    "Size": 16876
+  },
+  "Data/Character/Glove/01082645.img": {
+    "Hash": "e99122e5b0d98201351ef050e7319a45fb3a69b23f48e01ebdcdb2c0ab3fe76f",
+    "Size": 16876
+  },
+  "Data/Character/Glove/01082647.img": {
+    "Hash": "8d2855867fe73e72a5d7fb756db2bbe55a97714c3d541effcaef7db32b936e30",
+    "Size": 18655
+  },
+  "Data/Character/Glove/01082648.img": {
+    "Hash": "a6b709fc1b65e8ed745588e2f69ed4a15ee1fec66a928fff0e1a52b26b810e1b",
+    "Size": 18156
+  },
+  "Data/Character/Glove/01082649.img": {
+    "Hash": "6b24f90cc6ce71b0a168ae4b1a53836d41ef3e7c344857ee8aacd54565fac99c",
+    "Size": 31153
+  },
+  "Data/Character/Glove/01082650.img": {
+    "Hash": "3c72f3fa61e0e611af911c761dca3da780057ad1e79e7c3adabe96b7c01f657a",
+    "Size": 31272
+  },
+  "Data/Character/Glove/01082651.img": {
+    "Hash": "8cd909cfc1d836ba491e3039938eb048a2104b4b4abd28ebaf4ec2bec20d5f19",
+    "Size": 30991
+  },
+  "Data/Character/Glove/01082652.img": {
+    "Hash": "09203eb62152c40c42d3cbdf16ebad13f667f0a7a5dabd3705903224c33cd958",
+    "Size": 31042
+  },
+  "Data/Character/Glove/01082653.img": {
+    "Hash": "bb3e72aa3bdfc9ad3c264948a05bd44f2d0a9a575a625ff684085bd15ebd4d93",
+    "Size": 27078
+  },
+  "Data/Character/Glove/01082654.img": {
+    "Hash": "6b757971a648b5bdf09fec86bf2d4fb52ced951bc5bb6a81ee48ef340eb038aa",
+    "Size": 26780
+  },
+  "Data/Character/Glove/01082655.img": {
+    "Hash": "1b9b0d6d1b9a49b3a42df6766c40ca48db06f5fde0a63cd4173d0b9ed85b07fe",
+    "Size": 26639
+  },
+  "Data/Character/Glove/01082656.img": {
+    "Hash": "49e9a264b8208b025bc55d7fbf17d04055ffe2eba381752752129b9fdf4b708b",
+    "Size": 14485
+  },
+  "Data/Character/Glove/01082657.img": {
+    "Hash": "1895874c252cce101c27bf15ceadd9c7e7d1ad22e9f99385f4a6abcb2ee5b7fc",
+    "Size": 38358
+  },
+  "Data/Character/Glove/01082658.img": {
+    "Hash": "4e357d964e490f533b33f4c4e28eb56a535a47858c3b310a134913284528e751",
+    "Size": 29966
+  },
+  "Data/Character/Glove/01082659.img": {
+    "Hash": "0d507d29e3ed55d1789eb25f0c08f170667b3a0f7fe894aa1ec326ea3bbcd61e",
+    "Size": 27995
+  },
+  "Data/Character/Glove/01082660.img": {
+    "Hash": "b6ae2ccc14ebc8b52bf7dda9b4dd106f32573df86901ffec8d07a55c8678ad4d",
+    "Size": 27888
+  },
+  "Data/Character/Glove/01082661.img": {
+    "Hash": "29f6b95d7edf0efe8c397d934a3fa7123352c30fa162ef0ffb57198175447ffe",
+    "Size": 26316
+  },
+  "Data/Character/Glove/01082662.img": {
+    "Hash": "669898398f595bd33577fd0e173c54dce097eccd482785dcc5ba41067b7129e1",
+    "Size": 26086
+  },
+  "Data/Character/Glove/01082664.img": {
+    "Hash": "d5677a3bb6a3594099c77e1ca7973eacd72bcada9ac317bed0c5de9317029c02",
+    "Size": 25626
+  },
+  "Data/Character/Glove/01082665.img": {
+    "Hash": "95ba7b12d1b77615e2a0a3dd07246807db07be9a940116a5a2f5b33ebd254a6c",
+    "Size": 20753
+  },
+  "Data/Character/Glove/01082666.img": {
+    "Hash": "91c5e29d8685255ad23e031f7b5839eaf3134d07bba88bbe0e24cfefc658eef3",
+    "Size": 26686
+  },
+  "Data/Character/Glove/01082667.img": {
+    "Hash": "e41fba6a60d09a9bbe3acaa408fed8f5769833e8ce33b10effe6e56073c55c6c",
+    "Size": 28644
+  },
+  "Data/Character/Glove/01082668.img": {
+    "Hash": "26e0024aa4be7baa69b65aad4bf8aeddbe28b9c5746d8f9580b903608b7fc77f",
+    "Size": 27573
+  },
+  "Data/Character/Glove/01082670.img": {
+    "Hash": "19b416f6e90eaf0bf65b0d5b0ce2f6b91ae19a3019dde9524978c457aeb29e1b",
+    "Size": 30940
+  },
+  "Data/Character/Glove/01082671.img": {
+    "Hash": "63f5125228367963bf73dfc083fc5cd687617a944377739e42ba353c9cd62f3e",
+    "Size": 14383
+  },
+  "Data/Character/Glove/01082672.img": {
+    "Hash": "5d285453da933e6c509d8bc9d4e7279ff25bc4973e1a01d11beda7181cb719ac",
+    "Size": 27171
+  },
+  "Data/Character/Glove/01082673.img": {
+    "Hash": "e5b91376bcfe99ff6d940a441ae7f5d07fa12bbd0b5007def4e0d2aa2aa8332e",
+    "Size": 31151
+  },
+  "Data/Character/Glove/01082674.img": {
+    "Hash": "aefe7d11fa323ec04f35b84c8d9e1ff53c36476b747ac8a23e0154d2d299fc88",
+    "Size": 27645
+  },
+  "Data/Character/Glove/01082675.img": {
+    "Hash": "1ca7ee3fa2b97d52e2710a0edd3fd539a252e1fdbf9a8bc3eeae74c647e04c22",
+    "Size": 31073
+  },
+  "Data/Character/Glove/01082676.img": {
+    "Hash": "aa188da8eeecb0436706bf8c68ead832be2f5e2da282fdecb50974741aa42482",
+    "Size": 33231
+  },
+  "Data/Character/Glove/01082677.img": {
+    "Hash": "c75a92c8854d48d818ba1d9b7fc02c782af733a35e25b38e010a2f32a63ab41c",
+    "Size": 27997
+  },
+  "Data/Character/Glove/01082678.img": {
+    "Hash": "661939af94915a19270bdb7013f395bf87bfd094ea8bedfd9c31e3c369e97f2d",
+    "Size": 30285
+  },
+  "Data/Character/Glove/01082679.img": {
+    "Hash": "73cebe498481d7c48af6e91275bb646cd828a583ef6c4c740f0486746ad7ccc5",
+    "Size": 37313
+  },
+  "Data/Character/Glove/01082680.img": {
+    "Hash": "1969a5e36a0f2fd7255ae87eb2d6aef35bc6d7973018e75a0a0b52687ab79439",
+    "Size": 36829
+  },
+  "Data/Character/Glove/01082681.img": {
+    "Hash": "c325d6fcd0f6799cf281764db60c8e50a7ea16841bbfd14b806da1339f3ac126",
+    "Size": 30243
+  },
+  "Data/Character/Glove/01082682.img": {
+    "Hash": "c497f4c065699225051462b8a01c3d7eaf1fdbc0505559f652ff296a1954479d",
+    "Size": 28588
+  },
+  "Data/Character/Glove/01082684.img": {
+    "Hash": "287f9bb89dd28807ab7de7742d4fe888ea46b4021c00f52854e6fc57951366d5",
+    "Size": 43377
+  },
+  "Data/Character/Glove/01082685.img": {
+    "Hash": "440abc545c7a6c03b2330e6c8c59d1946b7caef0adfbc3c2993c6d191a07e53e",
+    "Size": 17273
+  },
+  "Data/Character/Glove/01082686.img": {
+    "Hash": "6eaa9a1073031574690bea637571e260ac089dedd18dc31430edc648e2034f6c",
+    "Size": 26970
+  },
+  "Data/Character/Glove/01082687.img": {
+    "Hash": "6387a2d0883aebe0553be77ffd2a98ebe03290ed554ae7ab02d7dbfbfa1c4ecb",
+    "Size": 27016
+  },
+  "Data/Character/Glove/01082688.img": {
+    "Hash": "62a9ed06ebdf82e35e1cac072a3c228361f2d387c452fc45661e961ca69f0843",
+    "Size": 31590
+  },
+  "Data/Character/Glove/01082689.img": {
+    "Hash": "6740b8c6f7893c92b6f53b6bd8e59f79d6f0f685803a5c46b398036af1866868",
+    "Size": 43043
+  },
+  "Data/Character/Glove/01082690.img": {
+    "Hash": "c18cf4c95a6c49a6e19502c8ee073bc841624b3b171945714959176d1023929e",
+    "Size": 16147
+  },
+  "Data/Character/Glove/01082692.img": {
+    "Hash": "a5ef3921f6112673e716113fc71becfe7cde91ba737d798dc77db21e7d03948d",
+    "Size": 16022
+  },
+  "Data/Character/Glove/01082693.img": {
+    "Hash": "6c7e417b76b1a0c1bae43dd01284e6e90cd29484e3de94d0c814fb186a3a5c72",
+    "Size": 40422
+  },
+  "Data/Character/Glove/01082694.img": {
+    "Hash": "a45d8b9501476e8501b4ee5af38f875143a9e55c6f43d1b602ee5784697336a3",
+    "Size": 26423
+  },
+  "Data/Character/Glove/01082695.img": {
+    "Hash": "0be255e075e00be45b40ecaf48936bf91a65ebb84ed25dea65d453662a76b637",
+    "Size": 31181
+  },
+  "Data/Character/Glove/01082696.img": {
+    "Hash": "8c4eea9376558174c4e7b1fada827ede0fea6f5e8ed8dd8fe3ca385eb42f70df",
+    "Size": 31181
+  },
+  "Data/Character/Glove/01082697.img": {
+    "Hash": "635e33fa662a0dce819e5114a7a0b4ba958885b68f2f61a448cdd26542e0e68c",
+    "Size": 31181
+  },
+  "Data/Character/Glove/01082698.img": {
+    "Hash": "6922a5bdabf81b0fd0abd024ec48dbe772dbb5d21b99a08c8a726bc840b262c1",
+    "Size": 31181
+  },
+  "Data/Character/Glove/01082699.img": {
+    "Hash": "a9f464ac3f0a102fef8cfec32aedfc6de22c756653f43d8434eaff6d93b65424",
+    "Size": 31177
+  },
+  "Data/Character/Glove/01082700.img": {
+    "Hash": "0dc0ecb4cf997055296c5a92b5c8379114e62ec191d9dea436ab20e7cf24e22e",
+    "Size": 16713
+  },
+  "Data/Character/Glove/01082702.img": {
+    "Hash": "05880c5c00565655033448378c79edb9f5b88d2e4b2741ab0dda912f1fdc484a",
+    "Size": 39121
+  },
+  "Data/Character/Glove/01082703.img": {
+    "Hash": "40996c1547a12f6339e1824ef320711845ce43ac6efccfc6d1c2bd82d01e011c",
+    "Size": 39989
+  },
+  "Data/Character/Glove/01082704.img": {
+    "Hash": "1969a5e36a0f2fd7255ae87eb2d6aef35bc6d7973018e75a0a0b52687ab79439",
+    "Size": 36829
+  },
+  "Data/Character/Glove/01082705.img": {
+    "Hash": "73cebe498481d7c48af6e91275bb646cd828a583ef6c4c740f0486746ad7ccc5",
+    "Size": 37313
+  },
+  "Data/Character/Glove/01082706.img": {
+    "Hash": "a5ef3921f6112673e716113fc71becfe7cde91ba737d798dc77db21e7d03948d",
+    "Size": 16022
+  },
+  "Data/Character/Glove/01082712.img": {
+    "Hash": "b6b713e49090a435d21d5ee1a20cfa3b19347578392e7cdadd1cc9325650e5f2",
+    "Size": 32293
+  },
+  "Data/Character/Glove/01082713.img": {
+    "Hash": "d2c2328f7f47e864f08a5e79c1fafaa8d8739081540f7a68932ef496cb12a614",
+    "Size": 24740
+  },
+  "Data/Character/Glove/01082714.img": {
+    "Hash": "4ae9f48529f864e7cb6fe66e730dc2f41acdff5edaa06c895867128c8b64acfe",
+    "Size": 24918
+  },
+  "Data/Character/Glove/01082715.img": {
+    "Hash": "498f54d903df5deb60587102990b4588ef28c4b79a5b6abbeb6d108b8405eec2",
+    "Size": 43320
+  },
+  "Data/Character/Glove/01082716.img": {
+    "Hash": "e516b6bdc5f9caa195a4ae7a709fd21f16609c1349f8c982a3b14d1755627077",
+    "Size": 36519
+  },
+  "Data/Character/Glove/01082717.img": {
+    "Hash": "446526e6b713e3fa93e34f87d025b443247a531a354075ed1ffeb19261634ae6",
+    "Size": 29319
+  },
+  "Data/Character/Glove/01082718.img": {
+    "Hash": "66e99ba42fd059d0954505c10b5f2d3d2b6829b999d8ce7092fd432c7b11e9bf",
+    "Size": 30137
+  },
+  "Data/Character/Glove/01082719.img": {
+    "Hash": "b28c126c82e09de19bc13eba2a88b2fa10f5effa287210689f805508320021ee",
+    "Size": 21148
+  },
+  "Data/Character/Glove/01082721.img": {
+    "Hash": "be494ef021d1776ba229604e0b404792cd6ede437fb0ddd764882b551b5e5969",
+    "Size": 39947
+  },
+  "Data/Character/Glove/01082722.img": {
+    "Hash": "2073656b9699a806d75ff6ef715300cf4d7f776c61132c053b735de7512b5801",
+    "Size": 26950
+  },
+  "Data/Character/Glove/01082723.img": {
+    "Hash": "43713b1a42acf17a410afc76f980dd07dad46839ce289f0cb14fdf767fb97f02",
+    "Size": 87138
+  },
+  "Data/Character/Glove/01082726.img": {
+    "Hash": "556b4724306e878bf690fe78f2971770f54d86a360a54b29064fd7ea455c5e55",
+    "Size": 35119
+  },
+  "Data/Character/Glove/01082727.img": {
+    "Hash": "e12897f26c533c61247db1dcc5b5ee0e7ce175d9fe16fc2af87112d763529e9b",
+    "Size": 35122
+  },
+  "Data/Character/Glove/01082728.img": {
+    "Hash": "5f41f2f74cb88962bf042e912799438b99138c9fa93bf2d55878b6b780e6ee24",
+    "Size": 28421
+  },
+  "Data/Character/Glove/01082730.img": {
+    "Hash": "754060b9c0271e8a5a8273c0204a6cc2639db2dda6185de4ec6b047107dc1412",
+    "Size": 41420
+  },
+  "Data/Character/Glove/01082742.img": {
+    "Hash": "4e17d559cbcd1ae3df806e81e93c7c7feb1f41ed2b8a0e9cc14838a1f617bca4",
+    "Size": 38707
+  },
+  "Data/Character/Glove/01082743.img": {
+    "Hash": "8b0252e5a70bc6c0a00287892f2bde8e75f1b2fbfb0fb42bce4f959ea81b629f",
+    "Size": 30316
+  },
+  "Data/Character/Glove/01082744.img": {
+    "Hash": "693c9a698713030a0203287565cfd3cf85d25ebabc4f910d63cd3a5d2efc976a",
+    "Size": 18130
+  },
+  "Data/Character/Glove/01082750.img": {
+    "Hash": "e0800a3ebc647b23e5eb8d019e901eda6e8aa0726541a027093fbbc040ccd1dd",
+    "Size": 35671
+  },
+  "Data/Character/Glove/01082751.img": {
+    "Hash": "8c002d182bdd802d615c75f1099e332a78eb2723647cc60ea27ffc2c22ac0745",
+    "Size": 96723
+  },
+  "Data/Character/Glove/01082765.img": {
+    "Hash": "859dcd7c31566d827bf461cb63878e8b359e36b0ef170793990a0d81a4600a32",
+    "Size": 17920
+  },
+  "Data/Character/Glove/01082775.img": {
+    "Hash": "2949adac1cd927ced5b1144780ea2a3a60b8ff130a63b6a99a0cce9bd1a7613a",
+    "Size": 17460
+  },
+  "Data/Character/Glove/01082778.img": {
+    "Hash": "0b6232aee8c29ea3479d0a7e679ca23c0df704a1592d87ac2c640696bcda3685",
+    "Size": 27834
+  },
+  "Data/Character/Glove/01082779.img": {
+    "Hash": "0c20805416acaac9b7fcbd3a17755a10472afb1dbf0e3ef4ae5032d1c1e4ec97",
+    "Size": 7559
+  },
+  "Data/Character/Glove/01082782.img": {
+    "Hash": "3ec6d3c7c1ab0cb50e0b743155030fb62b4002d522f8438b5a98c954ddacb7bb",
+    "Size": 34569
+  },
+  "Data/Character/Glove/01082783.img": {
+    "Hash": "ab9b9fdd8300ddfb70c36f2ec0467bc028d00539e707e2ee6c0c705273389405",
+    "Size": 23456
+  },
+  "Data/Character/Glove/01082785.img": {
+    "Hash": "936c16dd276b166ee39f3ca847d7936f1b805281021e1d268f44346358d3b999",
+    "Size": 48934
+  },
+  "Data/Character/Glove/01082786.img": {
+    "Hash": "c5c9def24a3edc17e0ec6cc9d05af8a174e3abb3220c8cb9a36b4fc21eafc5df",
+    "Size": 42517
   },
   "Data/Character/Hair/00030000.img": {
     "Hash": "4bb0d859ae740df39e996c9ab5ae24d0b610c05d8a505f5f14bf10097bc582ad",
