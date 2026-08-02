@@ -15,6 +15,58 @@
     "Hash": "1be1e2446400dbaa362304ac4f08aafe1dc956898839bddc5b51db36e2f8d298",
     "Size": 1144
   },
+  "Data/Effect/BasicEff.img": {
+    "Hash": "d57184d382a8e5ac58e6e8bd9d32abe4b1b3286a123e065a2a4cf43b687be3d0",
+    "Size": 2840018
+  },
+  "Data/Effect/CharacterEff.img": {
+    "Hash": "05901797116cb558f569cfad0adf848cfb92d47d2fcad4d51e111e5b4645f758",
+    "Size": 79982
+  },
+  "Data/Effect/ItemEff.img": {
+    "Hash": "b30192f172cf25fedee490955603220a2b4bac9a22b395206041a5a809975f9e",
+    "Size": 102219609
+  },
+  "Data/Effect/ItemEffB.img": {
+    "Hash": "bf819742c7f8028ba7314c3527548b3513f2f8b6d90c95ca208121cd7a8fece5",
+    "Size": 94589674
+  },
+  "Data/Effect/MapEff.img": {
+    "Hash": "28279a5d7f54f47a1805ef32ef9a876ff3c1845aee997fa35a0011834a603b5a",
+    "Size": 81816
+  },
+  "Data/Effect/PetEff.img": {
+    "Hash": "f23669213f8511f95529ee938ca0893350069a92373754129b3e8c9bbf2bb527",
+    "Size": 1022129
+  },
+  "Data/Effect/SetEff.img": {
+    "Hash": "4696a7cbf0b0b4bd4aa54b8464ec280722fe001d90df30e6b26c25e42f7ba7a1",
+    "Size": 47128595
+  },
+  "Data/Effect/SkillName1.img": {
+    "Hash": "a5163dc99fa466d8fb7437f3ac9bff1babbd404aab338d8e22e802793540de0d",
+    "Size": 30630
+  },
+  "Data/Effect/SkillName2.img": {
+    "Hash": "da03b1babe799cbd16f1e453f1878f844addb85c2e0c35772bacc5caa63695d9",
+    "Size": 28411
+  },
+  "Data/Effect/SkillName3.img": {
+    "Hash": "791937ce3542667cbb1ac0922b451d6f8144f367e03bcf7f7216f7c79820493a",
+    "Size": 22381
+  },
+  "Data/Effect/SkillName4.img": {
+    "Hash": "12d4c2121fdddfdf9a334be7c9ef73e445c90c78a250176fb53a352f082e6521",
+    "Size": 20440
+  },
+  "Data/Effect/Summon.img": {
+    "Hash": "02857072b075ab0aa7d7032e1f188f94a4aabe96475b9fcea21662f1e737dcf0",
+    "Size": 1411298
+  },
+  "Data/Effect/Tomb.img": {
+    "Hash": "2037b57630394a1d1de5f85d994dbea38561abdabcbc05e8ff8e37409b923180",
+    "Size": 20938
+  },
   "Data/Etc/BlockReason.img": {
     "Hash": "aa1feee40520d68d7c7d08e6eb5058da03d2d66dc08081d6377216ed2b6f495c",
     "Size": 1684
@@ -250,6 +302,102 @@
   "Data/Map/Map/Map1/123456789.img": {
     "Hash": "8fe04cc3e198b86f6626fdeb45ca4c1d67cf6e044cf9bd3eb2a3cc9574ef02c1",
     "Size": 72773
+  },
+  "Data/Morph/0001.img": {
+    "Hash": "82895e12236c5d2322ac4e7078703abc60211c8342cfb0cd9031ab241ef597cc",
+    "Size": 24305
+  },
+  "Data/Morph/0002.img": {
+    "Hash": "40c6a0cfcd124f4ca159395ead8795de062e393a5dfc581533557fe80043fcf1",
+    "Size": 23275
+  },
+  "Data/Morph/0003.img": {
+    "Hash": "059f7bb3f1eb6fbbf7c79f4061c1eb401d5779cac36329c02ce2912fd3adac70",
+    "Size": 28175
+  },
+  "Data/Morph/0004.img": {
+    "Hash": "c34154d50635ae58913aedce6f8adb29cb85710243719fbae284beb581d5508e",
+    "Size": 44896
+  },
+  "Data/Morph/0006.img": {
+    "Hash": "059d724687b111bbbbc15426d5bd4e388d3583a52021da430cf6b45b9d3dd86c",
+    "Size": 40524
+  },
+  "Data/Morph/0007.img": {
+    "Hash": "1b772a9583f4d17a79525af2bdefed78fc8bf1193ec1462f123125eb704a7911",
+    "Size": 10622
+  },
+  "Data/Morph/0008.img": {
+    "Hash": "1ff9472b2615d7c84bbbea2eb67f8e6422aabe3964868e6280d01c84a569e641",
+    "Size": 11253
+  },
+  "Data/Morph/0009.img": {
+    "Hash": "9eec741fe93e6885b3e54c55318325ad4a6abaf8d74854394b280eb712818977",
+    "Size": 26314
+  },
+  "Data/Morph/0010.img": {
+    "Hash": "8de2aaf2bf8279dfb881e692bb92c5248729e09094e91d8fdd6aa0db9d1d0f28",
+    "Size": 253883
+  },
+  "Data/Morph/0011.img": {
+    "Hash": "f795e2936f82e2fd6c93931ae57f2133d7648f454dd99e66ace4770853acde38",
+    "Size": 259239
+  },
+  "Data/Morph/0012.img": {
+    "Hash": "ff165d6d1011def2a0e60bf8845aa83c9e0f10eff8123c3a51c459fe2b21663d",
+    "Size": 11255
+  },
+  "Data/Morph/0016.img": {
+    "Hash": "f539bcbcd422c55aa17e159e406c094400d5863a909caa35cb41af284d71cab6",
+    "Size": 46748
+  },
+  "Data/Morph/0017.img": {
+    "Hash": "8e14fce74fbec6d89d8a94d695f659d2ca583b64b58991361067d329e67149bc",
+    "Size": 98476
+  },
+  "Data/Morph/0018.img": {
+    "Hash": "10f76c1a9c04b7d7a613999dbbf9fafb103d7191d97d1260d82b1c6e973f5aed",
+    "Size": 19856
+  },
+  "Data/Morph/0021.img": {
+    "Hash": "d34fd240ede71725f2576f96414aa1662e0edc7bf7441f43d563198c01133d7e",
+    "Size": 1167
+  },
+  "Data/Morph/0022.img": {
+    "Hash": "ed0e88b64196fc6da0ba4bbadccc40d4b4f9ee78d55e7f2c4f526277571d86d4",
+    "Size": 23318
+  },
+  "Data/Morph/1000.img": {
+    "Hash": "fef4d70dd4c8251cb676003f1119e9ccae6ebcce5b376909d034c8679d8e1c8d",
+    "Size": 636967
+  },
+  "Data/Morph/1001.img": {
+    "Hash": "eb9ba5886b61e425966a168cae6ae19caf939a16c104455869630643a33761c2",
+    "Size": 746497
+  },
+  "Data/Morph/1002.img": {
+    "Hash": "8e767d3700302748e3a163b18e58799f3a7e5bc02f8827b8e34c218ec782f4f4",
+    "Size": 39092
+  },
+  "Data/Morph/1003.img": {
+    "Hash": "9006b475685df2b814a8161273fb84e4151573801339d022df43ae69033028ff",
+    "Size": 1863911
+  },
+  "Data/Morph/1004.img": {
+    "Hash": "3f7f071ffcb511dada96498b7da5f7ff01c3a76d93cfacb296f0964267920203",
+    "Size": 1863911
+  },
+  "Data/Morph/1100.img": {
+    "Hash": "8f364aa9b89e45460eec6c421220b091192509a7ae592a91318aa573295ac6e2",
+    "Size": 646515
+  },
+  "Data/Morph/1101.img": {
+    "Hash": "a1273531b0a131a0ede6cec268cc917f34503ba38485b0d6e27de63b450be67c",
+    "Size": 741620
+  },
+  "Data/Morph/1103.img": {
+    "Hash": "20d8c3cd32c0d533138c5a4e9c5b0452249266556421b8210eacc490dd6fe234",
+    "Size": 1863911
   },
   "Data/String/Cash.img": {
     "Hash": "4d668244da37240f00b0bd00edc6f31a626ec69314179d8ac5fce7cfd5f41005",
