@@ -176644,7 +176644,7 @@
     "Size": 20044
   },
   "Data/Character/Weapon/01302071.img": {
-    "Hash": "abb26073f267ee498730ce3852c72c0c579e6f5207480c00eae9279914018a35",
+    "Hash": "974f061ecd91e83fd402f5d105e0e93a253f515fd4dba996e60a6bd99bb28853",
     "Size": 36450
   },
   "Data/Character/Weapon/01302072.img": {
@@ -177783,6 +177783,10 @@
     "Hash": "1867737eca74488fd4640e13f7a9700cb52acd54bf0572d726e49d3103db49e4",
     "Size": 18886
   },
+  "Data/Character/Weapon/01312034.img": {
+    "Hash": "e08ba787d9ec6b67287b1b8fee8a3f7312b6f5504756c9cee817375f64d7a171",
+    "Size": 36450
+  },
   "Data/Character/Weapon/01312035.img": {
     "Hash": "f65d8b3b420f085f3d9f8c05da68b180b418970bdd6cfef60cd0662dc0eb307d",
     "Size": 41953
@@ -178574,6 +178578,10 @@
   "Data/Character/Weapon/01322054.img": {
     "Hash": "85d7b1fa98c7380e912fb7f35438b7d859fd1fbbcbb416e762d9bd63c7ca929e",
     "Size": 21335
+  },
+  "Data/Character/Weapon/01322056.img": {
+    "Hash": "b09fb8dc07983c3de0f3c4ed564b564722fb02bfa2754b3ed82ec1f0b8da2c49",
+    "Size": 36482
   },
   "Data/Character/Weapon/01322057.img": {
     "Hash": "e56fce34105fed20d12364750bf3435948283e22e9b464fbaa558973e32f986d",
@@ -179454,6 +179462,10 @@
   "Data/Character/Weapon/01332056.img": {
     "Hash": "7b56607642c68228a1a455add4c2594d6ebb1621ea305b6cc48f2ad132c52918",
     "Size": 12408
+  },
+  "Data/Character/Weapon/01332059.img": {
+    "Hash": "dae55b7d00874899249c2e38f6e682a9b7b8330d4907c35fb5794d58d6580416",
+    "Size": 35060
   },
   "Data/Character/Weapon/01332060.img": {
     "Hash": "4641a3a349960dbf61e48b33fe19856ad35cb956506424fa829954bba9a512e0",
@@ -182591,6 +182603,10 @@
     "Hash": "a1c7d2887692219ebea3797bb140662906479d4f93e9cc3e10f1a80df93c6dc3",
     "Size": 22168
   },
+  "Data/Character/Weapon/01382042.img": {
+    "Hash": "320d93170602f3d3d721058df2d4c6775ac4ab551e8a43db761fe9185c0e8537",
+    "Size": 32918
+  },
   "Data/Character/Weapon/01382043.img": {
     "Hash": "861e62e49ad111f3fa394b104137e4955712f249c235077ae88bb017b643bfdc",
     "Size": 39776
@@ -183523,6 +183539,10 @@
     "Hash": "78b871b8c67ca67cbc69d527ea7a03bbe81ba4f9f4f7fc67a3e041a0d3a52365",
     "Size": 22094
   },
+  "Data/Character/Weapon/01402041.img": {
+    "Hash": "72aca4ad23274835c05a1bbe0ee8482ab94b755b9dcff0ed0a6bfbb6e98d61be",
+    "Size": 34681
+  },
   "Data/Character/Weapon/01402042.img": {
     "Hash": "542d8c8780e295e2197ce3d0f3b48f96cb7067dbf15ae3f37e2b5a23336f2767",
     "Size": 43534
@@ -184391,6 +184411,10 @@
     "Hash": "7cdb44728f34a9b5cdff580a33c2d4d531e316a7dde7eaf2751cf41f8bfd16dc",
     "Size": 28778
   },
+  "Data/Character/Weapon/01412029.img": {
+    "Hash": "20bd7163b0a41d45374010f6fa08bdb2d8479efdf66c36ffc2ca02ff3531656c",
+    "Size": 34893
+  },
   "Data/Character/Weapon/01412030.img": {
     "Hash": "cab6d078040c32f239560b019f4249231c263b93f3ccb5ce1ba65fe6e1da379b",
     "Size": 44380
@@ -185030,6 +185054,10 @@
   "Data/Character/Weapon/01422031.img": {
     "Hash": "f97454e5080da4bfecf822d58c2471e2574937d1edce1d6620944b9d498d0d49",
     "Size": 23857
+  },
+  "Data/Character/Weapon/01422033.img": {
+    "Hash": "7f917478716b759a5ddb07abc768d90e2fad878d3731744afff55f0034629997",
+    "Size": 37642
   },
   "Data/Character/Weapon/01422034.img": {
     "Hash": "335906456a787871798cbcaa0e70ba4fa89cebcf799c3707731aaf1b5047c7de",
@@ -185702,6 +185730,10 @@
   "Data/Character/Weapon/01432040.img": {
     "Hash": "4f64ace5b82293632aa017aa02502e951ed33c1cc57a0c1b2f42b614870c8523",
     "Size": 26967
+  },
+  "Data/Character/Weapon/01432042.img": {
+    "Hash": "1851057fce95fb36a04676da7f6a4ad7dc2ce15f90535f89450c39dfe5304694",
+    "Size": 39560
   },
   "Data/Character/Weapon/01432043.img": {
     "Hash": "30213383495e19c1c5f79c11c86f38d5538ac1d160d74b977074799a8b297984",
@@ -186478,6 +186510,10 @@
   "Data/Character/Weapon/01442051.img": {
     "Hash": "f3a6ecf318c78737adde2d29f43758c42d417ea75ee9e3b3e2221836369715c9",
     "Size": 29683
+  },
+  "Data/Character/Weapon/01442053.img": {
+    "Hash": "bed1add6049c29e1191c0ba75e286c983d23dc26742b5e0c7f004e640ed615c7",
+    "Size": 36822
   },
   "Data/Character/Weapon/01442058.img": {
     "Hash": "51227c7fc5137bfd6c124066ec3b7c03619cc022f04c34dc7f4b6fc83380491d",
@@ -187375,6 +187411,10 @@
     "Hash": "e9d2db2c8f6726badfde46c96b9456e94c5fa7a00ea74b36315c6db7ab0b0191",
     "Size": 19577
   },
+  "Data/Character/Weapon/01452048.img": {
+    "Hash": "bb5f585bc1956bdc0a4d7d9054df4247157d86b1fa8f7ce548d20d76196c805d",
+    "Size": 21560
+  },
   "Data/Character/Weapon/01452049.img": {
     "Hash": "2ab8976b26ae98c79ea749a808a06a7e3761a407daecc081acc65fcf0f5e236f",
     "Size": 32594
@@ -188234,6 +188274,10 @@
   "Data/Character/Weapon/01462040.img": {
     "Hash": "305581a64d2002d145454e28787b524e069c11231fcbe45c91cd2093c16ef72c",
     "Size": 15780
+  },
+  "Data/Character/Weapon/01462043.img": {
+    "Hash": "da5fbb66fb7e64a0cd0178cc43bfb30386f471a0cefb1a641f3ccfc3e1d13b8c",
+    "Size": 25414
   },
   "Data/Character/Weapon/01462044.img": {
     "Hash": "f74cc078db4dcdaa4772e5f2ee7901385f998204dbf40433132585cb672bdeb6",
@@ -189135,6 +189179,10 @@
     "Hash": "62fab86249727583d6316966c567b2749fdcb37b290b3a4a5ebc7f42d36e8dad",
     "Size": 13401
   },
+  "Data/Character/Weapon/01472058.img": {
+    "Hash": "685025bdcafc6199b82a53954987287b82aec426123940d4a863f1f43d02a823",
+    "Size": 32752
+  },
   "Data/Character/Weapon/01472059.img": {
     "Hash": "d8745cae73e3c33e1c74ba50c49eabcfbcc3f9f852ac65eec3db45950795d8c3",
     "Size": 41963
@@ -189963,6 +190011,10 @@
     "Hash": "99032a740f4902b42dc6bc6e75a49532cb58e233e4ad50b8dae6517f05965aee",
     "Size": 19627
   },
+  "Data/Character/Weapon/01482025.img": {
+    "Hash": "4a1da46b860dac0d94b55fbcda5b509552d3e5092091bc87e038ad3a4e815b51",
+    "Size": 39323
+  },
   "Data/Character/Weapon/01482026.img": {
     "Hash": "7bcb80cf673e62ce0c9ff1d72911bb4f5ba329bb977aed625d6f59db6b922e6f",
     "Size": 19645
@@ -190694,6 +190746,10 @@
   "Data/Character/Weapon/01492025.img": {
     "Hash": "40f8465af4fd7fe457056d19f94bb398b75aa9fe2d89a0646162c8d5e9f922c3",
     "Size": 13424
+  },
+  "Data/Character/Weapon/01492026.img": {
+    "Hash": "4514f4237759c7b5259bc4a5b307366b5b0adcb883d9f95864591fb4ae1cfbeb",
+    "Size": 37890
   },
   "Data/Character/Weapon/01492027.img": {
     "Hash": "4b8fa78e2751c0fa6ba5e9a7ae061f7989898459cf42e83f2a8ef7b79245a55d",
@@ -272968,8 +273024,8 @@
     "Size": 293873
   },
   "Data/String/Eqp.img": {
-    "Hash": "608a513172fcc623600ee1ecfc8984f1da7ea4a8a6e266a94e170a9a9c336dd4",
-    "Size": 1662699
+    "Hash": "b6d4dbe630e3da6c5286f3c4a74b3e79e8ee7450a0d76baa154e28747e600854",
+    "Size": 1663110
   },
   "Data/String/Etc.img": {
     "Hash": "40ea7d7b5b25cdc96470c48b6faaf2c574b88a36912f0b4d813edf302d276b83",
