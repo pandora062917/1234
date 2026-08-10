@@ -213979,6 +213979,10 @@
     "Hash": "b8f1c5132a7d720d471e2716939d71e1982de953645b500e573480d017816552",
     "Size": 21252
   },
+  "Data/Map/Map/Map4/400000000.img": {
+    "Hash": "4a93e53dd3cd59662ce412d3a1a7b6c7fe979a055f8e153f69a83b5e405efeb2",
+    "Size": 6459
+  },
   "Data/Map/Map/Map4/450004451.img": {
     "Hash": "c717167a607dda7bfd66942eda5544000e4c4d935a4ebc5dc395f68490152151",
     "Size": 7561
@@ -236530,6 +236534,10 @@
   "Data/Mob/9300396.img": {
     "Hash": "80c74774b1027b0438bd294a7e242ac6d6862f118c5bc72299d4749f6dd02edd",
     "Size": 117219
+  },
+  "Data/Mob/9300800.img": {
+    "Hash": "aaa68aaac4dd99db294e521202698bf985c5418849b87e9a3bbb4737cd891790",
+    "Size": 3857
   },
   "Data/Mob/9300890.img": {
     "Hash": "3d8492acd5a814267c21c728b3b83578082ae084deb698b55dbfa5e49ba0ed1a",
@@ -273040,7 +273048,7 @@
     "Size": 293579
   },
   "Data/String/Mob.img": {
-    "Hash": "8fc0c09ae85ad8d9f0e04deb36df9cad123139a4dec73826cfdd59a66d19544c",
+    "Hash": "388acce7f102c4dde572a55771ca05c686575fbd4d880cda7d3c034032a3845c",
     "Size": 259260
   },
   "Data/String/MonsterBook.img": {
